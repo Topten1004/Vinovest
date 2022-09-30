@@ -46,7 +46,7 @@
         "dotenv": "8.2.0",
         "dotenv-expand": "5.1.0",
         "facepaint": "^1.2.1",
-        "fast-text-encoding": "^1.0.2",
+        "fast-text-encoding": "^1.0.6",
         "final-form": "^4.18.6",
         "formik": "^2.2.9",
         "history": "^4",
