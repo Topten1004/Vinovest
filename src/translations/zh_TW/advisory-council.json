@@ -1,0 +1,37 @@
+{
+    "advisors": {
+        "dlynn-proctor": {
+            "name": "DLynn 普羅克特",
+            "position": "FANTESCA 莊園和酒廠總監"
+        },
+        "dustin-wilson": {
+            "name": "達斯汀·威爾遜",
+            "position": "侍酒大師"
+        },
+        "jane-lopes": {
+            "name": "簡·洛佩斯",
+            "position": "ATTICA 的葡萄酒總監"
+        },
+        "jennifer-grancio": {
+            "name": "詹妮弗·格蘭西奧",
+            "position": "顧問"
+        },
+        "jonathan-ross-ms": {
+            "name": "喬納森·羅斯女士",
+            "position": "侍酒大師"
+        },
+        "yuan-jing": {
+            "name": "袁靜",
+            "position": "Chateau Pichon Baron 亞洲銷售總監"
+        }
+    },
+    "head-meta": {
+        "description": "認識 Vinovest 委員會團隊——一個多元化的葡萄酒專家團隊，從經驗豐富的釀酒師到著名的侍酒師大師。",
+        "title": "葡萄酒諮詢委員會 |葡萄酒 |葡萄酒投資"
+    },
+    "head": {
+        "description": "從第五代釀酒師到三間米其林星級餐廳的飲料總監，再到世界知名的侍酒師，我們很自豪能有這個令人難以置信的多元化團隊加入我們的 Vinovest 之旅。",
+        "title": "接觸來自葡萄酒行業各個方面的優秀人才",
+        "topSmallTitle": "VINOVEST 理事會"
+    }
+}

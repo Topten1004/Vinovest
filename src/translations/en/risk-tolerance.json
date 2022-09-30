@@ -1,0 +1,106 @@
+{
+    "button_cancel": "Cancel",
+    "button_save": "Save",
+    "buttons": {
+        "continue": "Continue",
+        "next": "Next"
+    },
+    "error_post": "Unable to update your information at this time.",
+    "form": {
+        "notice": "Note: Your investment plan determines the blend of investments your money is allocated to. It will only affect future investments and will not re-balance your current positions."
+    },
+    "minimum_capital": {
+        "currency": "{{ currencySymbol }}{{ amount }}",
+        "grandcru": "(Grand Cru Plan)",
+        "minimum": "(Account minimum)",
+        "premium": "(Premium Plan)",
+        "title": "How much are you planning on investing?"
+    },
+    "phoneQuiz": {
+        "continue": "Continue",
+        "errorFromResponse": "Unable to accept your phone number at this time.",
+        "invalidPhone": "Invalid phone number",
+        "placeholder": "Enter phone number",
+        "title": "Enter your phone number"
+    },
+    "plans": {
+        "aggressive": [
+            "Are looking for a fine wine portfolio with target allocation toward high-growth wine regions",
+            "Have a medium to long-term timeline ",
+            "Have had experience investing another alternative asset classes"
+        ],
+        "aggressive_investing": "Aggressive Investing",
+        "balanced": [
+            "Are looking for a fine wine portfolio with maximum diversification",
+            "Have a medium to long-term timeline ",
+            "May be newer to investing outside the stock market"
+        ],
+        "balanced_investing": "Balanced Investing",
+        "conservative": [
+            "Are looking for a fine wine portfolio optimizing for downside protection",
+            "Have a long-term timeline",
+            "Want a globally diversified portfolio of wines with a proven historical track record"
+        ],
+        "conservative_investing": "Conservative Investing",
+        "your-portfolio": {
+            "great": "Great if you...",
+            "label": "Here's your custom plan",
+            "next-button": "Next"
+        }
+    },
+    "quiz": {
+        "of": "OF",
+        "options": {
+            "question-options": [
+                {
+                    "name": "investingStyle",
+                    "options": [
+                        "Conservative",
+                        "Moderate",
+                        "Aggressive"
+                    ],
+                    "text": "How would you describe your investing style?"
+                },
+                {
+                    "multiple": "1",
+                    "name": "goalsWithVinovest",
+                    "options": [
+                        "Earn higher risk-adjusted returns than my other investments",
+                        "Diversify into alternative asset classes",
+                        "Invest in something that I am passionate about"
+                    ],
+                    "text": "What is your primary motivation for joining Vinovest?"
+                },
+                {
+                    "name": "anticipatedCashAccess",
+                    "options": [
+                        "Less than 3 years",
+                        "Between 3 and 7 years",
+                        "More than 7 years"
+                    ],
+                    "text": "When do you anticipate needing access to cash from your wine purchase?"
+                }
+            ],
+            "question1": [
+                "Conservative",
+                "Moderate",
+                "Aggressive"
+            ],
+            "question2": [
+                "Earn higher risk-adjusted returns than my other investments",
+                "Diversify into alternative asset classes",
+                "Invest in something that I am passionate about"
+            ],
+            "question3": [
+                "Less than 3 years",
+                "Between 3 and 7 years",
+                "More than 7 years"
+            ]
+        },
+        "question": "QUESTION"
+    },
+    "your_portfolio": {
+        "plan_subtitle": "Great if you...",
+        "plan_title": "Here's your custom plan"
+    }
+}

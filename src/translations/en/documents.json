@@ -1,0 +1,23 @@
+{
+    "documents": "Documents",
+    "empty": {
+        "button": "fund your account",
+        "title": "You don't have any documents yet."
+    },
+    "empty_button": "fund your account",
+    "empty_title": "You don't have any documents yet.",
+    "error": "There was an issue fetching your {{ document }}. Please try again or chat with us here 👉",
+    "error_options": {
+        "account_statement": "account statement",
+        "account_statements": "account statements",
+        "available_month": "available month options"
+    },
+    "issued": "Date Issued",
+    "listTitle": "TITLE",
+    "list_title": "TITLE",
+    "loadmore": "Load more",
+    "mobileStatements": "Statements",
+    "mobile_statements": "Statements",
+    "statement": "Account Statement",
+    "statements": "Account Statements"
+}

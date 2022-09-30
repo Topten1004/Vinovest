@@ -1,0 +1,212 @@
+{
+    "account_auto_invest": {
+        "subtitle": "查看账单记录并管理自动投资",
+        "title": "管理自动投资"
+    },
+    "account_email": {
+        "email": "电子邮箱地址",
+        "error_invalid_email": "电子邮箱地址无效",
+        "label_email": "电子邮箱地址",
+        "notice": "Vinovest会通过此电子邮箱地址向您发送有关您帐户状态的重要信息，因此请输入您最近常使用的电子邮箱地址。",
+        "placeholder_email": "例如：example@email.com",
+        "required": "请输入电子邮箱（必填）",
+        "updated": "您的电子邮箱地址已更新"
+    },
+    "account_investment_plan": {
+        "notice": "请知悉：您的投资计划决定了您的投资资金被分配的比例，但这只会对您未来的投资产生影响，而不会对您当前的组合价值进行重新平衡。",
+        "title": "投资计划",
+        "updated": "您的投资计划已更新"
+    },
+    "account_mobile": {
+        "error_invalid": "电话号码无效",
+        "label": "电话号码",
+        "placeholder": "请输入电话号码",
+        "required": "请输入电话号码（必填）",
+        "success_updated": "您的电话号码已更新",
+        "title": "手机号码"
+    },
+    "account_personal_information": {
+        "description_address": "这应该是用于税收目的的地址。",
+        "label_address": "详细地址",
+        "label_city": "市",
+        "label_country": "国家",
+        "label_first": "名",
+        "label_fullname": "全名",
+        "label_last": "姓",
+        "label_state": "州",
+        "label_zip": "邮编",
+        "placeholder_address": "例如：某大街123号",
+        "placeholder_city": "例如：旧金山",
+        "placeholder_first": "例如：约翰",
+        "placeholder_last": "例如：史密斯",
+        "placeholder_zip": "例如：90103",
+        "success": "您的个人信息已更新",
+        "title": "个人信息"
+    },
+    "account_settings": {
+        "auto_invest": "自动投资",
+        "sell_wine": "出售您的葡萄酒"
+    },
+    "accountsettings": {
+        "sell": "出售您的葡萄酒"
+    },
+    "button_cancel": "取消",
+    "button_save": "保存",
+    "disclaimer": "您的所有信息都已获得安全保护。我们绝不会将与您相关的数据发送给营销服务提供商或者向您发送垃圾邮件",
+    "error_generic": "出现故障",
+    "error_post": "暂时无法更新您的信息。",
+    "estimator": {
+        "description": "如果您在10年前就已进行投资，那么您的投资组合在今日将会价值：",
+        "description_point_1": "低风险偏好",
+        "description_point_2": "中等风险偏好",
+        "description_point_3": "高风险偏好",
+        "discliamer": "历史表现数据是基于可用的公共及个人的销售数据所得",
+        "label_point_1": "保守型",
+        "label_point_2": "稳健型",
+        "label_point_3": "进取型"
+    },
+    "grand_cru": "至尊会员",
+    "main": {
+        "account": "帐户",
+        "logout": "登出",
+        "user_settings": "用户设置"
+    },
+    "myaccount": {
+        "edit": "编辑",
+        "editbutton": "编辑"
+    },
+    "nav": {
+        "step_one": "创建帐户",
+        "step_three": "基金账户",
+        "step_two": "投资者简介"
+    },
+    "not_provided": "尚未提供",
+    "onboard": {
+        "button_create": "创建帐户",
+        "create_account_title": "创建帐户",
+        "error_create_account": "目前无法创建帐户，请联系客户支持以寻求帮助。",
+        "error_email": "请输入电子邮箱地址（必填）",
+        "error_email_invalid": "电子邮箱地址无效",
+        "error_firstName": "请输入名字（必填）",
+        "error_lastName": "请输入姓氏（必填）",
+        "error_password": "请输入密码（必填）",
+        "error_password_email_new_user": "由于所输入的电子邮箱地址或密码无效，因此无法进行新用户注册。请使用未曾在Vinovest注册过的电子邮箱地址进行注册，并设置符合标准的密码。",
+        "error_primaryPhone": "请输入电话号码（必填）",
+        "error_starting_investment": "请输入投资金额",
+        "error_timeframe": "请输入投资期限",
+        "label_referal": "您是如何知道Vinovest的？(可选)",
+        "placeholder_referal": "单选",
+        "referal_option_1": "广播（AM、FM、XM等）",
+        "referal_option_10": "其他",
+        "referal_option_2": "电视",
+        "referal_option_3": "搜索引擎",
+        "referal_option_4": "朋友\/他人推荐",
+        "referal_option_5": "社交媒体",
+        "referal_option_6": "播客",
+        "referal_option_7": "广告牌",
+        "referal_option_8": "电子邮箱",
+        "referal_option_9": "联属机构"
+    },
+    "password": {
+        "button_cancel": "取消",
+        "button_change": "更改",
+        "current_password": "当前密码不正确。若要更新密码，请先输入正确的当前密码。",
+        "error_and": "和",
+        "error_at_least": "至少",
+        "error_characters": "密码应至少包含8个字符",
+        "error_confirm_password": "请确认密码（必填）",
+        "error_new_required": "请输入新密码（必填）",
+        "error_number": "密码应至少包含1个数字",
+        "error_old_password": "请输入您的旧密码（必填）",
+        "error_special": "密码应至少包含1个特殊字符",
+        "error_upper": "密码应至少包含1个大写字符",
+        "label_confirm_password": "请确认新密码",
+        "label_current_password": "当前密码",
+        "label_new_password": "新密码",
+        "match": "密码不匹配。",
+        "notice": "要更改密码，请先输入当前密码，然后使用以下表单创建新密码。",
+        "password_requirements": "至少8个字符，并且必须包含1个数字、1个大写字母和1个特殊字符",
+        "required_criteria": "输入的密码不符合标准。",
+        "retype_password": "请再次输入您的新密码。",
+        "success_update": "您的密码已更新。",
+        "title": "密码"
+    },
+    "premium": "特级会员",
+    "profile": {
+        "button_complete": "结束",
+        "investor_title": "投资者简介",
+        "label_cash_access": "您预计的投资时间是？",
+        "label_starting_investment": "您预计第一年的投资金额是？",
+        "option_1": "立即",
+        "option_2": "一个月内",
+        "option_3": "尚不确定"
+    },
+    "sell_your_wine": {
+        "description": {
+            "description": "该过程完成需要2-4周，请耐心等待。",
+            "paragraph1": "如果您选择在建议的卖出时间窗口之前提前卖出，请注意您可能不会做出最具战略性的投资决定。在投资的前三年内进行销售在两个关键方面是有害的：",
+            "paragraph2": "1. 您仍处于被收取加工费的窗口期。",
+            "paragraph3": "2. 您在您的投资组合中的葡萄酒的理想销售窗口之外进行销售。",
+            "paragraph4": "历史数据显示，最强劲的回报是在 5 到 20 年的时间范围内实现的。",
+            "portfolio_sold": "我们已收到您出售全部葡萄酒的申请。",
+            "sell_portfolio": "如果您想清算和\/或提取资金，请点击以下按钮。"
+        },
+        "liquidation": {
+            "full": "我们已收到您出售全部葡萄酒的申请。",
+            "neither": "如果您想清算和\/或提取资金，请点击以下按钮。",
+            "partial": "我们已收到您出售部分葡萄酒的申请。"
+        },
+        "sell_button": {
+            "disabled": "出售您的葡萄酒",
+            "enabled": "进行中"
+        },
+        "support": {
+            "notsold": "如有任何疑问，请查看我们的",
+            "notsold_email_message": "客户支持页面",
+            "sold": "如有任何疑问，请",
+            "sold_email_message": "联系我们的客户支持团队"
+        }
+    },
+    "sellyourwine": {
+        "description": {
+            "description": "该过程完成需要2-4周，请耐心等待。",
+            "portfolio-sold": "我们已收到您出售全部葡萄酒的申请。",
+            "sell-portfolio": "如果您想清算和\/或提取资金，请点击以下按钮。"
+        },
+        "sellbutton": {
+            "disabled": "出售您的葡萄酒",
+            "enabled": "进行中"
+        },
+        "support": {
+            "notsold": "如有任何疑问，请查看我们的",
+            "notsold-email-message": "客户支持页面",
+            "sold": "如有任何疑问，请",
+            "sold-email-message": "联系我们的客户支持团队"
+        }
+    },
+    "standard": "标准会员",
+    "support": {
+        "help_support": "客户支持",
+        "privacy_policy": "隐私政策",
+        "terms_condition": "条款及细则",
+        "title": "客户支持"
+    },
+    "title": "用户设置",
+    "update_info": {
+        "complete_message": "您的号码已更新！"
+    },
+    "updateinfo": {
+        "complete-message": "您的号码已更新！"
+    },
+    "user_settings": {
+        "account": "个人信息",
+        "investment_plan": "投资计划",
+        "logout": "登出",
+        "password": "密码",
+        "phone": "手机号码"
+    },
+    "usersettings": {
+        "account": "个人信息",
+        "phone": "手机号码"
+    }
+}

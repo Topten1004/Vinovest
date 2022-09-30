@@ -1,0 +1,117 @@
+{
+    "about": "About",
+    "account": "Account",
+    "blog": "Blog",
+    "cad_currency_value": "C$ Canadian Dollars (CAD)",
+    "calendly": {
+        "book": "Book a 1-on-1 call with one of our wine experts. Build a wine portfolio to hedge against uncertain market conditions.",
+        "mobile-book": "Book a 1-on-1 call with our wine experts"
+    },
+    "copywrite": "Vinovest. All rights reserved.",
+    "currency": "USD",
+    "currencySymbol": "$",
+    "currency_symbol": "$",
+    "date-format": {
+        "month": "MM\/YYYY",
+        "standard": "MM\/DD\/YYYY"
+    },
+    "date": {
+        "short": "{{ date, short }}"
+    },
+    "dashboard": "Dashboard",
+    "documents": "Documents",
+    "duration": "{{ count, duration}} {{ unit, duration}}",
+    "en_currency": "USD",
+    "en_currency_value": "$ US Dollars (USD)",
+    "error-boundry": {
+        "button-retry": "Try Again",
+        "description": "Sorry about that! It looks like we&apos;re having an issue on our end.",
+        "error": "Error Message",
+        "hold": "Give us a second, and try again",
+        "title": "It's not you, it's us"
+    },
+    "footer": {
+        "and": "and",
+        "button-about": "About us",
+        "button-faq": "FAQ",
+        "button-home": "Home",
+        "button-privacy": "Privacy Policy",
+        "button-terms": "Terms of Service",
+        "button-terms-conditions": "Terms & conditions",
+        "button-website": "Vinovest.co",
+        "disclaimer-1": "Vinovest, Inc (“Vinovest”) operates a website at",
+        "disclaimer-2": "By using the Platform, you accept our",
+        "disclaimer-3": "Past performance is no guarantee of future results. Any historical returns, expected returns, or probability projections may not reflect actual future performance. Buying wines involve risk and may result in partial loss. While the data we use from third parties is believed to be reliable, we cannot ensure the accuracy or completeness of data provided by investors or other third parties.",
+        "disclaimer-4": "Neither Vinovest nor any of its affiliates provide tax advice and do not represent in any manner that the outcomes described herein will result in any particular tax consequence. Prospective investors should confer with their personal tax advisors regarding the tax consequences based on their particular circumstances. Neither Vinovest nor any of its affiliates assume responsibility for the tax consequences for any investor of any investment."
+    },
+    "gbp_currency_value": "£ Great British Pounds (GBP)",
+    "get-started": "Get started",
+    "get-started-home": "Get started",
+    "help": "FAQ",
+    "how-it-works": "HOW IT WORKS",
+    "invite": "Invite",
+    "managed-cash": "Managed cash:",
+    "minimum_investment_amount": "1000",
+    "months": {
+        "april": "April",
+        "august": "August",
+        "december": "December",
+        "february": "February",
+        "january": "January",
+        "july": "July",
+        "june": "June",
+        "march": "March",
+        "may": "May",
+        "november": "November",
+        "october": "October",
+        "september": "September"
+    },
+    "navigation": {
+        "funds": "Add Funds"
+    },
+    "overview": "Overview",
+    "phone-number-capture": {
+        "error": "Please enter a valid phone number",
+        "error-region": "The string supplied did not seem to be a phone number",
+        "title": "Enter your phone number"
+    },
+    "portfolio": "Portfolio",
+    "trade": "trade",
+    "transactions": "Transactions",
+    "units": {
+        "ml": "ml"
+    },
+    "uppercase": "{{ text, uppercase }}",
+    "utils": {
+        "constants": {
+            "aggressive": "Aggressive",
+            "bank_transfer": "Bank Transfer",
+            "conservative": "Conservative",
+            "credit_card": "Credit Card",
+            "funds_added": "funds added",
+            "funds_withdrew": "funds withdrew",
+            "moderate": "Moderate",
+            "pending_deposit": "pending deposit",
+            "rebalance_add": "rebalance add",
+            "trade_settlement_purchase": "trade settlement purchase",
+            "trade_settlement_sell": "trade settlement sell",
+            "transfer_in": "transfer in",
+            "transfer_out": "transfer out",
+            "vinovest_monthly_fee": "vinovest monthly fee",
+            "wine_purchase": "wine purchase",
+            "wine_sold": "wine sold"
+        },
+        "shared": {
+            "bottle": "{{ count }}  Bottle",
+            "bottle_plural": "{{ count }} Bottles",
+            "case": "{{ count }}  Case",
+            "case_plural": "{{ count }}  Cases"
+        }
+    },
+    "why-wine": "Why Wine",
+    "zh_CN_currency": "CNY",
+    "zh_CN_currency_value": "Hong Kong Dollars",
+    "zh_Hans_HK_currency": "HKD",
+    "zh_Hans_HK_currency_value": "HK$ Hong Kong Dollars (HKD)",
+    "wine": "Wine Directory"
+}

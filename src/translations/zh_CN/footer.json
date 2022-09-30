@@ -1,0 +1,57 @@
+{
+    "banner": {
+        "intelligently-diversify": "将葡萄酒智能地添加到可供您品尝的源自不同酒庄\/产地的葡萄酒组合中。",
+        "simple-investing": "简单、现代化的葡萄酒投资"
+    },
+    "company": {
+        "about": "关于我们",
+        "careers": "工作机会",
+        "home": "首页",
+        "press": "公司新闻",
+        "title": "公司",
+        "vinovest-council": "Vinovest投资顾问团"
+    },
+    "follow": "关注我们",
+    "learn": {
+        "how-it-works": "运作方式",
+        "pricing": "定价",
+        "title": "了解",
+        "vinovest-100": "Vinovest 100",
+        "why-wine": "葡萄酒投资简介"
+    },
+    "newsletter": {
+        "email": "电子邮箱地址",
+        "subscribed": "您已成功订阅Vinovest最新资讯",
+        "title": "注册即可获得Vinovest最新资讯！"
+    },
+    "recent-articles": {
+        "champagne": "香槟（品鉴、最佳葡萄酒、2021年的价格）",
+        "malbec": "马尔白克葡萄酒——酿造工艺、最佳葡萄酒、价格 (2021)",
+        "mimosa": "如何调配含羞草鸡尾酒（制作方法、葡萄酒创意、上酒小贴士）",
+        "sangria": "简易桑格利亚汽酒调配秘诀（小贴士、最佳葡萄酒）",
+        "sauvignon-blanc": "长相思（最佳葡萄酒、品鉴、2021年的价格）",
+        "title": "近期文章"
+    },
+    "resources": {
+        "accessibility": "可访问性",
+        "blog": "博客",
+        "contact-us": "联系我们",
+        "help": "客户支持",
+        "privacy-policy": "隐私政策",
+        "terms": "条款及细则",
+        "title": "资源"
+    },
+    "services": {
+        "for-advisors": "助力投资顾问",
+        "guarantee": "我们的保证",
+        "sustainability": "环保责任",
+        "title": "服务",
+        "whiskeyvest": "威士忌投资",
+        "wine-futures": "葡萄酒期货"
+    },
+    "support": {
+        "hours": "周一至周五 9:00-17:00（太平洋标准时间）",
+        "reply": "我们会在24小时内进行回复",
+        "title": "关于葡萄酒投资，想了解更多资讯吗？"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "future-for-fine-wine": {
+        "conclusions": "改變世界並不容易，但我們相信這是正確的目標。這將需要全球範圍內前所未有的合作和承諾。",
+        "description1": "可持續發展不僅對環境有益。這對商業也有好處。",
+        "description2": "有研究",
+        "description3": "證明系統的可持續性方法可以改變地球和公司的底線。這就是為什麼我們鼓勵其他組織與我們一起推動無碳未來。",
+        "title": "優質葡萄酒的可持續未來"
+    },
+    "head-meta": {
+        "description": "Vinovest 正在引領通往更可持續未來的道路。我們有責任改善我們的業務實踐並保護環境。隨著葡萄酒行業的不斷發展，這些變化比以往任何時候都更加重要。即使是小步驟，例如更短的運輸路線，也會產生重大影響。",
+        "title": "Vinovest 的可持續發展"
+    },
+    "head": {
+        "description": "讓優質葡萄酒更具可持續性",
+        "title": "Vinovest 可持續發展平台"
+    },
+    "more-sustainable-future": {
+        "description": "改進我們的業務實踐並保護環境。隨著葡萄酒行業的不斷發展，這些變化比以往任何時候都更加重要。即使是小步驟，例如更短的運輸路線，也會產生重大影響。",
+        "pathwayOption1": "Vinovest 的供應鏈碳排放量",
+        "pathwayOption2": "通過種植一棵樹去除碳",
+        "pathwayOption3": "通過種植一棵樹去除碳",
+        "pathwayTitle": "Vinovest 的可持續發展之路",
+        "title": "走向更可持續的未來",
+        "topSmallTitle": "VINOVEST 引領潮流"
+    },
+    "our-step-toward": {
+        "description": "雖然世界需要達到淨零，但可以更快實現這一目標的公司應該這樣做。這就是為什麼 Vinovest 採取積極主動的方法來最大限度地減少碳排放。我們在可持續的商業實踐上建立了公司，以有效減少碳排放。",
+        "steps": {
+            "carbonOffsetting": {
+                "description1": "我們與",
+                "description2": "種植一棵樹",
+                "description3": "以抵消碳排放。您每購買 10 箱葡萄酒，我們將種植一棵樹。這是我們讓您的紅色和白色更綠一點的方式。",
+                "title": "碳抵消"
+            },
+            "digitalOwnership": {
+                "description": "我們的合作夥伴設施有助於消除旅行的需要。我們不會運送新購買的瓶子，而是將瓶子留在原處並簡單地更改數字所有權。",
+                "title": "數字所有權"
+            },
+            "effectiveTransparency": {
+                "description": "Vinovest 將發布年度環境可持續性報告，以便客戶可以看到我們碳足蹟的減少。",
+                "title": "有效的透明度"
+            },
+            "globalFacilities": {
+                "description": "Vinovest 在世界上最好的葡萄酒產區附近擁有儲存設施。這減少了儲存葡萄酒所需的旅行。",
+                "title": "全球設施"
+            },
+            "groundedInScience": {
+                "description": "當科學家說話時，我們會傾聽。我們使用最好的可用科學來為我們的決策過程提供信息和改進。",
+                "title": "以科學為基礎"
+            },
+            "minimizeShipping": {
+                "description": "買當地的。本地發貨。這是我們默認使用最可持續運輸選項的方式。",
+                "title": "盡量減少運輸"
+            }
+        },
+        "title": "可持續性",
+        "topSmallTitle": "我們邁向"
+    },
+    "science-is-clear": {
+        "approach1": "當我們接近一個不歸路時，歐洲議會預測航運排放量可能會增加",
+        "approach2": "到 2050 年達到 50% 到 250%。",
+        "approach3": "如果沒有重大變化，數十億人將更容易受到前所未有的高溫、洪水和環境退化的影響。簡單地說：我們必須立即行動。",
+        "centigrade": "攝氏",
+        "description": "科學是明確的。世界有碳問題。在我們的大氣層中，越來越多的溫室氣體會吸收熱量並改變地球的氣候。結果，人類已經使地球變暖了",
+        "title": "🌎 讓優質葡萄酒更具可持續性",
+        "topSmallTitle": "科學是明確的"
+    }
+}

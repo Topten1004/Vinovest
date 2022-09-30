@@ -1,0 +1,251 @@
+{
+    "UK Equitites": "UK Equities",
+    "achieve_the_most": "To achieve the most from your investment, you want the returns that occur after our processing fee window has expired. Our processing fee that is in play for the first 3 years covers our costs of procuring and storing your investment. After three years of holding your mind, we waive this processing fee as you reap the rewards of experiencing larger, more predictable price gains.",
+    "acknowledge_button": "Acknowledge and continue",
+    "acknowlege": "Acknowledge and continue",
+    "advisor": "Portfolio advisor",
+    "agreements_details": "Please review and indicate agreement with the following items.",
+    "agreements_title": "Confirm your agreements",
+    "algorithm": "Based on your initial investment time horizon selections, our algorithm and portfolio advisers have constructed your wine portfolio to reach maturity within your desired time window. Selling before or after the ideal time window may result in unoptimized returns.",
+    "back": "Back",
+    "before_you_request": {
+        "choose_the_option": {
+            "description": "I want to...",
+            "next": "select_wines",
+            "prev": "\/before_you_liquidate_your_portfolio",
+            "subPage": "choose_the_option",
+            "title": "Please choose the option that best describes your goal"
+        },
+        "confirm_liquidation": {
+            "description": "For security reasons, we've sent a confirmation email to your associated email account. Your liquidation process is not complete until you click confirm on that email. Please make sure to check your spam folder in case you do not receive the email.",
+            "index": "3",
+            "next": "\/",
+            "prev": "null",
+            "subPage": "confirm_liquidation",
+            "title": "Confirm liquidation"
+        },
+        "confirm_your_wines": {
+            "description": "It will typically take 2_4 weeks to sell the wines on the market.",
+            "index": "2",
+            "next": "confirm_liquidation",
+            "prev": "select_wines",
+            "subPage": "confirm_your_wines",
+            "title": "Confirm your wines to be sold"
+        },
+        "feedback_options": {
+            "completed": {
+                "description": "We will notify you when the transactions are completed ",
+                "feedback": "We greatly value feedback from our investors, and would appreciate it if you could let us know why you are requesting to redeem your wines. We will never share your responses and they will have no effect on your request.",
+                "leave_feedback_placeholder": "Leave us any feedback  (Optional)",
+                "title": "Your wines are scheduled to be sold"
+            },
+            "option1": "I’m requesting to sell due to market conditions",
+            "option2": "I’m requesting to sell due to personal circumstances",
+            "option3": "I’ve been dissatisfied with my experience on Vinovest",
+            "option4": "My fees\/ account charges were too high",
+            "option5": "I choose not to respond",
+            "support": {
+                "email": "Visit the",
+                "email_rest": "page for any questions",
+                "mobile_email": "email",
+                "mobile_questions": "for questions",
+                "support": "Support"
+            }
+        },
+        "select_wines": {
+            "bottle": "Bottle",
+            "case": "Case",
+            "cases": "Cases",
+            "description": "It will typically take 2_4 weeks to sell wines on the market.",
+            "holdings": {
+                "quantity": "Quantity",
+                "sell": "Sell",
+                "title": "Your holdings"
+            },
+            "index": "1",
+            "next": "confirm_your_wines",
+            "note": "Note: Requesting a full liquidation automatically cancels any pending orders. You can view your order history from",
+            "prev": "choose_the_option",
+            "sell_wine": "Sell my wine",
+            "sell_wine_button": "Sell my wine",
+            "subPage": "select_wines",
+            "title": "Select wines to sell",
+            "transaction_tab": "transactions tab"
+        },
+        "sell_options": {
+            "all": "Sell all of my wine collection",
+            "note": "Note: Requesting a full liquidation automatically cancels any pending orders. You can view your order history from",
+            "some": "Sell part of my wine collection",
+            "transaction": "transactions tab"
+        }
+    },
+    "book_call": "Book a call now",
+    "chart_description": "2014 Chateau Lafite Rothschild Premier Cru Classe Chart demonstrates trading volumes occur more over time. Source: Liv Ex",
+    "choose-the-option": {
+        "description": "I want to...",
+        "index": "0",
+        "next": "select-wines",
+        "prev": "\/before-you-liquidate-your-portfolio",
+        "subPage": "choose-the-option",
+        "title": "Please choose the option that best describes your goal"
+    },
+    "book_a_call": "Book a call",
+    "choose_details": "I want to...",
+    "choose_title": "Please choose the option that best describes your goal",
+    "confirm-liquidation": {
+        "description": "For security reasons, we've sent a confirmation email to your associated email account. Your liquidation process is not complete until you click confirm on that email. Please make sure to check your spam folder in case you do not receive the email.",
+        "index": "3",
+        "next": "\/",
+        "prev": "null",
+        "subPage": "confirm-liquidation",
+        "title": "Confirm liquidation"
+    },
+    "confirm-your-wines": {
+        "description": "It will typically take 2-4 weeks to sell the wines on the market.",
+        "index": "2",
+        "next": "confirm-liquidation",
+        "prev": "select-wines",
+        "subPage": "confirm-your-wines",
+        "title": "Confirm your wines to be sold"
+    },
+    "confirm_agreements": {
+        "best_price": "I understand that I am accepting for Vinovest to sell my wine at their best price.",
+        "fees": "I understand that any processing fees will be applied.",
+        "owner": "I am the owner of this account.",
+        "price_estimates": "I understand that the pricing I see in my account and on the confirmation screen are only estimates.",
+        "tax_advice": "I understand that Vinovest hasn't provided me with any tax advice.",
+        "taxes": "I understand that I will declare\/file my own taxes."
+    },
+    "confirm_details": "It will typically take 2-4 weeks to sell the wines on the market.",
+    "confirm_title": "Confirm your wines to be sold",
+    "contact_support": "contact our support team",
+    "corp_bonds": "Corp. bonds",
+    "did_not_get_email": "if you do not receive an email",
+    "early_penalty": "Early liquidation penalty",
+    "elaine_lau": "Elaine Lau",
+    "fee_description": "Enjoy fee free investing for 3 months. We're happy to see you invest long term.",
+    "fee_next_button": "Go to overview",
+    "fee_title": "Congratulations",
+    "feedback-options": {
+        "before-you-request": {
+            "acknowlege": "Acknowledge and continue",
+            "back": "Back",
+            "sharpe-ratio-description": "The Sharpe Ratio is a measure of risk-adjusted return. A greater ratio indicates higher returns while taking into consideration the risk of the asset.",
+            "sharpe-ratio": {
+                "year": "Sharpe Ratio ({{ 0 }} - {{ 0 }})"
+            },
+            "sticky-box": {
+                "advisor": "Portfolio advisor",
+                "book-call": "Book a call now",
+                "liz": "Liz Dowty Mitchell",
+                "subtitle": "Book a call to take advantage of the upcoming limited wine releases and futures.",
+                "title": "Get access to this month’s lucrative fine wine releases!"
+            },
+            "title": "What to know before you request to liquidate your portfolio"
+        },
+        "completed": {
+            "description": "We will notify you when the transactions are completed ",
+            "feedback": "We greatly value feedback from our investors, and would appreciate it if you could let us know why you are requesting to redeem your wines. We will never share your responses and they will have no effect on your request.",
+            "leave-feedback-placeholder": "Leave us any feedback  (Optional)",
+            "title": "Your wines are scheduled to be sold"
+        },
+        "confirm-liquidation": {
+            "contact-support": "contact our support team",
+            "did-not-receive": "if you do not receive an email",
+            "please": "Please",
+            "resend-email": "Resend email"
+        },
+        "fee-congrats": {
+            "description": "Enjoy fee free investing for 3 months. We're happy to see you invest long term.",
+            "next-button": "Go to overview",
+            "title": "Congratulations"
+        },
+        "option1": "I’m requesting to sell due to market conditions",
+        "option2": "I’m requesting to sell due to personal circumstances",
+        "option3": "I’ve been dissatisfied with my experience on Vinovest",
+        "option4": "My fees\/ account charges were too high",
+        "option5": "I choose not to respond",
+        "subscribe": {
+            "label": "Subscribe to the Vinovest newsletter to stay up to date"
+        },
+        "support": {
+            "email": "Visit the",
+            "email-rest": "page for any questions",
+            "mobile-email": "email",
+            "mobile-questions": "for questions",
+            "support": "Support"
+        }
+    },
+    "fine_wine": "Fine Wine",
+    "general_note": "Note: We assess a 3% processing fee to each wine that is sold within 3 years of its purchase date.",
+    "gold": "Gold",
+    "gov_bonds": "Gov. bonds",
+    "hk_equities": "HK Equities",
+    "hk_equitities": "HK Equities",
+    "ideal_selling": "Ideal selling timeframe",
+    "irs": "Any redemptions you make will be reported to the internal revenue service, and your returns may be taxable. Vinovest does not provide tax advice, so if you have questions about the potential tax consequences of this, please consult your financial advisor or tax professional before you proceed.",
+    "keep_portfolio": "Keep my wine portfolio. I’m in it for the long term.",
+    "larger_gains": "As you can see from this 2014 Chateau Lafite Rothschild Premier Cru Classe, early selling on smaller gains doesn’t mean a very large market for finding buyers. It also limits you from realizing larger gains later on. ",
+    "liquid_details": "For security reasons, we've sent a confirmation email to your associated email account. Your liquidation process is not complete until you click confirm on that email. Please make sure to check your spam folder in case you do not receive the email.",
+    "liquid_title": "Confirm liquidation",
+    "liquidate_info": "What to know before you request to liquidate your portfolio",
+    "liz": "Liz Dowty Mitchell",
+    "manager": "Portfolio manager",
+    "nature_asset": "Due to the nature of this asset class, once you initiate the sale of your wines, we search for buyers to purchase them. If you choose to sell before our AI algorithm deems your wines ready to be sold, it is likely that they have not yet reached their peak drinking window. We cannot guarantee the same selling price that they are currently valued at within your portfolio. The final sale price typically falls somewhere between our ask price and a buyer's offer price.",
+    "next": "Next",
+    "not_advice": "Concurrently, we would be remiss to not advise you of the tax implications of a sale. Depending on your income level and location, you could face tax consequences. Please consult your financial advisor or tax professional for more information.",
+    "oil": "Oil",
+    "optional_feedback": "Leave us any feedback  (Optional)",
+    "penalty": "We assess a 3% early liquidation fee if you choose to withdraw within 60 days of your first wine being purchased. There are no additional selling fees for active account holders after 60 days.",
+    "please": "Please",
+    "processing_fee": "Processing fee",
+    "processing_fee_info": "We assess a 3% processing fee if you choose to sell wine that you have held onto for less than three years. Early liquidation causes Vinovest to incur costs associated with procurement and storage that we have to cover in the event of early sell orders. We charge our 3% to cover the efforts of selling outside of our recommended selling window.",
+    "rebalance_portfolio": "Rebalance portfolio",
+    "rebalance_details": "To speak with an advisor about rebalancing your portfolio, please schedule a call using the link below.",
+    "resend_email": "Resend email",
+    "return_to_dashboard": "Return to dashboard",
+    "select-wines": {
+        "description": "It will typically take 2-4 weeks to sell wines on the market.",
+        "holdings": {
+            "quantity": "Quantity",
+            "sell": "Sell",
+            "title": "Your holdings"
+        },
+        "index": "1",
+        "next": "confirm-your-wines",
+        "note": "Note: Requesting a full liquidation automatically cancels any pending orders. You can view your order history from",
+        "prev": "choose-the-option",
+        "sell-wine-button": "Sell my wine",
+        "subPage": "select-wines",
+        "title": "Select wines to sell",
+        "transaction-tab": "transactions tab"
+    },
+    "select_details": "It will typically take 2-4 weeks to sell wines on the market.",
+    "select_title": "Select wines to sell",
+    "sell-options": {
+        "all": "Sell all of my wine collection",
+        "note": "Note: Requesting a full liquidation automatically cancels any pending orders. You can view your order history from",
+        "some": "Sell part of my wine collection",
+        "transactionTab": "transactions tab"
+    },
+    "sharpe_ratio_description": "The Sharpe Ratio is a measure of risk-adjusted return. A greater ratio indicates higher returns while taking into consideration the risk of the asset.",
+    "sharpe_ratio_year": "Sharpe Ratio ({{ startYear }}-{{ endYear }})",
+    "should_sell": "Should you sell your wine now vs. later?",
+    "sticky_box_subtitle": "Book a call to take advantage of the upcoming limited wine releases and futures.",
+    "sticky_box_title": "Get access to this month’s lucrative fine wine releases!",
+    "subscribe": "Subscribe to the Vinovest newsletter to stay up to date",
+    "tax_implications": "Tax implications and inefficient use of management fees",
+    "taxable": "Redemptions may be taxable",
+    "uk_equities": "UK Equities",
+    "us_equities": "US Equities",
+    "vinovest_algo": "The Vinovest algorithm and liquidity",
+    "wine_longterm": "Wine is a long term investment",
+    "wine_longterm_explain": "Investment-grade fine wine is a long-term asset class that relies on a diminishing supply and the increasing quality of the product to drive pricing. Selling one's wine investment early limits the potential returns and could possibly expose the investor to additional penalties and taxes. Just like a great wine, your investment takes time to develop, and patience leads to the best returns!",
+    "wine_market_returns": "Not only does fine wine provide above-market returns, but this asset class also provides strong risk-adjusted returns. This is especially important when investing in alternative assets as they are often viewed as a way of countering the volatility of other assets in one's investment portfolio.",
+    "wines_scheduled": "Your wines are scheduled to be sold",
+    "withdraw": {
+        "reinvest": "Reinvest the funds into new positions",
+        "withdraw": "Withdraw the funds"
+    },
+    "withdraw_title": "Withdraw or reinvest your cash"
+}

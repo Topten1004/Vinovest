@@ -1,0 +1,196 @@
+{
+    "account-value": {
+        "title": "EST. TOTAL ACCOUNT VALUE",
+        "today": "Today, ",
+        "tooltip": "Your estimated total account value is represented in this chart. All deposits and estimated wine values will be represented here."
+    },
+    "all": "All",
+    "american": "American",
+    "auto-invest": {
+        "description": "Auto Invest enables you to easily build a long-term wine portfolio through dollar cost averaging. Simply pick an amount and desired frequency (Weekly, monthly, etc.) to begin.",
+        "description_uppercase": "$t(auto-invest.description, uppercase)",
+        "enroll-button": "Save {{ amount }}% now",
+        "title": "Save {{ amount }}% on your fees by setting up Auto Invest"
+    },
+    "book-call": {
+        "book-button": "Book a call now",
+        "subtitle": "Learn about building a wine portfolio to hedge against uncertain market conditions",
+        "title": "Book a call with one of our wine experts"
+    },
+    "bordeaux": "Bordeaux",
+    "burgundy": "Burgundy",
+    "california": "California",
+    "champagne": "Champagne",
+    "deposit-banner-list": {
+        "pending-message": "You have a deposit in progress. It typically takes 2-4 business days for your deposit to be confirmed by your bank and transferred into your Vinovest account. Visit the",
+        "pending-message-cont": "tab to see more details",
+        "pending-message-mobile": "You have a deposit in progress. Visit the",
+        "pending-message-mobile-cont": "tab to see more details.",
+        "sourced-wine-message": "Deposit received! Our AI algorithm is sourcing bottles from 5,000 different vendors to find you the best available prices. Due to the nature of this asset class, this process can take up to 3 weeks. Visit the ",
+        "sourced-wine-message-cont": "tab to see more details",
+        "sourced-wine-message-mobile": "Deposit received! Visit the",
+        "transaction-link": "Transactions"
+    },
+    "diversification": {
+        "add-funds-2": "to your account",
+        "add-funds-link": "adding funds",
+        "addFunds": "Increase your diversification over time by",
+        "description-bar": "You will see the breakdown of your holdings by region once your wines are purchased for you",
+        "title": "Diversification"
+    },
+    "fag-overview-options": {
+        "0": {
+            "alt": "bottle image",
+            "paragraph": [
+                "We charge a 2.85% annual fee for all of our services, which covers buying, selling, storage, and insurance. This fee gets reduced to 2.5% when you have a Premium portfolio (balance exceeds $50,000) and to 2.25% when you have a Grand Cru portfolio (balance exceeds $250,000).",
+                "Vinovest’s fee is prorated across the year based on the average balance in your account, and a portion of this is charged monthly."
+            ],
+            "title": "What are the fees? "
+        },
+        "1": {
+            "alt": "label image",
+            "paragraph": [
+                "Yes! If a friend funds a Vinovest account through your referral link (in the “Invite” tab on your portfolio) then you both get 3 months of no fees.",
+                "You will receive 5% off all management fees as long as you have Auto Invest active on a monthly cadence. It is up to the discretion of the portfolio advisor if they want to offer X months with no fees to close an opportunity."
+            ],
+            "title": "Can I get discounts on fees?"
+        },
+        "2": {
+            "alt": "bottle logo image",
+            "paragraph": [
+                "Vinovest also has a comprehensive third-party insurance policy",
+                "that will protect your wines at full current market value in the unlikely event that a natural disaster hits the storage facility, or an employee damages the wines."
+            ],
+            "title": "What is the insurance policy on my bottles?"
+        },
+        "3": {
+            "alt": "old building image",
+            "paragraph": [
+                "Because you own the underlying assets (the bottles of wine), you will still be able to collect on them if Vinovest goes out of business.",
+                "If the worst-case scenario unfolds and Vinovest goes under, your investment is still secure. The storage facilities would be notified to reach out to direct owners of the wine (you), and you could continue to store it there, ship it to yourself, or liquidate it via auction."
+            ],
+            "title": "What happens to my bottles if Vinovest goes out of business?"
+        },
+        "4": {
+            "alt": "wine and bid image",
+            "paragraph": [
+                "Yes, you can choose to sell a portion or all of your portfolio at any time. ",
+                "We will then help match you with the highest price buyer in our network and help deliver your wines to the buyers’ desired location. ",
+                "This process typically takes under 4 weeks. We assess a 3% early processing fee if you choose to sell your portfolio less than three years from the purchase of the wine. There are no additional selling fees for active account holders beyond three years of wine hold time. "
+            ],
+            "title": "Can I sell my wines at any time\/how liquid is my portfolio?"
+        },
+        "checkFAQ": "CHECK FAQ PAGE",
+        "findAnswer": "If you don’t find the answers here, view more questions in our FAQ page.",
+        "redirectText": "Invite friend",
+        "weBet": "We bet you still have some questions"
+    },
+    "historical-returns": {
+        "returns": "Historical returns"
+    },
+    "how-process-works": {
+        "addFunds": "add funds",
+        "description": "The timeline below explains your entire journey with Vinovest from your first deposit to liquidation to help you lay out your expectations.",
+        "fixedListA": [
+            "We store it",
+            "You own it 100%",
+            "It’s insured"
+        ],
+        "fixedListB": [
+            "Sell it",
+            "Drink it",
+            "Keep investing"
+        ],
+        "fixedTextA": "We buy wine for you",
+        "fixedTextB": "Vinovest will alert you when your wine has reached its peak value. You can:",
+        "tipATitle": "It takes 2-3 weeks to find the best price for you",
+        "tipBList": [
+            "Set up recurring payments",
+            "Pay fees for storage and insurance of your wine",
+            "Follow special offers"
+        ],
+        "tipBTitle": "Preferably 10-15 years",
+        "title": "So, how does the process work?"
+    },
+    "italian": "Italian",
+    "personal-snapshot": {
+        "account-level": "Account level",
+        "friend": "friend",
+        "investing": "Investing",
+        "investment-plan": "Investment plan",
+        "net-returns": "Net returns to date",
+        "not-investing": "Not yet set",
+        "snapshot-header": "Here's your account snapshot",
+        "welcome": "Welcome",
+        "wine_collection": "Your wine collection"
+    },
+    "piedmont": "Piedmont",
+    "premium": {
+        "advisor": "Portfolio advisor",
+        "book": "BOOK A CALL",
+        "dontHaveToInvest": "You don’t have to invest any money prior to booking a call. We’re happy to talk to you.",
+        "letUsHelp": "Let us help"
+    },
+    "quality-value": {
+        "authenticity-header": "Authenticity",
+        "description": "Our direct relationships with wineries and trusted industry partners ensure the authenticity and provenance of every bottle we purchase.",
+        "insurance-description": "Vinovest offers a robust insurance policy that offers replacement at full market value in cases of breakage or theft.",
+        "insurance-header": "Full insurance",
+        "stored-description": "Our state-of-the-art storage facilities keep your wines in perfect aging conditions.",
+        "stored-header": "Perfectly Stored"
+    },
+    "recommended-banner": {
+        "fund": "Fund your Account",
+        "investing": "Investing",
+        "investment": "investment",
+        "plan": "plan is",
+        "recommend": "Your recommended"
+    },
+    "referal": {
+        "message": " When you share your unique referral with a friend, both of you will be entered into a raffle to have $1000 of Vinovest credit added to your wine portfolio. The more successful referrals you have, the more chances you get to win. A successful referral is when a friend uses your link and funds their account. The winner will be chosen randomly and announced 11\/20\/2020.",
+        "sharelink": "Get Share Link",
+        "win": "Win {{ currencySymbol }}{{ value }}"
+    },
+    "referral-module": {
+        "earn": "Earn rewards.",
+        "earn-description": "Earn 90 days of investing without advisory fees for each friend who joins Vinovest through your invite link. Your friends will get their first 90 days of fees waived too",
+        "invite": "Invite friends.",
+        "learn": "Learn More"
+    },
+    "rest": "Rest of the world",
+    "rest_of_world": "Rest of world",
+    "returns-box": {
+        "all": "All Time",
+        "appreciation": "Est. Appreciation",
+        "fees": "Fees",
+        "title": "Estimated Returns",
+        "total": "Est. Total",
+        "ytd": "YTD",
+        "ytd_upper": "$t(returns-box.ytd, uppercase)"
+    },
+    "rewards-box": {
+        "cycles": "Fee free payment cycles",
+        "cycles-message": "Your last month of rewards is",
+        "cycles-period": "Months",
+        "fees-description": "invites accepted",
+        "fees-title": "Management fees saved",
+        "link": "Copy Link",
+        "link-mobile": "Copy",
+        "snapshot-description": "You and your friend get an additional 3 months of free wine storage and management when a friend funds their Vinovest account through your invite link.",
+        "title": "Rewards"
+    },
+    "rhone": "Rhone",
+    "south_australia": "South Australia",
+    "standard": {
+        "contact": "CONTACT SUPPORT TEAM",
+        "title1": "Book a call with one of our wine experts",
+        "title2": "Can’t find what you’re looking for?",
+        "wouldLoveToHear": "We’d love to hear from you! Contact Support team for any question or comment"
+    },
+    "whiskey-banner": {
+        "early-access": "Get early access!",
+        "learn-more": "Learn more",
+        "whiskey-investing": "Whiskey investing"
+    },
+    "wine-expert": "wine expert"
+}

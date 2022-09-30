@@ -1,0 +1,64 @@
+{
+  "exchange": {
+    "subtitle": "Vinovest Marketplace",
+    "title": "Invest in Wine You Want, When You Want",
+    "description": "The Vinovest Marketplace lets you invest in wine the same way you invest in stocks. No minimum balance. No hold time. Just 100% control.",
+    "button": "Try now"
+  },
+  "wine-goals": {
+    "title": "Your Wine, Your Goals, Your Way",
+    "paragraph1": "The Vinovest Marketplace gives you complete control over your wine portfolio. You select the wine. You choose when to sell. You earn the profits.",
+    "paragraph2": "The first of its kind, the Vinovest Marketplace offers a refreshingly hands-on approach to wine investing. Buy and sell investment-grade wines from Burgundy, Bordeaux, and beyond without hold times, a minimum balance, or a portfolio manager - just like the stock market.",
+    "paragraph3": "Welcome to the future of wine investing.",
+    "button": "Fund now"
+  },
+  "benefits": {
+    "title1": "100% Authentic",
+    "description1": "Every wine goes through a multi-step authentication process with our expert wine authenticators.",
+    "title2": "No Minimums",
+    "description2": "Say goodbye to minimum hold times and account balances. Invest in the wines you want, when you want.",
+    "title3": "Transparent Pricing",
+    "description3": "Our real-time trading platform works like the stock market, so you can buy and sell wine at its true market value.  ",
+    "title4": "Global Access",
+    "description4": "Our global marketplace gives you access to rare, hard-to-find, and exclusive wines that you can’t find anywhere else.",
+    "title5": "Secure",
+    "description5": "Vinovest partners with industry leaders to stop fraud and security breaches before they happen.",
+    "title6": "Here For You",
+    "description6": "Got questions? Contact our support team at (213) 410-4546 or hello@vinovest.co."
+  },
+  "faq": "Frequently Asked Questions",
+  "view-all": "View all",
+  "fag-overview-options": {
+    "0": {
+      "paragraph": [
+          "The Managed account is created and maintained by Vinovest's team of expert sommeliers & AI algorithm, who decide which wines to buy and when to sell (with the exception of Premium and Grand Cru clients who have more of a direct say in what their personal Portfolio Manager is acquiring). This account is generally designed for users who want to be a bit more hands off with longer term investment.",
+          "The Trading account allows to take full control over your portfolio. You choose which wines to add to your portfolio, when to buy and sell them and what price you are willing to pay for them. This account is best suited for investors who are familiar with investment grade wine and want to have more of a say in the make up of their portfolio."
+      ],
+      "title": "What are the main differences between my Trading and Managed accounts? "
+    },
+    "1": {
+      "paragraph": [
+          "In the Vinovest Marketplace there is no minimum dollar amount required to create an account.  As long as you have enough balance in your account to buy a wine that is available on the Marketplace, you can add that wine to your portfolio."        
+      ],
+      "title": "What is the minimum amount I need to invest in my Trading account? "
+    },
+    "2": {
+      "paragraph": [
+          "No, there is no lock-up period at all on the Marketplace.  You could even buy and sell a wine on the same day and you will not be penalized in any way."        
+      ],
+      "title": "Is there a lock-up period for any wines added to my Trading portfolio? "
+    },
+    "3": {
+      "paragraph": [
+          "Yes, on the Vinovest Marketplace we enable our investors to buy wine by the bottle instead of by the case.  This allows investors to achieve a greater degree of diversity in their portfolio at a much lower investment level."        
+      ],
+      "title": "Can I buy single bottles on the Marketplace or do I have to purchase the wine in cases like in my Managed portfolio? "
+    },
+    "4": {
+      "paragraph": [
+          "Not at all, you can select which type of portfolio best suits your investment goals.  You can choose Managed, Trading or even both.  Regardless of the type of portfolio you select, you will gain access to some of the best wines in the world."        
+      ],
+      "title": "Do I need to have a Managed portfolio to open a Trading account? "
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+    "account": {
+        "membership": "Member Information Changes.",
+        "paragraph1": "If you wish to utilize the Services, you agree to complete the initial registration process according to the requirements stated on the Vinovest Site, and to provide accurate and complete information including, but not limited to, your legal name, age, billing address, delivery address if different), email address, and telephone number. When making a purchase/investment on or through our Services, you must provide accurate and complete information as required when using a credit card, other payment card or bank information, including the cardholder/account holder name, payment card number/account number, expiration date (if applicable), and if requested, card security code, at the time of submitting your order form. You represent and warrant to Vinovest that your use of a payment card or your account in connection with any purchase you make on or through the Services is authorized and legal. As part of the initial registration process, you must provide your email address and choose a password to use when accessing the Services. For your protection, you must keep your email and password secret. You must immediately notify Vinovest if you learn or suspect that the security of your email or password has been breached. You are responsible for any loss or damage arising from your failure to protect your email or password.",
+        "paragraph2": "You are responsible for updating your registration information, and payment service or payment card information, as applicable, and for making sure that the billing address in your registration information is consistent with the billing address for your payment service or payment card. You are also responsible for promptly notifying your payment service or payment card issuer of any changes to your billing information or of any loss, theft, or unauthorized use of your payment service account or payment card number.",
+        "paragraph3": "The total amount to be paid by you for your order will be the sum of the prices for the products you select or those selected for you, all applicable taxes, and shipping and handling charges. Payment is due when you submit your order, and you hereby authorize Vinovest to charge such an amount to your payment card at that time. Our management, brokerage, and storage fees are listed from time to time on the Vinovest Site, and we may update these at any time in our sole discretion. You must pay all such fees when due.",
+        "paragraph4": "All alcohol listings are intended for individuals who are 21 years of age or older. Vinovest reserves the right to refuse service, terminate accounts, remove or edit content, or cancel orders, in its sole discretion. Vinovest endeavors to provide all of the Services in accordance with law and a shipment of wine and or whiskey requested by you may be suspended or made impossible due to applicable federal, state, county, city and local laws in your jurisdiction. In that case, we will suspend shipping until we can comply with all applicable law. You are responsible for ensuring that your orders do not violate applicable local laws in your jurisdiction.",
+        "paragraph5": "All prices are listed, and all payments to you by us, and to us by you, will be in United States Dollars.",
+        "payment": "Payment.",
+        "registration": "Registration.",
+        "title": "YOUR ACCOUNT"
+    },
+    "address": {
+        "city-state-zip": "Culver City, CA 90232",
+        "email": "help@vinovest.co",
+        "name": "Vinovest, Inc.",
+        "phone": "949-415-8730",
+        "street": "9900 Culver Blvd"
+    },
+    "agreement": {
+        "paragraph1": "These Terms and our Privacy Notice constitute the sole and entire agreement between you and Vinovest with respect to the Vinovest Services and supersede all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, with respect to the sites.",
+        "title": "ENTIRE AGREEMENT"
+    },
+    "anti-money-laundering": {
+        "paragraph1": {
+            "part1": "Neither Vinovest nor any of its directors, officers, employees, agents, or other persons acting on its or their behalf shall take any action, directly or indirectly, in connection with its performance under these Terms that may result in a violation of the U.S. Foreign Corrupt Practices Act, U.K. Bribery Act 2010, and all other applicable anti-corruption laws and regulations of any jurisdiction (collectively, “",
+            "part2": "Anti-Corruption Laws",
+            "part3": "”), including making, offering, authorizing, or promising anything of value, regardless of form or amount, to obtain a competitive advantage or to receive favorable treatment in obtaining or retaining any business advantage, to any (1) foreign or domestic government official or employee, (2) employee of a foreign or domestic government-owned or government-controlled entity, (3) foreign or domestic political party, political official, or candidate for political office, or (4) any officer or employee of a public international organization."
+        },
+        "paragraph2": {
+            "part1": "Vinovest shall comply in all material respects with all applicable anti-money laundering (“",
+            "part2": "AML",
+            "part3": "”) laws and regulations in connection with its performance under these Terms, including, without limitation, the Bank Secrecy Act and the USA Patriot Act, and all rules and regulations promulgated thereunder."
+        },
+        "paragraph3": {
+            "part1": "Vinovest shall comply in all material respects with all applicable economic and trade sanctions laws and regulations in connection with its performance under these Terms, including, without limitation, those imposed, administered or enforced by the U.S. government (including those administered by the U.S. Department of the Treasury, Office of Foreign Assets Control (“",
+            "part2": "OFAC",
+            "part3": "”)), the United Nations, the European Union, Her Majesty’s Treasury, or other relevant sanctions authority (collectively, “",
+            "part4": "Sanctions",
+            "part5": "”)."
+        },
+        "paragraph4": {
+            "part1": "Neither Vinovest, nor any director, officer, employee, agent, or representative of Vinovest shall, in connection with performance of its obligations under these Terms, engage in any transaction or business dealing with or for the benefit of any Sanctioned Person (as defined below) (or involving any property thereof) or involving any Sanctioned Country (as defined below). A “",
+            "part2": "Sanctioned Person",
+            "part3": "” is an entity or an individual that is (i) the subject or target of any Sanctions, (ii) included on OFAC’s Specially Designated Nationals List, Her Majesty’s Treasury (HMT) Consolidated List of Financial Sanctions Targets and the Investment Ban List, or any similar list enforced by any other relevant sanctions authority or (iii) located, organized or resident in a comprehensively-sanctioned jurisdiction (a “",
+            "part4": "Sanctioned Country",
+            "part5": "”)."
+        },
+        "paragraph5": {
+            "part1": "Vinovest shall comply in all material respects with all applicable export control laws and regulations in connection with its performance under these Terms, including, without limitation, the Export Administration Regulations and the International Traffic in Arms Regulations promulgated and enforced by the United States government, as well as any similar laws and regulations enforced by other governmental authorities in jurisdictions applicable to the Vinovest (“",
+            "part2": "Export Control Laws",
+            "part3": "”)."
+        },
+        "title": "ANTI MONEY LAUNDERING"
+    },
+    "arbitration": {
+        "class-action": {
+            "paragraph1": "You and Vinovest agree that each of us may bring claims against the other only on an individual basis and not as a plaintiff or class member in any purported class or representative action. Unless both you and Vinovest agree otherwise, the arbitrator may not join more than one party’s claims, and may not adjudicate or determine any form of a representative, class, or consolidated proceeding. The arbitrator may award relief (including monetary, injunctive, and declaratory relief) only in favor of the individual party bringing the claim, if such relief is warranted by the facts and law. Any relief awarded by the arbitrator will not affect other Vinovest members.",
+            "paragraph2": "If for any reason a claim proceeds in court rather than in arbitration both you and Vinovest each waive any right to a jury trial. You and Vinovest also both agree that you or we may bring suit in court to enjoin infringement or other misuse of intellectual property rights.",
+            "title": "Prohibition of Class, Representative, and Consolidated Actions"
+        },
+        "paragraph1": "You and Vinovest agree that any claim or dispute at law or equity that has arisen or may arise between us relating in any way to this or previous versions of the Vinovest Terms, your use of the Vinovest Site or Services, or to any products sold or distributed by Vinovest or through the Vinovest Site or Services will be resolved by binding arbitration, rather than in court. The Federal Arbitration Act applies to these provisions.",
+        "paragraph2": "There is no judge or jury in arbitration, and court review of an arbitration award is limited. However, an arbitrator can award on an individual basis the same damages and relief as a court (including injunctive and declaratory relief or statutory damages) and must follow these Terms as a court would.",
+        "paragraph3": "To begin an arbitration proceeding, you must send a letter requesting arbitration and describing your claim to Vinovest. The arbitration will be conducted by JAMS. The JAMS rules are available at jamsadr.com or by calling 1-800-352-5267. Payment of all filing, administration and arbitrator fees will be governed by the JAMS rules.",
+        "paragraph4": "The arbitration hearing will be held in the country in which you reside or at another mutually agreed location. You or Vinovest may elect to have the arbitration conducted by telephone or based solely on written submissions, which election shall be binding on you and Vinovest subject to the arbitrator’s discretion to require an in-person hearing.",
+        "paragraph5": "The arbitrator will decide all claims in accordance with applicable law. The arbitrator shall not be bound by rulings in prior arbitrations involving other Vinovest members, but is bound by rulings in prior arbitrations involving the same Vinovest member to the extent required by applicable law. The arbitrator's award shall be final and binding and judgment on the arbitrator’s award may be entered in any court having jurisdiction",
+        "title": "Agreement to Arbitrate"
+    },
+    "contact": {
+        "paragraph1": "If you have questions or comments about these Terms or the Vinovest Site or Services, please write, phone or email us via the contact information below:",
+        "title": "CONTACT INFORMATION"
+    },
+    "copywrite": {
+        "paragraph1": "All content included on or made available through the Vinovest Site and Services, such as text, graphics, logos, button icons, images, audio clips, digital downloads, and data compilations is the property of Vinovest or its content suppliers and protected by United States and international copyright laws. The compilation of all content included in or made available through the Vinovest Site and Services is the exclusive property of Vinovest and protected by U.S. and international copyright laws.",
+        "title": "COPYRIGHT"
+    },
+    "disclaimer": {
+        "paragraph1": "THE VINOVEST SITE AND SERVICES AND THE CONTENT PROVIDED ON OR THROUGH THE VINOVEST SITE AND SERVICES IS PROVIDED TO YOU ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT WARRANTIES OF ANY KIND, AND VINOVEST HEREBY DISCLAIMS ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND NON-INFRINGEMENT. NEITHER VINOVEST NOR ANY PERSON ASSOCIATED WITH VINOVEST MAKES ANY REPRESENTATION OR WARRANTY WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY OR AVAILABILITY OF THE VINOVEST SITE OT ITS CONTENT. WITHOUT LIMITING THE FOREGOING, NEITHER VINOVEST NOR ANYONE ASSOCIATED WITH VINOVEST REPRESENTS OR WARRANTS THAT THE VINOVEST SITE, SERVICES OR THE CONTENT WILL BE ACCURATE, RELIABLE, ERROR-FREE OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT THE SITES OR THE SERVER THAT MAKES THEM AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS OR THAT THE VINOVEST SITE OR ITS CONTENT WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS.",
+        "title": "DISCLAIMER OF WARRANTIES"
+    },
+    "disputes": {
+        "paragraph1": "READ THIS SECTION CAREFULLY. IT AFFECTS YOUR RIGHTS AND IMPACTS HOW CLAIMS YOU AND VINOVEST MAY HAVE AGAINST EACH OTHER ARE DETERMINED.",
+        "title": "DISPUTES"
+    },
+    "general": {
+        "paragraph1": "At Vinovest, we strive to offer a first-class experience for our members, and uphold the highest degree of professionalism. The following terms and conditions (“Terms”) constitute a binding agreement between you and Vinovest, its affiliates, and its and their parent and subsidiary companies (collectively, “Vinovest,” “we,” or “us”) with respect to your use of this website (the “Vinovest Site”) and the services available on such platforms (together with the Vinovest Site, the “Services”), including any Content (as defined below). If you do not agree to these Terms, please do not use or access the Vinovest Site or Services for any purpose. Additional policies, terms, and conditions applicable to certain Services, specific areas of the Vinovest Site, or to particular content or transactions, may also be posted in particular areas of the Vinovest Site and, together with these Terms, govern your use of those areas. Any such additional policies, terms, and conditions are incorporated into these Terms. If any inconsistency exists between these Terms and such additional policies, terms, and conditions, such additional policies, terms, and conditions applicable to those specific areas of the Vinovest Site will be controlling. Vinovest reserves the right to cancel and/or terminate any user’s account for any violation of these Terms or other terms stated on the Vinovest Site. Fraudulent behavior, creating multiple accounts to acquire additional credits, spamming, flaming, excessive use of profanity or abusive language, on the Vinovest Site or any other website in regards to Vinovest, or while contacting any of our team, will not be tolerated.",
+        "paragraph2": "You must be at least 21 years (18 outside of the United States) of age to use the Vinovest Site and purchase alcohol through the Services. A valid government-issued ID may be required upon delivery.",
+        "paragraph3": "Wine and or whiskey sales are solicited, offered, accepted, made, and delivered by a licensed winery or distillery who receives all orders. To address possible state alcoholic beverage law concerns, Vinovest pays for new member referrals and discount shipping through an instant rebate that discounts a portion of the price of each item the existing member purchases. Void where prohibited.",
+        "paragraph4": "The Vinovest Site also provides pricing and market information. While we endeavor to give you accurate information, we cannot assure you that any of the market and value information that we give you is accurate as of the date you access it and we undertake no obligation to update such information or notify you of any changes to such information.",
+        "title": "GENERAL"
+    },
+    "indemnification": {
+        "paragraph1": "You agree to defend, indemnify and hold harmless Vinovest and its officers, directors, employees, agents, licensors and content providers from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses or fees (including reasonable attorneys’ fees) resulting from your violation of these Terms, or your use of Vinovest Site or Services.",
+        "title": "INDEMNIFICATION"
+    },
+    "law": {
+        "paragraph1": "Any dispute or claim relating in any way to these Terms or previous versions of these Terms, your use of the Vinovest Site or Services, or any products sold or distributed by Vinovest or through the Vinovest Site or Services, shall be governed by and construed in accordance with the laws of the State of California without giving effect to any choice or conflict of law provision or rule.",
+        "paragraph2": "Unless you and Vinovest agree otherwise, in the event that the Agreement to Arbitrate above is found not to apply to you or to a particular claim or dispute, any legal suit, action or proceeding arising out of or related to these Terms or previous versions of these Terms, your use of the Vinovest Site or Services, or any products sold or distributed by Vinovest or through the Vinovest Site or Services shall be instituted exclusively in the federal or state courts located in Los Angeles, California. You agree to waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.",
+        "title": "GOVERNING LAW AND JURISDICTION"
+    },
+    "liability": {
+        "paragraph1": "IN NO EVENT WILL VINOVEST, ITS LICENSORS OR CONTENT PROVIDERS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE VINOVEST SITE AND SERVICES, OR ANY CONTENT, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES OF ANY KIND WHATSOEVER, WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT OR OTHERWISE, EVEN IF FORESEEABLE. USE OF THE VINOVEST SITE, SERVICES OR ITS CONTENT IS AT YOUR SOLE RISK.",
+        "title": "LIMITATION OF LIABILITY"
+    },
+    "links": {
+        "paragraph1": "‍The Vinovest Site or Services may contain links to third-party websites. These links are provided for your convenience only. Vinovest has no control over third-party websites and we are not responsible for the content of such websites or the privacy practices of those third-party websites. If you decide to access a third-party website linked from the Vinovest Site, you do so entirely at your own risk and your use of those sites is subject to those websites’ terms and conditions and privacy policies.",
+        "title": "LINKS TO THIRD-PARTY WEBSITES"
+    },
+    "modifications": {
+        "paragraph1": "Vinovest reserves the right to make changes to these Terms at any time. If Vinovest makes a material modification to these Terms, we will notify you by displaying a prominent announcement above the text of the Terms or at Vinovest.co, as appropriate, for thirty (30) days, and that will be deemed sufficient notification of such changes.",
+        "paragraph2": "The date these Terms were last updated is set forth at the top of this page.",
+        "title": "MODIFICATIONS"
+    },
+    "privacy": {
+        "paragraph1": "Your use of the Vinovest Site and Services is subject to our Privacy Notice located at",
+        "paragraph2": "incorporated herein by reference, which applies to the collection, use, disclosure and other processing of personal information by Vinovest.",
+        "title": "PRIVACY"
+    },
+    "program": {
+        "last-sentence": "You acknowledge that the value of your portfolio will decrease by any wine and or whiskey shipped to you.",
+        "paragraph1": "When you start an account with Vinovest, you will be depositing money into your Vinovest account. If you choose a managed account, you authorize us to put together a portfolio of wine and or whiskey and purchase those wines and or whiskies  on your behalf based on the amount you have deposited. You understand that we will be buying actual wine and or whiskey and storing it in our secure facilities. This wine and or whiskey belongs to you and not Vinovest. We are simply holding the wine and or whiskey for you. Wines and or whiskies held in storage have an insurance policy protecting them at full current market value, with appraisals updated annually. We may engage third parties for wine and or whiskey storage services. If you purchase wine and or whiskey directly from a supplier through the Vinovest Site, that supplier may store the wine and or whiskey at their own secure facility. Our agreements with our suppliers require that they carry an insurance policy protecting your wine and or whiskey at full current market value, with appraisals updated annually.",
+        "paragraph7": "Through the Vinovest Site, you may be able to authorize us to sell wine and or whiskey on your behalf and at your request. Any outstanding cash balance in your account may be used to pay for Vinovest’s management fees. If there are amounts left after the payment of your management fees, you can leave such amount in your account or ask for it to be returned to you.",
+        "paragraph2": "Each time you login to your account, you will be able to see the estimated liquidation value of your portfolio. This represents our estimate based on available market data. However, we cannot guarantee that it represents the actual current fair market value. You must do your own research and under no circumstances may Vinovest be held liable for any claim or loss regarding lost or unrealized profits, or the estimated market value of your portfolio or any of its individual contents.",
+        "paragraph8": "You may, at any time, ask that we liquidate your portfolio. However, Vinovest is under no obligation to do so. By entering into these Terms, you acknowledge and agree that you alone bear the financial risk of your investment, that Vinovest is under no obligation to compensate you for financial loss, and that Vinovest is not required to purchase your wine and or whiskey from you or find a third party purchaser should you wish to sell any of your wine and/or whiskey.",
+        "paragraph9": "If you sell any wine and or whiskey in your account through the Vinovest Site, you assume all risk associated with such sale. All fees of Vinovest indicated on the Vinovest Site will be automatically deducted from the amount you receive from such sale before the balance of the funds are made available to you.",
+        "paragraph10": "You acknowledge that Vinovest cannot guarantee that the value of the portfolio will increase, nor can we guarantee that the value will not decrease. If you ask for your portfolio to be liquidated, we will endeavor to do so as soon as practicable.",
+        "paragraph4": "For wine(s) added to your portfolio after Dec 1, 2021 we assess a 3% processing fee if you choose to withdraw less than 3 years after the initial purchase of wines for your account. Processing fees are waived for active account holders past 3 years after the initial purchase.",
+        "paragraph5": "For wine(s) added to your portfolio before Dec 1, 2021: we assess a 3% processing fee if you choose to withdraw less than 60 days after the initial purchase of wines for your account. Processing fees are waived for active account holders past 60 days after the initial purchase.",
+        "paragraph6": "Once liquidated, we will deposit the funds in your account, which you may withdraw at any time thereafter, subject to any management fees collected by Vinovest as described above.",
+        "paragraph3": "Also, you may request us to ship your wine and or whiskey to you (minimum one case at a time). We will not ship individual bottles of wine. We will only ship full cases of wine, and you will accordingly be charged for each entire case you ask us to ship to you. In such an event, we will ship the wine and or whiskey to you at your expense (deducting shipping costs, duties, VAT, tariffs and other taxes from the cash balance of your account) and will ship it as soon as practicable. With whiskey casks, you will be subject to an additional bottling fee to transfer the whiskey from the cask to the bottles before shipping. Shipping and delivery of wine and or whiskey is always subject to the laws of the jurisdiction where the wine and or whiskey is being shipped (whether federal, state, county, city or local law). Wine and or whiskey that has been shipped to you may not be returned to our facilities or added to your portfolio.",
+        "title": "VINOVEST PROGRAM"
+    },
+    "risk": {
+        "paragraph1": "All items purchased from Vinovest are speculative in nature. The price of the wine and or whiskey you purchase may decrease or lose its value completely. If you request delivery, delivery will be made pursuant to a shipment contract. This means that the risk of loss and title for such items pass to you upon our delivery to the carrier.",
+        "title": "RISK OF LOSS"
+    },
+    "severability": {
+        "paragraph1": "No waiver of these Terms by Vinovest shall be deemed a further or continuing waiver of such Terms or any other term or condition, and any failure of Vinovest to assert a right or provision under these Terms shall not constitute a waiver of such right or provision. If any provision of these Terms is held by a court of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of these Terms will continue in full force and effect.",
+        "title": "WAIVER AND SEVERABILITY"
+    },
+    "submitted-works": {
+        "paragraph1": "All comments, suggestions, ideas, drawings, images, concepts, or other information or materials disclosed or offered to us by you through the Services or in response to solicitations on the Vinovest Site shall be deemed to be property of Vinovest.",
+        "title": "SUBMITTED MATERIALS AND IDEAS"
+    },
+    "title": "Terms & Conditions",
+    "trademarks": {
+        "paragraph1": "The trademarks and service marks displayed on the Vinovest Site and Services are the registered and unregistered trademarks, service marks and trade dress of Vinovest and its licensors. In addition, graphics, logos, page headers, button icons, scripts, and service names included in or made available through the Vinovest Site and Services are trademarks, service marks or trade dress of Vinovest or our partners. Such trademarks, service marks and trade dress may not be used in connection with any product or service that is not Vinovest, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Vinovest. All trademarks not owned by Vinovest that appear in any Service are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Vinovest.",
+        "title": "TRADEMARKS"
+    }
+}

@@ -1,0 +1,51 @@
+<svg width="107" height="107" viewBox="0 0 107 107" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="53.5" cy="53.5" r="53" fill="#3C400C" stroke="white" />
+<path
+    d="M54.6387 79.6817V58.9854"
+    stroke="white"
+    strokeWidth="1.2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+/>
+<path
+    fillRule="evenodd"
+    clipRule="evenodd"
+    d="M54.6387 75.541C54.6387 68.2083 57.8528 65.1929 67.0565 65.1929C67.0565 73.4776 63.2711 75.541 54.6387 75.541V75.541Z"
+    stroke="white"
+    strokeWidth="1.2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+/>
+<path
+    fillRule="evenodd"
+    clipRule="evenodd"
+    d="M77.4045 58.984H31.8726V34.1484H77.4045V58.984Z"
+    stroke="white"
+    strokeWidth="1.2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+/>
+<path
+    fillRule="evenodd"
+    clipRule="evenodd"
+    d="M50.4985 46.566C50.4985 44.2791 52.3509 42.4268 54.6378 42.4268C56.9247 42.4268 58.7771 44.2791 58.7771 46.566C58.7771 48.853 56.9247 50.7053 54.6378 50.7053C52.3509 50.7053 50.4985 48.853 50.4985 46.566V46.566Z"
+    stroke="white"
+    strokeWidth="1.2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+/>
+<path
+    d="M40.1509 46.5669H42.2205"
+    stroke="white"
+    strokeWidth="1.2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+/>
+<path
+    d="M67.0557 46.5669H69.1253"
+    stroke="white"
+    strokeWidth="1.2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+/>
+</svg>

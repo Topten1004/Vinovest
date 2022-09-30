@@ -1,0 +1,76 @@
+{
+    "depositCta": "即刻注资，立即获得！",
+    "google-signin": {
+        "button-label": "使用谷歌",
+        "login": "登录",
+        "signup": "注册"
+    },
+    "login": "登录",
+    "okta-check": {
+        "button": "转到首页",
+        "message": "请查看您所收到的电子邮件并点击其中的链接以重置密码。出于安全原因，此链接将在60分钟后失效。电子邮箱一般需要几分钟的时间来接收邮件，因此请稍作等待。",
+        "title": "请查看您的电子邮箱"
+    },
+    "okta-login": {
+        "button-create": "创建新帐户",
+        "button-forgot": "忘记密码？",
+        "button-login": "登录",
+        "empty-email": "请输入电子邮箱地址",
+        "fail-login": "请输入正确的电子邮箱地址和密码。",
+        "invalid-email": "请输入有效的电子邮箱地址！",
+        "invalid-password": "请输入密码。",
+        "or": "或者"
+    },
+    "okta-register": {
+        "button-account": "已有帐户？",
+        "button-email": "使用电子邮箱注册",
+        "button-login": "登录",
+        "china_agree": "我同意Vinovest的",
+        "china_and": "和",
+        "china_privacy_policy": "隐私政策",
+        "china_terms_and_conditions": "条款及细则",
+        "disclaimer": "注册Vinovest帐户即表示您同意",
+        "disclaimer-cont": "和",
+        "email": "电子邮箱",
+        "empty-email": "请输入电子邮箱地址",
+        "error-name": "请输入您的全名",
+        "header-email": "请输入您的电子邮箱",
+        "header-invest": "葡萄酒投资，即刻启航！",
+        "header-name": "请输入您的全名",
+        "header-password": "创建密码",
+        "international": "适用于所有国际客户",
+        "invalid-email": "请输入有效的电子邮箱地址！",
+        "newsletter": "您还同意定期接收Vinovest最新资讯",
+        "password": "密码",
+        "password-char": "8个字符",
+        "password-cont": "和",
+        "password-min": "至少",
+        "password-num": "1个数字",
+        "password-special": "1个特殊字符",
+        "password-upper": "1个大写字母",
+        "placeholder-first": "名",
+        "placeholder-last": "姓",
+        "privacy": "隐私政策",
+        "show-password": "显示密码",
+        "submit": "继续",
+        "subscribe": "欢迎订阅Vinovest最新资讯。",
+        "terms": "服务条款"
+    },
+    "okta-reset": {
+        "button-back": "返回到登录页面",
+        "button-submit": "发送操作说明",
+        "email-empty": "请输入电子邮箱地址。",
+        "email-invalid": "请输入有效的电子邮箱地址！",
+        "email-placeholder": "电子邮箱",
+        "message": "请输入您的电子邮箱，我们将向您发送如何重置密码的说明。",
+        "title": "重置密码"
+    },
+    "referral-confirmation": {
+        "depositCta": "即刻注资，立即获得！",
+        "welcomeToVinovest": "欢迎访问Vinovest。感谢您朋友的大力支持，您已获得3个月免服务费的Vinovest葡萄酒交易平台帐户使用期！",
+        "woohooTitle": "恭喜您！您有3个月免服务费的Vinovest葡萄酒交易平台帐户使用期"
+    },
+    "uppercase": "{{ text, uppercase }}",
+    "welcomeToVinovest": "欢迎访问Vinovest。感谢您朋友的大力支持，您已获得3个月免服务费的Vinovest葡萄酒交易平台帐户使用期！",
+    "woohooTitle": "恭喜您！您有3个月免服务费的Vinovest葡萄酒交易平台帐户使用期"
+}

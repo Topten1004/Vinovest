@@ -1,0 +1,19 @@
+{
+    "form": {
+        "email": "电子邮箱",
+        "fullName": "全名",
+        "message": "信息",
+        "phoneNumber": "电话号码",
+        "placeholderEmail": "电子邮箱",
+        "placeholderMessage": "请简要描述您的问题...",
+        "placeholderName": "名称",
+        "thankYou": "谢谢！您的提交已收到！"
+    },
+    "head-meta": {
+        "title": "联系我们"
+    },
+    "head": {
+        "description": "如果您是特级会员或至尊会员，请直接联系您的专属投资组合顾问。",
+        "title": "联系我们"
+    }
+}

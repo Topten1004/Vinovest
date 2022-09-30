@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+}
+html,
+body {
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: "VinovestMedium";
+    -webkit-font-smoothing: antialiased;
+}
+
+/*react modal*/
+.ReactModal__Html--open,
+.ReactModal__Body--open {
+    overflow: hidden !important; /* prevents background page from scrolling when the modal is open */
+}
+.ReactModal__Content {
+    overflow-y: auto !important;
+}
+
+.plaid-button {
+    background: none !important;
+    border: 0 !important;
+    font-weight: 500 !important;
+    font-size: 14px !important;
+    line-height: 170% !important;
+    align-items: center !important;
+    letter-spacing: 0.05em !important;
+    text-transform: uppercase !important;
+    color: #242e35 !important;
+    border-radius: 0 !important;
+    width: 241px !important;
+    height: 78px !important;
+}
+
+.stripe-input {
+    height: 44px;
+    background: #ffffff;
+    border: 1px solid #f0f0f0;
+    box-sizing: border-box;
+    padding: 11px 16px;
+    font-size: 14px;
+    margin: 15px 0;
+    color: #242e35;
+}
+.stripe-input::placeholder {
+    color: #dadada;
+}
+@media screen and (min-width: 768px) {
+    .plaid-button {
+        padding: 6px 74px !important;
+        text-align: left !important;
+        width: 401px !important;
+    }
+    .stripe-input {
+        max-width: 393px;
+        margin: 19px auto;
+    }
+}
+
+#page-wrap {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+/* https://fkhadra.github.io/react-toastify/how-to-style */
+.Toastify__toast {
+    font-family: VinovestMono;
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 21px;
+}
+
+.calendly-overlay .calendly-popup {
+    background: #fbfcfd;
+}
+
+body .acsb-trigger.acsb-ready,
+body .acsb-trigger,
+.acsb-trigger {
+    transform: translateX(-1000px);
+}

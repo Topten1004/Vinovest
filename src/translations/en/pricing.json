@@ -1,0 +1,86 @@
+{
+    "features": {
+        "basic": {
+            "basic_1": "Diversified investment portfolios",
+            "basic_2": "Authenticity guaranteed",
+            "basic_3": "World class storage",
+            "basic_4": "Enrollment in our carbon offset program",
+            "basic_5": "Fully insured"
+        },
+        "button_current": "Current",
+        "button_upgrade": "Upgrade",
+        "exclusive": {
+            "exclusive_1": "Dedicated Portfolio Advisor",
+            "exclusive_2": "Exclusive invites to Vinovest Events",
+            "exclusive_3": "Access to the rarest most exclusive wine",
+            "exclusive_4": "Personalized portfolio reports"
+        },
+        "label_basic": "Basic Features",
+        "label_exclusive": "Exclusive benefits",
+        "label_product": "Product Highlights",
+        "product": {
+            "product_1": "Access to premium wines",
+            "product_2": "Access to portfolio manager bi-annual reviews",
+            "product_3": "Portfolio customization",
+            "product_4": "Access to wine futures"
+        }
+    },
+    "getStarted": "Get Started",
+    "grandCru": {
+        "annual": "2.25%",
+        "balance": "MINIMUM BALANCE",
+        "benefits": [
+            "All the benefits of our Premium Tier",
+            "Preferred access to the rarest, most exclusive wine releases only available at this level",
+            "Personalized quarterly portfolio insight reports",
+            "Access to our Vinovest Advisory Council"
+        ],
+        "title": "Grand Cru"
+    },
+    "head-meta": {
+        "description": "With 13.6% annualized returns over the past 15 years, fine wine has outperformed most global equities and is less volatile than real estate or gold.",
+        "title": "Vinovest | Pricing"
+    },
+    "head": {
+        "title": "Our offerings",
+        "topSmallTitle": "ADD WINE TO YOUR PORTFOLIO"
+    },
+    "label_annual": "Annual fee",
+    "label_balance": "Minimum balance",
+    "plus": {
+        "annual": "2.70%",
+        "benefits": [
+            "All of the benefits of our Starter Tier",
+            "Access to portfolio reviews",
+            "Access to rare wines and new releases not available on the Starter Tier",
+            "Early access to additional benefits"
+        ],
+        "title": "Plus"
+    },
+    "premium": {
+        "annual": "2.50%",
+        "balance": "MINIMUM BALANCE",
+        "benefits": [
+            "All of the benefits of our Plus Tier",
+            "Access to wine futures",
+            "Customized portfolio construction options in addition to our proprietary algorithms",
+            "Full access to rare, auction - only wines",
+            "Exclusive invites to Vinovest wine tastings and events"
+        ],
+        "title": "Premium"
+    },
+    "standard": {
+        "annual": "2.85%",
+        "balance": "MINIMUM BALANCE",
+        "benefits": [
+            "Algorithmically-selected portfolios",
+            "Guaranteed 100% authenticated wines in excellent condition",
+            "Access to network of world-class wine storage facilities",
+            "Enrollment in our carbon offset program",
+            "Full insurance to protect your wines"
+        ],
+        "title": "Starter"
+    },
+    "swipeMobileMessage": "Swipe right to see more plans!",
+    "title_portfolio": "Portfolio plan"
+}

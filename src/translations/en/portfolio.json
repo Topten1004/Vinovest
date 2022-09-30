@@ -1,0 +1,100 @@
+{
+    "add-funds": "Add funds",
+    "buttons": {
+        "arrow-first": "Load",
+        "arrow-second": "more"
+    },
+    "cellar-list": {
+        "add-funds": "Add funds",
+        "bottle": "Per Bottle",
+        "case": "Per Case",
+        "disclaimer": "You will not be charged fees on remaining cash in your portfolio",
+        "futures": "(Wine Futures)",
+        "power": "Buying power"
+    },
+    "condition": {
+        "authentic": "Authentic",
+        "coverage": "Full coverage",
+        "excellent": "Excellent",
+        "insurance": "Insurance",
+        "title": "Condition",
+        "verfication": "Verification"
+    },
+    "description": {
+        "read": "Read more"
+    },
+    "graphical-price-history": {
+        "title": "Est. Price Per Case Of",
+        "tooltip": "Estimated price is the best price on average for which this wine was purchased recently in the market."
+    },
+    "hero": {
+        "futures": "(Wine Futures)",
+        "learn": "learn more",
+        "pending-learn": "Learn more",
+        "title": "featured: from your portfolio"
+    },
+    "wine-bottles-totals": {
+        "bottle": "bottle",
+        "bottles": "bottles",
+        "case": "Case",
+        "of": "of"
+    },
+    "wine-cellar-model": {
+        "average-hold": "Average hold time",
+        "bottle": "Per Bottle",
+        "case": "Per Case",
+        "contact": "Want to visit your wines? We’d be happy to arrange a visit to one of our storage facilities. Please",
+        "contact-contd": "for more details.",
+        "contact-link": "contact us",
+        "cost": "Avg. Cost basis",
+        "percentage-portfolio": "% of portfolio",
+        "position": "Your position",
+        "position-total": "EST. POSITION TOTAL",
+        "quantity": "Quantity",
+        "storage": "Storage location"
+    },
+    "wine-cellar": {
+        "buttons": {
+            "load": "Load More"
+        },
+        "cellar-view-toggle": {
+            "List": "List",
+            "grid": "Grid",
+            "list": "List"
+        },
+        "empty-cellar": {
+            "add-funds": "Add funds",
+            "empty": "Start building your wine portfolio!",
+            "funded": "Sit tight as we look for great deals"
+        },
+        "export": "export",
+        "list-view-titles": {
+            "avg-cost": "Avg. Cost",
+            "basis": "basis",
+            "position": "EST POSITION",
+            "quantity": "Quantity",
+            "tooltip-cost-basis": "This is the average purchase price per bottle.",
+            "tooltip-position": "Est. Position Total is the estimated value of bottles owned, net of fees, plus pending orders",
+            "tooltip-quantity": "Quantity is the amount of individual bottles or cases that you own. Case sizes can have 3, 6 or 12 bottles and price varies on the wine depending on the case size.",
+            "total": "total",
+            "wine": "Wine"
+        },
+        "title": "Your Portfolio",
+        "totals": {
+            "basis": "basis",
+            "bottles": "bottles",
+            "cell_total": "Totals",
+            "cost": "Cost",
+            "position": "EST. POSITION",
+            "quantity_title": "Quantity",
+            "tooltip-position": "Est. Position Total is the estimated value of bottles owned, net of fees, plus pending orders",
+            "tooltip-quantity": "Quantity is the amount of individual bottles or cases that you own. Case sizes can have 3, 6 or 12 bottles and price varies on the wine depending on the case size.",
+            "tooltip-total-cost": "This is the total cost for all of your wine purchased.",
+            "total": "total",
+            "total_title": "Total"
+        }
+    },
+    "wine-maker-notes": {
+        "title": "Critics' Scores"
+    }
+}

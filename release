@@ -1,0 +1,11 @@
+### Features
+
+* 🎸 liquidation feedback 
+* 🎸 wine link on vino 100 
+* place optin campaign before second `<h2/>` tag in RenderContentfulSection ( github [#2030](https://github.com/Vinovest/web-client/issues/2030) issue ) ([#2183](https://github.com/Vinovest/web-client/issues/2183)) ([f6e6254](https://github.com/Vinovest/web-client/commit/f6e6254813eb7e81625163850cafcda9329fbf6b))
+
+
+### Bug Fixes
+
+* 🐛 no en path ([#2247](https://github.com/Vinovest/web-client/issues/2247)) ([#2248](https://github.com/Vinovest/web-client/issues/2248)) ([6834d52](https://github.com/Vinovest/web-client/commit/6834d52a064675b88c186fb0d4868431d4a7bea4))
+* 🐛 quiz signup ([#2223](https://github.com/Vinovest/web-client/issues/2223)) ([7838376](https://github.com/Vinovest/web-client/commit/7838376073047a4f69aecc31b73412d070674517))

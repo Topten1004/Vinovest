@@ -1,0 +1,61 @@
+{
+    "aboutWorkData": [
+        {
+            "description": "We offer competitive salaries with performance-based bonuses.",
+            "id": "1",
+            "title": "Salary 💸"
+        },
+        {
+            "description": "We believe that all employees deserve to own a part of Vinovest.  We want everyone to feel and act like an owner and to be rewarded upon a successful company outcome.",
+            "id": "2",
+            "title": "Stock Options 📈"
+        },
+        {
+            "description": "At Vinovest, it’s your contribution to the team that matters. We support you working remotely wherever you’d like.",
+            "id": "3",
+            "title": "Work Remotely 🌎"
+        },
+        {
+            "description": "We offer full medical, dental, and vision insurance to all full-time team members (and we pay for 100% of it).",
+            "id": "4",
+            "title": "Insurance 🏥"
+        },
+        {
+            "description": "Work-life balance is important. We want you to take trips to refresh your brain and inspire you to do your best work (plus we want you to have fun!).",
+            "id": "5",
+            "title": "Unlimited Time Off ⏰"
+        },
+        {
+            "description": "As long as you are available to collaborate with the team during our core work hours, you can flex your schedule however you’d like.",
+            "id": "6",
+            "title": "Flex Hours 💪"
+        },
+        {
+            "description": "Our goal is to nurture internal talent to become organizational leaders as we scale. This includes access to industry leaders, mentors, and additional education.",
+            "id": "7",
+            "title": "Leveling Up Opportunities 🌱"
+        },
+        {
+            "description": "We believe that taking care of your mind is just as important as taking care of your body. We offer The option for anybody to take the first Friday of each month off to reset, recharge, and relax",
+            "id": "8",
+            "title": "Mental Health Fridays🧠"
+        },
+        {
+            "description": "Stay connected with your friends and colleagues. We organize monthly wine tastings and other activities to have fun!",
+            "id": "9",
+            "title": "Team Bonding 🥂"
+        }
+    ],
+    "header-meta": {
+        "description": "Explore the career opportunities at Vinovest and the unique perks of joining the world-class team.",
+        "title": "Careers"
+    },
+    "header": {
+        "description": "The company is operated by an experienced team hailing from both the fine wine and technology industries. Our team include master sommeliers, wine directors at three Michelin star restaurants, as well as leaders from Apple, Bytedance, and more.",
+        "title": "Working at Vinovest",
+        "topSmallTitle": "CAREERS"
+    },
+    "openPositions": {
+        "title": "Open Positions"
+    }
+}

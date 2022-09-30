@@ -1,0 +1,86 @@
+{
+    "features": {
+        "basic": {
+            "basic_1": "多元化的投資組合",
+            "basic_2": "正品保證",
+            "basic_3": "世界一流的存儲",
+            "basic_4": "加入我們的碳抵消計劃",
+            "basic_5": "全面投保"
+        },
+        "button_current": "當前的",
+        "button_upgrade": "升級",
+        "exclusive": {
+            "exclusive_1": "專門的投資組合顧問",
+            "exclusive_2": "Vinovest 活動的獨家邀請",
+            "exclusive_3": "獲得最稀有最獨特的葡萄酒",
+            "exclusive_4": "個性化投資組合報告"
+        },
+        "label_basic": "基本功能",
+        "label_exclusive": "專屬福利",
+        "label_product": "產品亮點",
+        "product": {
+            "product_1": "獲得優質葡萄酒",
+            "product_2": "訪問投資組合經理半年審查",
+            "product_3": "投資組合定制",
+            "product_4": "獲得葡萄酒期貨"
+        }
+    },
+    "getStarted": "開始",
+    "grandCru": {
+        "annual": "2.25%",
+        "balance": "最低餘額",
+        "benefits": [
+            "我們 Premium 計劃的所有好處",
+            "優先訪問僅在此級別提供的最稀有、最獨家的葡萄酒版本",
+            "個性化的季度投資組合洞察報告",
+            "訪問我們的 Vinovest 諮詢委員會"
+        ],
+        "title": "特級園"
+    },
+    "head-meta": {
+        "description": "過去 15 年，精品葡萄酒的年化回報率為 13.6%，其表現優於大多數全球股票，並且波動性低於房地產或黃金。",
+        "title": "葡萄酒 |價錢"
+    },
+    "head": {
+        "title": "我們的產品",
+        "topSmallTitle": "將葡萄酒添加到您的投資組合中"
+    },
+    "label_annual": "年費",
+    "label_balance": "最低餘額",
+    "plus": {
+        "annual": "2.70%",
+        "benefits": [
+            "我們入門級的所有優勢",
+            "訪問投資組合經理半年審查",
+            "獲得入門級不提供的稀有葡萄酒和新版本",
+            "（即將推出）搶先體驗額外福利"
+        ],
+        "title": "加"
+    },
+    "premium": {
+        "annual": "2.50%",
+        "balance": "最低餘額",
+        "benefits": [
+            "我們標準計劃的所有好處",
+            "獲得葡萄酒期貨",
+            "除了我們的專有算法外，還定制了投資組合構建選項",
+            "獲得葡萄酒期貨",
+            "獨家邀請參加 Vinovest 品酒會和活動"
+        ],
+        "title": "優質的"
+    },
+    "standard": {
+        "annual": "2.85% 年費",
+        "balance": "最低餘額",
+        "benefits": [
+            "算法選擇的投資組合",
+            "我們保證 100% 品質優良的正宗葡萄酒",
+            "訪問世界一流的葡萄酒儲存設施網絡",
+            "加入我們的碳抵消計劃",
+            "為您的葡萄酒提供全面保險"
+        ],
+        "title": "標準"
+    },
+    "swipeMobileMessage": "向右滑動查看更多計劃！",
+    "title_portfolio": "投資組合計劃"
+}

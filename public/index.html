@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0,user-scalable=0" />
+        <meta name="theme-color" content="#242E35" />
+        <meta name="description" content="It's time to invest in fine wine." />
+        <meta name="keywords" content="wine, vinovest, invest, alternative, asset" />
+        <!-- Social Meta Tags -->
+        <meta property="og:title" content="Vinovest | Investing in Wine as an Alternative Asset" />
+        <meta property="og:site_name" content="Vinovest" />
+        <meta name="cf-2fa-verify" content="6Mk7Tmb72L4vFb6TVO">
+        <meta
+            property="og:description"
+            content="With 13.6% annualized returns over the past 15 years, fine wine has outperformed most global equities and is less volatile than real estate or gold."
+        />
+        <meta
+            property="og:image"
+            content="https://user-images.githubusercontent.com/41701884/125706147-27f0709a-d7c6-4e06-b4ea-1c84eac2022a.png"
+        />
+        <meta property="og:url" content="https://www.vinovest.co/" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:image:alt" content="Vinovest | Invest in Wine as an Alternative Asset" />
+
+        <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+        <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+        <title>Vinovest</title>
+        <style>
+            @font-face {
+                font-family: "RoslindaleDisplayCondensed";
+                font-display: swap;
+                src: local("RoslindaleDisplayCondensed-Bold"),
+                    url("%PUBLIC_URL%/fonts/RoslindaleDisplayCondensed-Bold.otf") format("opentype");
+            }
+
+            @font-face {
+                font-family: "FavoritStd";
+                font-display: swap;
+                src: local("FavoritStd-Medium"), url("%PUBLIC_URL%/fonts/FavoritStd-Medium.otf") format("opentype");
+            }
+
+            @font-face {
+                font-family: "FavoritMonoStd";
+                font-display: swap;
+                src: local("FavoritMonoStd-Medium"),
+                    url("%PUBLIC_URL%/fonts/FavoritMonoStd-Medium.otf") format("opentype");
+            }
+
+            @font-face {
+                font-family: "VinovestMedium";
+                font-display: swap;
+                src: local("Vinovest-Medium"), url("%PUBLIC_URL%/fonts/Vinovest-Medium.otf") format("opentype");
+            }
+
+            @font-face {
+                font-family: "VinovestMono";
+                font-display: swap;
+                src: local("Vinovest-Mono"), url("%PUBLIC_URL%/fonts/Vinovest-Mono.otf") format("opentype");
+            }
+        </style>
+        <script>
+            // Add a global variable *before* yett is loaded.
+            YETT_BLACKLIST = [/(twitter|google|facebook|youtube|reddit|instagram)/];
+        </script>
+        <script src="/static/scripts/yett.min.js"></script>
+        <!-- Tiktok analtyics tracker -->
+        <script>
+            !(function (w, d, t) {
+                w.TiktokAnalyticsObject = t;
+                var ttq = (w[t] = w[t] || []);
+                (ttq.methods = [
+                    "page",
+                    "track",
+                    "identify",
+                    "instances",
+                    "debug",
+                    "on",
+                    "off",
+                    "once",
+                    "ready",
+                    "alias",
+                    "group",
+                    "enableCookie",
+                    "disableCookie",
+                ]),
+                    (ttq.setAndDefer = function (t, e) {
+                        t[e] = function () {
+                            t.push([e].concat(Array.prototype.slice.call(arguments, 0)));
+                        };
+                    });
+                for (var i = 0; i < ttq.methods.length; i++) ttq.setAndDefer(ttq, ttq.methods[i]);
+                (ttq.instance = function (t) {
+                    for (var e = ttq._i[t] || [], n = 0; n < ttq.methods.length; n++)
+                        ttq.setAndDefer(e, ttq.methods[n]);
+                    return e;
+                }),
+                    (ttq.load = function (e, n) {
+                        var i = "https://analytics.tiktok.com/i18n/pixel/events.js";
+                        (ttq._i = ttq._i || {}),
+                            (ttq._i[e] = []),
+                            (ttq._i[e]._u = i),
+                            (ttq._t = ttq._t || {}),
+                            (ttq._t[e] = +new Date()),
+                            (ttq._o = ttq._o || {}),
+                            (ttq._o[e] = n || {});
+                        var o = document.createElement("script");
+                        (o.type = "text/javascript"), (o.async = !0), (o.src = i + "?sdkid=" + e + "&lib=" + t);
+                        var a = document.getElementsByTagName("script")[0];
+                        a.parentNode.insertBefore(o, a);
+                    });
+                ttq.load("C52H4C800UN7QUNEV0F0");
+                ttq.page();
+            })(window, document, "ttq");
+        </script>
+        <!-- Google Tag Manager -->
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s),
+                    dl = l != "dataLayer" ? "&l=" + l : "";
+                j.async = true;
+                j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl + "%APP_GTM_APPEND%";
+                f.parentNode.insertBefore(j, f);
+            })(window, document, "script", "dataLayer", "GTM-5Q6VLCP");
+        </script>
+        <!-- End Google Tag Manager -->
+
+        <!-- Calendly Widget SDK -->
+        <link
+            rel="preload"
+            as="style"
+            href="https://calendly.com/assets/external/widget.css"
+            rel="stylesheet"
+            onload="this.onload=null;this.rel='stylesheet'"
+        />
+        <script defer src="https://calendly.com/assets/external/widget.js" type="javascript/blocked"></script>
+        <script defer src="https://bitpay.com/bitpay.min.js"></script>
+        <!-- Web monster -->
+        <script
+            src="https://a.omappapi.com/app/js/api.min.js"
+            data-account="85986"
+            data-user="76468"
+            async
+            type="javascript/blocked"
+        ></script>
+
+        <!-- Start of vinovest Zendesk Widget script -->
+        <script defer id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=f3638add-3be0-43a1-88d7-3fa3a4ab2d5a"> </script>
+        <!-- End of vinovest Zendesk Widget script -->
+
+        <!-- Baidu Webmaster Tools -->
+        <script>
+            var _hmt = _hmt || [];
+            (function () {
+                var hm = document.createElement("script");
+                hm.src = "https://hm.baidu.com/hm.js?28132c4ae9a4b34d03629c892ba733dc";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(hm, s);
+            })();
+        </script>
+    </head>
+
+    <body>
+        <div id="root"></div>
+        <div id="modal-root"></div>
+        <script>
+            (function () {
+                var s = document.createElement("script"),
+                    e = !document.body ? document.querySelector("head") : document.body;
+                s.src = "https://acsbapp.com/apps/app/dist/js/app.js";
+                s.async = true;
+                s.onload = function () {
+                    acsbJS.init({
+                        statementLink: "",
+                        footerHtml: "",
+                        hideMobile: true,
+                        hideTrigger: true,
+                        language: "en",
+                        position: "left",
+                        leadColor: "#146ff8",
+                        triggerColor: "#146ff8",
+                        triggerRadius: "50%",
+                        triggerPositionX: "left",
+                        triggerPositionY: "bottom",
+                        triggerIcon: "people",
+                        triggerSize: "small",
+                        triggerOffsetX: 20,
+                        triggerOffsetY: 20,
+                        mobile: {
+                            triggerSize: "small",
+                            triggerPositionX: "left",
+                            triggerPositionY: "bottom",
+                            triggerOffsetX: 10,
+                            triggerOffsetY: 10,
+                            triggerRadius: "50%",
+                        },
+                    });
+                };
+                e.appendChild(s);
+            })();
+        </script>
+    </body>
+</html>

@@ -1,0 +1,57 @@
+{
+    "banner": {
+        "intelligently-diversify": "智能地將葡萄酒添加到您可以品嚐的多元化產品組合中。",
+        "simple-investing": "簡單、現代的葡萄酒投資"
+    },
+    "company": {
+        "about": "關於",
+        "careers": "職業",
+        "home": "家",
+        "press": "按",
+        "title": "公司",
+        "vinovest-council": "Vinovest 委員會"
+    },
+    "follow": "跟隨",
+    "learn": {
+        "how-it-works": "這個怎麼運作",
+        "pricing": "價錢",
+        "title": "學習",
+        "vinovest-100": "葡萄酒 100",
+        "why-wine": "為什麼是酒"
+    },
+    "newsletter": {
+        "email": "電子郵件地址",
+        "subscribed": "您現在訂閱了我們的時事通訊",
+        "title": "註冊時事通訊！"
+    },
+    "recent-articles": {
+        "champagne": "香檳（味道，最好的瓶子，2021 年的價格）",
+        "malbec": "馬爾貝克葡萄酒 - 釀酒、最佳葡萄酒、價格 (2021)",
+        "mimosa": "如何製作含羞草（食譜，葡萄酒創意，服務）",
+        "sangria": "簡單的桑格利亞汽酒食譜（小貼士，最好的葡萄酒）",
+        "sauvignon-blanc": "長相思（2021 年最佳葡萄酒、口味、價格）",
+        "title": "近期文章"
+    },
+    "resources": {
+        "accessibility": "無障礙",
+        "blog": "博客",
+        "contact-us": "聯繫我們",
+        "help": "幫助",
+        "privacy-policy": "隱私政策",
+        "terms": "條款與條件",
+        "title": "資源"
+    },
+    "services": {
+        "for-advisors": "對於顧問",
+        "guarantee": "保證",
+        "sustainability": "可持續性",
+        "title": "服務",
+        "whiskeyvest": "威士忌背心",
+        "wine-futures": "葡萄酒期貨"
+    },
+    "support": {
+        "hours": "太平洋標準時間週一至週五晚上 9-5 點",
+        "reply": "將在 24 小時內回复",
+        "title": "想談葡萄酒投資？"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "ada-compliance-statement": {
+        "last-assessment": "The last ADA assessment was completed and issues addressed on May 26, 2020.",
+        "list1": "Some pages have partial conformance due to the use of 3rd party vendors. As such Vinovest does not claim full site-wide conformance, instead a partial conformance, as defined by WCAG Level AA 2.1. Vinovest cannot ensure conformance of crucial third-party plug-ins and widgets.",
+        "list2": "Our conformance claims only extend to domains owned by Vinovest, Inc.",
+        "list3": " Vinovest used WCAG guidelines for conformance as suggested by the Department of Justice.",
+        "list4": "We are in the process of converting our PDFs to conformant versions. If you find one that does not conform or is not readable, please contact us so we may send you the information in a format that works for you.",
+        "list5": "Vinovest utilizes ADA assessment tools to scan and establish a baseline for conformance but understands W3C's position that, at this time, there is no tool that can perform a completely automatic assessment on the checkpoints in the guidelines, and fully automatic testing may remain difficult or impossible.",
+        "paragraph1": "We firmly believe that the internet should be available and accessible to anyone, and are committed to providing a website that is accessible to the widest possible audience, regardless of circumstance and ability.",
+        "paragraph2": "To fulfill this, we aim to adhere as strictly as possible to the World Wide Web Consortium’s (W3C) Web Content Accessibility Guidelines 2.1 (WCAG 2.1) at the AA level. Complying with these guidelines helps us ensure that the website is accessible to all people: visual impairment, people with motor impairments, cognitive disabilities, and more.",
+        "paragraph3": "This website utilizes various technologies that are meant to make it as accessible as possible at all times. We utilize an accessibility interface that allows persons with specific disabilities to adjust the website’s UI (user interface) and design it to their personal needs. However, here are some key points to note:",
+        "title": "ADA compliance statement"
+    },
+    "description": "Our mission is to give everyone access to investments in fine wine. We are committed to a multi-year plan to improve our platform and adhere to the Web Content Accessibility Guidelines (WCAG) 2.1 level A, and the Americans with Disabilities Act (ADA).",
+    "feedback": {
+        "paragraph1": "Despite our very best efforts to allow anybody to adjust the website to their needs, there may still be pages or sections that are not fully accessible, are in the process of becoming accessible, or are lacking an adequate technological solution to make them accessible.",
+        "paragraph2": "Still, we are continually improving our accessibility, adding, updating, and improving its options and features, and developing and adopting new technologies. All this is meant to reach the optimal level of accessibility, following technological advancements.",
+        "title": "Feedback"
+    },
+    "reaching-out": {
+        "description": "If you encounter any issues gaining access to material on this website, please contact us through email at ",
+        "title": "Reaching out regarding accessibility issues"
+    },
+    "title": "Accessibility"
+}

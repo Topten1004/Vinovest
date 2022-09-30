@@ -1,0 +1,37 @@
+{
+    "advisors": {
+        "dlynn-proctor": {
+            "name": "DLynn Proctor",
+            "position": "DIRECTOR, FANTESCA ESTATE & WINERY"
+        },
+        "dustin-wilson": {
+            "name": "Dustin Wilson",
+            "position": "MASTER SOMMELIER"
+        },
+        "jane-lopes": {
+            "name": "Jane Lopes",
+            "position": "WINE DIRECTOR AT ATTICA"
+        },
+        "jennifer-grancio": {
+            "name": "Jennifer Grancio",
+            "position": "ADVISOR"
+        },
+        "jonathan-ross-ms": {
+            "name": "Jonathan Ross MS",
+            "position": "MASTER SOMMELIER"
+        },
+        "yuan-jing": {
+            "name": "Yuan Jing",
+            "position": "Chateau Pichon Baron Asia Sales Director"
+        }
+    },
+    "head-meta": {
+        "description": "Meet the Vinovest Council team - a diverse group of wine experts, from seasoned winemakers to renowned Master Sommeliers.",
+        "title": "Vino Advisory Council | Vinovest | Wine Investment"
+    },
+    "head": {
+        "description": "From fifth generation winemakers to beverage directors at three Michelin star restaurants to world renowned sommeliers, we are proud to have this incredibly diverse team joining us in the Vinovest journey.",
+        "title": "Access brilliant people from all aspects of the wine industry",
+        "topSmallTitle": "VINOVEST COUNCIL"
+    }
+}

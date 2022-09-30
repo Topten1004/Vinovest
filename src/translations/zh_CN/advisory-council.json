@@ -1,0 +1,37 @@
+{
+    "advisors": {
+        "dlynn-proctor": {
+            "name": "德林·普罗克特（DLynn Proctor）",
+            "position": "凡特思卡酒庄总监"
+        },
+        "dustin-wilson": {
+            "name": "达斯汀·威尔逊（Dustin Wilson）",
+            "position": "侍酒大师"
+        },
+        "jane-lopes": {
+            "name": "简·洛佩斯（Jane Lopes）",
+            "position": "阿提卡的葡萄酒总监"
+        },
+        "jennifer-grancio": {
+            "name": "詹妮弗·格兰西奥（Jennifer Grancio）",
+            "position": "顾问"
+        },
+        "jonathan-ross-ms": {
+            "name": "乔纳森·罗丝（Jonathan Ross）女士",
+            "position": "侍酒大师"
+        },
+        "yuan-jing": {
+            "name": "原晶（Yuan Jing）",
+            "position": "男爵古堡亚洲销售总监"
+        }
+    },
+    "head-meta": {
+        "description": "Vinovest顾问团——从经验丰富的酿酒师到著名的侍酒大师，它是一个由葡萄酒专家组成的多元化团队。",
+        "title": "葡萄酒顾问 | Vinovest | 葡萄酒投资"
+    },
+    "head": {
+        "description": "从第五代酿酒师到米其林三星级餐厅的餐饮总监，再到全球知名的侍酒大师——Vinovest之旅拥有这个极为多元化的专家团队的加入让我们倍感自豪。",
+        "title": "葡萄酒专家，就在您身边",
+        "topSmallTitle": "Vinovest顾问"
+    }
+}

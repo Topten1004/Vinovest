@@ -1,0 +1,216 @@
+{
+    "account_auto_invest": {
+        "subtitle": "View your billing history and manage Automatic Investments",
+        "title": "Manage Automatic Investments"
+    },
+    "account_email": {
+        "email": "Email Address",
+        "error_invalid_email": "Invalid email address",
+        "label_email": "Email Address",
+        "notice": "Vinovest uses this email address to contact you with important information regarding the status of your account. Please keep it current.",
+        "placeholder_email": "EX: example@email.com",
+        "required": "Email is required",
+        "updated": "Your email has been updated"
+    },
+    "account_investment_plan": {
+        "notice": "Note: Your investment plan determines the blend of investments your money is allocated to. It will only affect future investments and will not re-balance your current positions.",
+        "title": "Investment Plan",
+        "updated": "Your investment plan has been updated"
+    },
+    "account_mobile": {
+        "error_invalid": "Invalid phone number",
+        "label": "Phone Number",
+        "placeholder": "Enter phone number",
+        "required": "Phone number is required",
+        "success_updated": "Your phone number has been updated",
+        "title": "Mobile Number"
+    },
+    "account_personal_information": {
+        "description_address": "This should be the address used for tax purposes.",
+        "label_address": "Address",
+        "label_city": "City",
+        "label_country": "Country",
+        "label_first": "First Name",
+        "label_fullname": "Full Name",
+        "label_last": "Last Name",
+        "label_state": "State",
+        "label_zip": "Zip",
+        "placeholder_address": "EX: 123 Main St.",
+        "placeholder_city": "EX: San Fransico",
+        "placeholder_first": "EX: John",
+        "placeholder_last": "EX: Smith",
+        "placeholder_zip": "EX: 90103",
+        "success": "Your personal information has been updated",
+        "title": "Personal Information"
+    },
+    "account_settings": {
+        "auto_invest": "Auto-Invest",
+        "sell_wine": "Sell your wine",
+        "liquidate_portfolio": "Liquidate Portfolio",
+        "rebalance": "Rebalance Portfolio"
+    },
+    "accountsettings": {
+        "sell": "Sell your wine"
+    },
+    "book_a_call": "Book a call",
+    "button_cancel": "Cancel",
+    "button_save": "Save",
+    "disclaimer": "All of your information is secured. We will never send your data to marketers or send you spam",
+    "error_generic": "Something went wrong",
+    "error_post": "Unable to update your information at this time.",
+    "estimator": {
+        "description": "If you had invested 10 years ago, today your portfolio would be worth:",
+        "description_point_1": "Low risk appetite",
+        "description_point_2": "Medium risk appetite",
+        "description_point_3": "High risk appetite",
+        "discliamer": "Historical performance data is based on publicly and privately available sales data",
+        "label_point_1": "Conservative",
+        "label_point_2": "Moderate",
+        "label_point_3": "Aggressive"
+    },
+    "grand_cru": "Grand Cru",
+    "main": {
+        "account": "Managed account",
+        "logout": "log out",
+        "user_settings": "User Settings"
+    },
+    "myaccount": {
+        "edit": "Edit",
+        "editbutton": "Edit"
+    },
+    "nav": {
+        "step_one": "Account Creation",
+        "step_three": "Fund Account",
+        "step_two": "Investor Profile"
+    },
+    "not_provided": "Not provided",
+    "onboard": {
+        "button_create": "Create Account",
+        "create_account_title": "Create an account",
+        "error_create_account": "Unable to create an account at this time. Please contact customer support for help.",
+        "error_email": "Email address is required",
+        "error_email_invalid": "Invalid email",
+        "error_firstName": "First name is required",
+        "error_lastName": "Last name is required",
+        "error_password": "Password is required",
+        "error_password_email_new_user": "Unable to register new user due to invalid email or password. Please use an email that is not already registered with Vinovest, and set a password that meets the criteria.",
+        "error_primaryPhone": "Phone number is required",
+        "error_starting_investment": "Please enter an investment amount",
+        "error_timeframe": "Please enter an investment timeframe",
+        "label_referal": "How did you hear about us? (optional)",
+        "placeholder_referal": "Select one",
+        "referal_option_1": "Radio (AM, FM, XM, etc.)",
+        "referal_option_10": "Other",
+        "referal_option_2": "TV",
+        "referal_option_3": "Search Engine",
+        "referal_option_4": "Friend\/Referal",
+        "referal_option_5": "Social Media",
+        "referal_option_6": "Podcast",
+        "referal_option_7": "Billboard",
+        "referal_option_8": "Email",
+        "referal_option_9": "Affiliate"
+    },
+    "password": {
+        "button_cancel": "Cancel",
+        "button_change": "Change",
+        "current_password": "Current password is incorrect. This is required to update your password.",
+        "error_and": "and",
+        "error_at_least": "At least",
+        "error_characters": "Password should contain at least 8 characters",
+        "error_confirm_password": "Confirm Password field is required",
+        "error_new_required": "New Password field is required",
+        "error_number": "Password should contain at least one number",
+        "error_old_password": "Your old password is required",
+        "error_special": "Password should contain at least one special character",
+        "error_upper": "Password should contain at least one uppercase character",
+        "label_confirm_password": "Confirm New Password",
+        "label_current_password": "Current Password",
+        "label_new_password": "New Password",
+        "match": "Password does not match.",
+        "notice": "To change your password, enter your current password and then create a new one using the following form.",
+        "password_requirements": "At least 8 characters one number one uppercase letter and one special character",
+        "required_criteria": "Password does not meet the required criteria.",
+        "retype_password": "Type your new password again.",
+        "success_update": "Your password has been updated.",
+        "title": "Password"
+    },
+    "premium": "Premium",
+    "profile": {
+        "button_complete": "Finish",
+        "investor_title": "Investor profile",
+        "label_cash_access": "When are you planning to invest?",
+        "label_starting_investment": "How much are you planning to invest in your first year?",
+        "option_1": "Immediately",
+        "option_2": "Within a month",
+        "option_3": "Not sure yet"
+    },
+    "rebalance_description": "To speak with an advisor about rebalancing your portfolio, please schedule a call using the link below.",
+    "sell_your_wine": {
+        "description": {
+            "description": "Please allow 2-4 weeks for the process to be completed.",
+            "paragraph1": "If you are choosing to sell before the recommended selling window, please be aware that you may not making the most strategic investment decision. Selling within the first three years of your investment is detrimental in two key ways:",
+            "paragraph2": "1. You are still in the window of being charged an early liquidation penalty.",
+            "paragraph3": "2. You will forfeit any future gains from the wines’ price appreciation.",
+            "paragraph4": "Historical data shows that the strongest returns are realized over a 5 to 20 year time frame.",
+            "portfolio_sold": "We have received your request to sell your entire wine portfolio.",
+            "sell_portfolio": "If you would like to liquidate and or withdraw your funds, please click the button below."
+        },
+        "liquidation": {
+            "full": "We have received your request to sell your entire wine portfolio.",
+            "neither": "If you would like to liquidate and or withdraw your funds, please click the button below.",
+            "partial": "We have received your request to sell some of your wines."
+        },
+        "sell_button": {
+            "disabled": "Liquidate portfolio",
+            "enabled": "In Progress"
+        },
+        "support": {
+            "notsold": "If you have any questions, please check out our",
+            "notsold_email_message": "support page",
+            "sold": "If you have any questions, please",
+            "sold_email_message": "contact our support team"
+        }
+    },
+    "sellyourwine": {
+        "description": {
+            "description": "Please allow 2-4 weeks for the process to be completed.",
+            "portfolio-sold": "We have received your request to sell your entire wine portfolio.",
+            "sell-portfolio": "If you would like to liquidate and or withdraw your funds, please click the button below."
+        },
+        "sellbutton": {
+            "disabled": "sell your wine",
+            "enabled": "In Progress"
+        },
+        "support": {
+            "notsold": "If you have any questions, please check out our",
+            "notsold-email-message": "support page",
+            "sold": "If you have any questions, please",
+            "sold-email-message": "contact our support team"
+        }
+    },
+    "standard": "Standard",
+    "support": {
+        "help_support": "Help & Support",
+        "privacy_policy": "Privacy Policy",
+        "terms_condition": "Terms & Conditions",
+        "title": "Support"
+    },
+    "title": "User Settings",
+    "update_info": {
+        "complete_message": "Your number has been updated!"
+    },
+    "updateinfo": {
+        "complete-message": "Your number has been updated!"
+    },
+    "user_settings": {
+        "account": "Personal Information",
+        "investment_plan": "Investment Plan",
+        "logout": "Log Out",
+        "password": "Password",
+        "phone": "Mobile Number"
+    },
+    "usersettings": {
+        "account": "Personal Information",
+        "phone": "Mobile Number"
+    }
+}

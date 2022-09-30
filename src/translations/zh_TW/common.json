@@ -1,0 +1,112 @@
+{
+    "about": "關於",
+    "account": "帳戶",
+    "blog": "博客",
+    "cad_currency_value": "C$ 加元 (CAD)",
+    "calendly": {
+        "book": "與我們的一位葡萄酒專家進行一對一通話。建立葡萄酒投資組合以對沖不確定的市場狀況。",
+        "mobile-book": "與我們的葡萄酒專家進行一對一通話"
+    },
+    "copywrite": "維諾維斯特。版權所有。",
+    "currency": "美元",
+    "currencySymbol": "$",
+    "currency_symbol": "$",
+    "date-format": {
+        "month": "月\/年",
+        "standard": "月\/日\/年"
+    },
+    "date": {
+        "short": "{{ 日期，短}}"
+    },
+    "documents": "文件",
+    "duration": "{{ 計數，持續時間}} {{ 單位，持續時間}}",
+    "en_currency": "美元",
+    "en_currency_value": "$ 美元 (USD)",
+    "error-boundry": {
+        "button-retry": "再試一次",
+        "description": "對於那個很抱歉！看起來我們&apos;我們這邊有問題。",
+        "error": "錯誤信息",
+        "hold": "給我們一秒鐘，然後再試一次",
+        "title": "不是你，是我們"
+    },
+    "footer": {
+        "and": "和",
+        "button-about": "關於我們",
+        "button-faq": "常問問題",
+        "button-home": "家",
+        "button-privacy": "隱私政策",
+        "button-terms": "服務條款",
+        "button-terms-conditions": "條款和條件",
+        "button-website": "Vinovest.co",
+        "disclaimer-1": "Vinovest, Inc（“Vinovest”）運營一個網站，網址為",
+        "disclaimer-2": "通過使用平台，您接受我們的",
+        "disclaimer-3": "過去的表現並不能保證將來的結果。任何歷史回報、預期回報或概率預測可能無法反映未來的實際表現。購買葡萄酒涉及風險，可能會導致部分損失。雖然我們使用來自第三方的數據被認為是可靠的，但我們無法確保投資者或其他第三方提供的數據的準確性或完整性。",
+        "disclaimer-4": "Vinovest 或其任何附屬公司均不提供稅務建議，也不以任何方式表示此處描述的結果將導致任何特定的稅務後果。潛在投資者應根據其特定情況與他們的個人稅務顧問就稅務後果進行協商。 Vinovest 或其任何附屬公司均不對任何投資的任何投資者的稅務後果承擔責任。"
+    },
+    "gbp_currency_value": "£ 英鎊 (GBP)",
+    "get-started": "開始",
+    "help": "幫助",
+    "how-it-works": "這個怎麼運作",
+    "invite": "邀請",
+    "minimum_investment_amount": "1000",
+    "months": {
+        "april": "四月",
+        "august": "八月",
+        "december": "十二月",
+        "february": "二月",
+        "january": "一月",
+        "july": "七月",
+        "june": "六月",
+        "march": "行進",
+        "may": "可能",
+        "november": "十一月",
+        "october": "十月",
+        "september": "九月"
+    },
+    "navigation": {
+        "funds": "增加資金"
+    },
+    "overview": "概述",
+    "phone-number-capture": {
+        "error": "請輸入一個有效的電話號碼",
+        "error-region": "提供的字符串似乎不是電話號碼",
+        "title": "輸入你的電話號碼"
+    },
+    "portfolio": "文件夾",
+    "transactions": "交易",
+    "units": {
+        "ml": "毫升"
+    },
+    "uppercase": "{{ 文字，大寫 }}",
+    "utils": {
+        "constants": {
+            "aggressive": "挑釁的",
+            "bank_transfer": "銀行轉帳",
+            "conservative": "保守的",
+            "credit_card": "信用卡",
+            "funds_added": "增加的資金",
+            "funds_withdrew": "資金撤回",
+            "moderate": "緩和",
+            "pending_deposit": "待定存款",
+            "rebalance_add": "再平衡添加",
+            "trade_settlement_purchase": "貿易結算購買",
+            "trade_settlement_sell": "貿易結算賣出",
+            "transfer_in": "轉入",
+            "transfer_out": "轉出",
+            "vinovest_monthly_fee": "vinovest 月費",
+            "wine_purchase": "買酒",
+            "wine_sold": "酒賣了"
+        },
+        "shared": {
+            "bottle": "{{ count }} 瓶",
+            "bottle_plural": "{{ count }} 瓶",
+            "case": "{{ count }} 案例",
+            "case_plural": "{{ count }} 案例"
+        }
+    },
+    "why-wine": "為什麼選擇葡萄酒",
+    "zh_CN_currency": "中國新年",
+    "zh_CN_currency_value": "港元",
+    "zh_Hans_HK_currency": "港元",
+    "zh_Hans_HK_currency_value": "HK$ 港元 (HKD)"
+}

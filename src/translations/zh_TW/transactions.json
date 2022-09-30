@@ -1,0 +1,82 @@
+{
+    "buttons": {
+        "fee_free": "立即獲得免費投資！",
+        "wine_certificate": "酒證"
+    },
+    "details": {
+        "early_withdrawal": "提前退出",
+        "failed": "失敗的",
+        "management": "管理"
+    },
+    "items": {
+        "adjust": "調整",
+        "buy": "買",
+        "completed": "完全的",
+        "deposit": "訂金",
+        "fee": "費用",
+        "fee-credit": "費用抵免",
+        "free": "自由",
+        "funds": "資金",
+        "in-progress": "進行中",
+        "monthly": "每月",
+        "pending": "訂金",
+        "purchase": "購買",
+        "sold": "賣",
+        "sourcing": "採購葡萄酒",
+        "wine": "葡萄酒",
+        "withdrawn": "撤銷"
+    },
+    "labels": {
+        "bottles": "瓶子",
+        "case_size": "1例",
+        "date": "日期",
+        "ml": "機器學習",
+        "price_per_bottle": "每瓶價格",
+        "quantity": "數量",
+        "size": "尺寸",
+        "vintage": "優質的"
+    },
+    "messages": {
+        "empty": "您已完成的交易將顯示在此處。",
+        "empty_transaction": "沒有待處理的交易。",
+        "failed": "交易失敗。請再試一次。",
+        "no_match": "無匹配。請再試一次。",
+        "pending": "待辦的"
+    },
+    "section": {
+        "empty": "您還沒有任何交易",
+        "fund": "為您的帳戶注資"
+    },
+    "title": "交易",
+    "transactions-header": {
+        "all_time": "整天",
+        "all_transactions": "所有交易",
+        "buy": "買",
+        "current_year": "今年",
+        "deposit": "訂金",
+        "fee": "費用",
+        "last_90": "過去 90 天",
+        "last_month": "上個月",
+        "month": "這個月",
+        "previous_year": "去年",
+        "sell": "賣",
+        "withdraw": "提取"
+    },
+    "transactions-list": {
+        "amount": "數量",
+        "date": "日期",
+        "description": "描述",
+        "failed": "失敗的",
+        "pending": "待辦的",
+        "type": "類型"
+    },
+    "wine-details": {
+        "bottle": "瓶子",
+        "more_case": "更多案例",
+        "more_cases": "更多案例",
+        "of": "的",
+        "s": "秒",
+        "sourcing": "採購",
+        "sourcing_wine_statement": "我們正在為您的投資賬戶採購最好的葡萄酒"
+    }
+}

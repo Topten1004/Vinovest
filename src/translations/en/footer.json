@@ -1,0 +1,57 @@
+{
+    "banner": {
+        "high-returns": "High annualized returns. Low volatility. No commissions. No hidden fees. What more could you want?",
+        "wine-as-asset": "Invest in Wine As An Asset"
+    },
+    "company": {
+        "about": "About",
+        "careers": "Careers",
+        "home": "Home",
+        "press": "Press",
+        "title": "Company",
+        "vinovest-council": "Vinovest council"
+    },
+    "follow": "follow",
+    "learn": {
+        "how-it-works": "How it works",
+        "pricing": "Pricing",
+        "title": "Learn",
+        "vinovest-100": "Vinovest 100",
+        "why-wine": "Why wine"
+    },
+    "newsletter": {
+        "email": "email address",
+        "subscribed": "You're now subscribed to our newsletter",
+        "title": "Sign up for the newsletter!"
+    },
+    "recent-articles": {
+        "champagne": "Champagne (Taste, Best Bottles, Prices 2021)",
+        "malbec": "Malbec Wine - Winemaking, Best Wines, Prices (2021)",
+        "mimosa": "How to Make a Mimosa (Recipe, Wine Ideas, Serving)",
+        "sangria": "Easy Sangria Recipes (Tips, Best Wines)",
+        "sauvignon-blanc": "Sauvignon Blanc (Best Wines, Taste, Prices 2021)",
+        "title": "Recent articles"
+    },
+    "resources": {
+        "accessibility": "Accessibility",
+        "blog": "Blog",
+        "contact-us": "Contact us",
+        "help": "Help",
+        "privacy-policy": "Privacy policy",
+        "terms": "T&C",
+        "title": "Resources"
+    },
+    "services": {
+        "for-advisors": "For Advisors",
+        "guarantee": "Guarantee",
+        "sustainability": "Sustainability",
+        "title": "Services",
+        "whiskeyvest": "Whiskeyvest",
+        "wine-futures": "Wine futures"
+    },
+    "support": {
+        "hours": "9-5pm PST mon-fri",
+        "reply": "will reply in 24hrs",
+        "title": "Want to talk wine investing?"
+    }
+}

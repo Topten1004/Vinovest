@@ -1,0 +1,82 @@
+{
+    "buttons": {
+        "fee_free": "Get fee free investing now!",
+        "wine_certificate": "Wine certificate"
+    },
+    "details": {
+        "early_withdrawal": "Early withdrawal",
+        "failed": "Failed",
+        "management": "Management"
+    },
+    "items": {
+        "adjust": "Adjustment",
+        "buy": "Buy",
+        "completed": "Completed",
+        "deposit": "Deposit",
+        "fee": "Fee",
+        "fee-credit": "Fee credit",
+        "free": "Free",
+        "funds": "Funds",
+        "in-progress": "In Progress",
+        "monthly": "Monthly",
+        "pending": "Deposit",
+        "purchase": "Purchase",
+        "sold": "Sold",
+        "sourcing": "Sourcing wine",
+        "wine": "Wine",
+        "withdrawn": "Withdrawn"
+    },
+    "labels": {
+        "bottles": "Bottles",
+        "case_size": "1 Case of",
+        "date": "Date",
+        "ml": "ML",
+        "price_per_bottle": "Price per bottle",
+        "quantity": "Quantity",
+        "size": "Size",
+        "vintage": "vintage"
+    },
+    "messages": {
+        "empty": "Your completed transactions will show up here.",
+        "empty_transaction": "No pending transactions.",
+        "failed": "Transaction failed. Please try again.",
+        "no_match": "No matches. Please try again.",
+        "pending": "Pending"
+    },
+    "section": {
+        "empty": "You don't have any transactions yet",
+        "fund": "Fund your Account"
+    },
+    "title": "Transactions",
+    "transactions-header": {
+        "all_time": "All time",
+        "all_transactions": "All Transactions",
+        "buy": "Buy",
+        "current_year": "This year",
+        "deposit": "Deposit",
+        "fee": "Fee",
+        "last_90": "Last 90 days",
+        "last_month": "Last month",
+        "month": "This month",
+        "previous_year": "Last year",
+        "sell": "Sell",
+        "withdraw": "Withdraw"
+    },
+    "transactions-list": {
+        "amount": "Amount",
+        "date": "Date",
+        "description": "Description",
+        "failed": "Failed",
+        "pending": "Pending",
+        "type": "Type"
+    },
+    "wine-details": {
+        "bottle": "bottle",
+        "more_case": "more case",
+        "more_cases": "more cases",
+        "of": "of",
+        "s": "s",
+        "sourcing": "Sourcing",
+        "sourcing_wine_statement": "We are sourcing the best available wine for your investment account"
+    }
+}

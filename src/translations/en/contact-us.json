@@ -1,0 +1,18 @@
+{
+    "allSupportTopics": {
+        "description": "The answers to most questions can be found on our Help Page",
+        "linkText": "CHECK OUT HELP PAGE",
+        "title": "All support topics"
+    },
+    "forCurrentInvestors": {
+        "description": "If you have any account or support related questions",
+        "linkText": "CONTACT CUSTOMER SUPPORT TEAM",
+        "title": "For current investors"
+    },
+    "forNewInvestors": {
+        "description": "If you are interested in growing your wine portfolio",
+        "linkText": "CONTACT PORTFOLIO ADVISORS",
+        "title": "For new investors"
+    },
+    "title": "Contact Us"
+}

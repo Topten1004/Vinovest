@@ -1,0 +1,37 @@
+{
+  "welcome": "Welcome to the Vinovest Community!",
+  "welcome-text": "You’re about to enter the first online community dedicated to wine investing. Here you can discuss, learn, and connect with other Vinovestors while enjoying a bunch of cool perks.",
+  "button": "Join us",
+  "benefits": {
+    "title": "Benefits",
+    "benefit1": "Wine tastings",
+    "benefit2": "First access to new wines",
+    "benefit3": "Investing tips",
+    "benefit4": "AMAs with portfolios managers and Winemakers",
+    "benefit5": "Happy hours",
+    "benefit6": "Community-only reports",
+    "benefit7": "Vineyard tours",
+    "benefit8": "Suggest ideas to the product team"
+  },
+  "get-started": "Get started",
+  "step1": {
+    "subtitle": "Step 1",
+    "title": "Create an Account",
+    "text": "Make sure to use the same email as your Vinovest account"
+  },
+  "step2": {
+    "subtitle": "Step 2",
+    "title": "Say Hello",
+    "text": "Check out our community guidelines and introduce yourself in our Welcome section"
+  },
+  "step3": {
+    "subtitle": "Step 3",
+    "title": "Get Engaged",
+    "text": "Start a discussion on our message board or learn more with Wine Investing 101"
+  },
+  "step4": {
+    "subtitle": "Bonus step",
+    "title": "Get a Guided Tour",
+    "text": "Get a personalized community tour by scheduling a meeting with our Head of Community, Karl Roskamp"
+  }  
+}

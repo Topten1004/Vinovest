@@ -1,0 +1,34 @@
+{
+    "contact-us": {
+        "cant-find": "有其他问题？",
+        "contact": "联系我们"
+    },
+    "help-center-slug": "客户支持中心",
+    "note": {
+        "text1": "由管理的法律法规",
+        "text2": "外国资产控制办公室（OFAC）",
+        "text3": "对向位于受法律\/法规制裁的管辖区（包括古巴、伊朗、朝鲜、叙利亚和乌克兰克里米亚地区）的人员（包括美国公民和当地的永久居民）所提供的服务施加了相关限制，因此，您如果在这些地方，将无法访问您的帐户，而且尝试登录可能会导致您的帐户受到相应的限制。",
+        "title": "请知悉"
+    },
+    "question": {
+        "thank": "谢谢您！",
+        "wasHelpful": "这些信息是否对您有帮助？"
+    },
+    "search": {
+        "message": "我们没有找到任何搜索结果",
+        "placeholder": "请在此输入您的问题..."
+    },
+    "support-category": {
+        "meta": {
+            "description": "Vinovest客户支持中心"
+        }
+    },
+    "support-main": {
+        "meta": {
+            "description": "对通过Vinovest投资葡萄酒有疑问？您可以在这里找到与Vinovest如何运作、退货、所有权、费用、运输、存储等方面的所有相关信息。",
+            "title": "客户支持中心"
+        },
+        "title": "我们能为您提供什么帮助？",
+        "view-all": "查看全部"
+    }
+}

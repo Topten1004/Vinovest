@@ -1,0 +1,19 @@
+{
+    "form": {
+        "email": "Email",
+        "fullName": "FULL NAME",
+        "message": "Message",
+        "phoneNumber": "Phone Number",
+        "placeholderEmail": "Email",
+        "placeholderMessage": "Briefly describe your question...",
+        "placeholderName": "Name",
+        "thankYou": "Thank you! Your submission has been received!"
+    },
+    "head-meta": {
+        "title": "Contact Us"
+    },
+    "head": {
+        "description": "If you are a Premium or Grand Cru member, please contact your dedicated Portfolio Advisor directly.",
+        "title": "Contact Us"
+    }
+}

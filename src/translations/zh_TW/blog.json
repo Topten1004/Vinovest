@@ -1,0 +1,34 @@
+{
+    "article": {
+        "dontForget": "不要忘記分享這篇文章！",
+        "furtherReading": "進一步閱讀",
+        "relatedArticles": "相關文章"
+    },
+    "author": {
+        "writtenBy": "撰稿人"
+    },
+    "blog": {
+        "title": "博客"
+    },
+    "emailForm": {
+        "getStarted": "開始",
+        "successMessage": "謝謝！您的提交已收到！"
+    },
+    "mostPopular": {
+        "title": "最受歡迎"
+    },
+    "reading-position-bar": {
+        "emailPlaceholder": "輸入你的電子郵箱",
+        "getStarted": "開始",
+        "paragraph": "Wine 始終優於其他替代資產。 Vinovest 使葡萄酒投資變得容易。",
+        "share": "分享",
+        "title": "簡單的現代葡萄酒投資"
+    },
+    "utils": {
+        "by": "經過",
+        "month": "月",
+        "months": "月",
+        "year": "年",
+        "years": "年"
+    }
+}

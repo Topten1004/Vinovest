@@ -1,0 +1,4130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Deposit component Check translations for AddFunds 1`] = `
+.c6 {
+  font-family: VinovestMono;
+  height: 50px;
+  background: #A86D37;
+  opacity: 1;
+  color: #FFFFFF;
+  font-size: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 3.5px;
+  text-align: center;
+  -webkit-letter-spacing: 0.025em;
+  -moz-letter-spacing: 0.025em;
+  -ms-letter-spacing: 0.025em;
+  letter-spacing: 0.025em;
+  line-height: 26px;
+  font-weight: 500;
+  font-style: normal;
+  text-transform: uppercase;
+  width: 100%;
+  border: none;
+  cursor: pointer;
+  pointer-events: initial;
+  -webkit-transition: box-shadow 0.3s ease-in-out;
+  transition: box-shadow 0.3s ease-in-out;
+  margin-top: 32px;
+}
+
+.c6:hover {
+  box-shadow: 0px 4px 20px rgba(0,0,0,0.3);
+}
+
+.c6:focus {
+  outline: 0;
+}
+
+.c6:disabled {
+  background: #E5E5E5;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 500px;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin: 26px 0;
+  width: 100%;
+}
+
+.c2 {
+  font-family: VinovestMono;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  font-family: VinovestMono;
+  text-transform: uppercase;
+  background: #4f81b0;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  height: 48px;
+}
+
+.c3 {
+  position: relative;
+  height: 65px;
+  border: 1px solid #CACCCE;
+  -webkit-transition: border 0.1s ease-in-out;
+  transition: border 0.1s ease-in-out;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  box-shadow: 0 6px 9px rgba(50,50,93,0.06),0 2px 5px rgba(0,0,0,0.08);
+  font-size: 16px;
+}
+
+.c3 select {
+  cursor: pointer;
+  height: 100%;
+  width: 100%;
+  outline: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  position: absolute;
+  background: none;
+  border: 0;
+  left: 0;
+  top: 0;
+  z-index: 1;
+  padding: 0 34px 0 20px;
+}
+
+.c3 select option {
+  font-family: Verdana;
+}
+
+.c3 .expand-dropdown-arrow {
+  position: absolute;
+  right: 35px;
+  height: 13px;
+}
+
+.c5 {
+  position: relative;
+  height: 65px;
+  border: 1px solid #CACCCE;
+  -webkit-transition: border 0.1s ease-in-out;
+  transition: border 0.1s ease-in-out;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  box-shadow: 0 6px 9px rgba(50,50,93,0.06),0 2px 5px rgba(0,0,0,0.08);
+  font-size: 16px;
+  padding: 0 34px 0 28px;
+}
+
+.c5 #deposit-input-field {
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+  padding: 0 15px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.c5 #currency-symbol {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c5 #add-funds-error {
+  position: absolute;
+  font-family: VinovestMono;
+  color: #FF4D00;
+  text-transform: uppercase;
+  top: 70px;
+  left: 0;
+  font-size: 12px;
+}
+
+@media screen and (min-width:768px) {
+  .c6 {
+    margin: 0 auto;
+    max-width: 300px;
+  }
+}
+
+@media screen and (min-width:768px) {
+  .c6 {
+    margin-top: 40px;
+    max-width: initial;
+  }
+}
+
+@media (min-width:768px) {
+  .c2 {
+    font-size: 16px;
+  }
+}
+
+@media (min-width:768px) {
+  .c4 {
+    font-size: 14px;
+  }
+}
+
+@media (min-width:768px) {
+  .c3 {
+    font-size: 18px;
+  }
+}
+
+@media (min-width:768px) {
+  .c3 select {
+    padding: 0 34px 0 28px;
+  }
+}
+
+@media (min-width:768px) {
+  .c5 {
+    font-size: 18px;
+  }
+}
+
+@media (min-width:768px) {
+  .c5 #add-funds-error {
+    font-size: 14px;
+  }
+}
+
+<body>
+  <div>
+    <div
+      class="c0"
+      style="opacity: 1; webkit-transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+    >
+      <div
+        class="c1"
+      >
+        <label
+          class="c2"
+        >
+          Source
+        </label>
+        <div
+          class="c3"
+        >
+          <select>
+            <option
+              value="99"
+            >
+              New payment method
+            </option>
+          </select>
+          <img
+            alt="expand-icon"
+            class="expand-dropdown-arrow"
+            src="SvgrURL"
+          />
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <label
+          class="c2"
+        >
+          Frequency
+        </label>
+        <div
+          class="c4"
+        >
+          Save 5% on Fees By Setting Up Auto-Invest
+        </div>
+        <div
+          class="c3"
+        >
+          <select>
+            <option
+              disabled=""
+              value=""
+            >
+              Choose a frequency
+            </option>
+          </select>
+          <img
+            alt="expand-icon"
+            class="expand-dropdown-arrow"
+            src="SvgrURL"
+          />
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <label
+          class="c2"
+        >
+          Amount
+        </label>
+        <div
+          class="c5"
+        >
+          <span
+            id="currency-symbol"
+          >
+            $
+          </span>
+          <input
+            id="deposit-input-field"
+            placeholder="e.g. 5,000"
+            type="text"
+            value="5,000"
+          />
+          
+        </div>
+      </div>
+      <button
+        class="c6"
+      >
+        Continue $5,000
+      </button>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Deposit component Check translations for Confirmation 1`] = `
+<body>
+  .c4 {
+  font-family: VinovestMono;
+  height: 50px;
+  background: #A86D37;
+  opacity: 1;
+  color: #FFFFFF;
+  font-size: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 3.5px;
+  text-align: center;
+  -webkit-letter-spacing: 0.025em;
+  -moz-letter-spacing: 0.025em;
+  -ms-letter-spacing: 0.025em;
+  letter-spacing: 0.025em;
+  line-height: 26px;
+  font-weight: 500;
+  font-style: normal;
+  text-transform: uppercase;
+  width: 100%;
+  border: none;
+  cursor: pointer;
+  pointer-events: initial;
+  -webkit-transition: box-shadow 0.3s ease-in-out;
+  transition: box-shadow 0.3s ease-in-out;
+  margin-top: 32px;
+}
+
+.c4:hover {
+  box-shadow: 0px 4px 20px rgba(0,0,0,0.3);
+}
+
+.c4:focus {
+  outline: 0;
+}
+
+.c4:disabled {
+  background: #E5E5E5;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 500px;
+}
+
+.c1 {
+  margin-bottom: 20px;
+}
+
+.c2 {
+  text-align: center;
+  font-size: 18px;
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+
+.c3 {
+  width: 100%;
+  max-width: 400px;
+}
+
+@media screen and (min-width:768px) {
+  .c4 {
+    margin: 0 auto;
+    max-width: 300px;
+  }
+}
+
+@media screen and (min-width:768px) {
+  .c4 {
+    margin-top: 40px;
+    max-width: initial;
+  }
+}
+
+<div>
+    <div
+      class="c0"
+      style="opacity: 1; webkit-transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+    >
+      <img
+        class="c1"
+        src="SvgrURL"
+      />
+      <div
+        class="c2"
+      >
+        <p>
+          We've initiated your transfer of $NaN
+        </p>
+        <p>
+          It may take up to 3-5 days to be deducted
+        </p>
+        <p>
+          from your account
+        </p>
+      </div>
+      <div
+        class="c3"
+      >
+        <button
+          class="c4"
+        >
+          Done
+        </button>
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Deposit component Check translations for EnterCreditCard 1`] = `
+<body>
+  .c4 {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  left: 7.749vw;
+  top: 40%;
+  border: 2px solid #eeeeee;
+  box-sizing: border-box;
+  background: transparent;
+  outline: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c4:hover {
+  cursor: pointer;
+}
+
+.c3 {
+  font-family: VinovestMono;
+  height: 50px;
+  background: #A86D37;
+  opacity: 0.7;
+  color: #FFFFFF;
+  font-size: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 3.5px;
+  text-align: center;
+  -webkit-letter-spacing: 0.025em;
+  -moz-letter-spacing: 0.025em;
+  -ms-letter-spacing: 0.025em;
+  letter-spacing: 0.025em;
+  line-height: 26px;
+  font-weight: 500;
+  font-style: normal;
+  text-transform: uppercase;
+  width: 100%;
+  border: none;
+  cursor: pointer;
+  pointer-events: none;
+  -webkit-transition: box-shadow 0.3s ease-in-out;
+  transition: box-shadow 0.3s ease-in-out;
+  margin-top: 32px;
+}
+
+.c3:hover {
+  box-shadow: 0px 4px 20px rgba(0,0,0,0.3);
+}
+
+.c3:focus {
+  outline: 0;
+}
+
+.c3:disabled {
+  background: #E5E5E5;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 500px;
+}
+
+.c1 {
+  width: 100%;
+  position: relative;
+  margin-top: 32px;
+  display: "flex";
+  -webkit-flex-direction: "column";
+  -ms-flex-direction: "column";
+  flex-direction: "column";
+}
+
+.c2 {
+  margin: 0 0 20px;
+  padding: 0;
+  border: 1px solid #CACCCE;
+  will-change: opacity,transform;
+  box-shadow: 0 6px 9px rgba(50,50,93,0.06),0 2px 5px rgba(0,0,0,0.08);
+  height: 80px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 0 15px;
+}
+
+.c2 .StripeElement,
+.c2 #cc-name-row {
+  width: 100%;
+}
+
+.c2 #cc-name-error {
+  position: absolute;
+  font-family: VinovestMono;
+  color: #FF4D00;
+  text-transform: uppercase;
+  top: 90px;
+  left: 0;
+  font-size: 12px;
+}
+
+.c2 #cc-name-row,
+.c2 .InputElement {
+  font-family: Roboto,Open Sans,Segoe UI,sans-serif;
+  text-transform: uppercase;
+  color: #242E35;
+  font-size: 16px;
+  outline: none;
+  background: none;
+  border: 0;
+}
+
+.c2 #cc-name-row::-webkit-input-placeholder,
+.c2 .InputElement::-webkit-input-placeholder {
+  font-family: Roboto,Open Sans,Segoe UI,sans-serif;
+  color: #767A7F;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.c2 #cc-name-row::-moz-placeholder,
+.c2 .InputElement::-moz-placeholder {
+  font-family: Roboto,Open Sans,Segoe UI,sans-serif;
+  color: #767A7F;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.c2 #cc-name-row:-ms-input-placeholder,
+.c2 .InputElement:-ms-input-placeholder {
+  font-family: Roboto,Open Sans,Segoe UI,sans-serif;
+  color: #767A7F;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.c2 #cc-name-row::placeholder,
+.c2 .InputElement::placeholder {
+  font-family: Roboto,Open Sans,Segoe UI,sans-serif;
+  color: #767A7F;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+@media screen and (max-width:1044px) {
+  .c4 {
+    left: 2.749vw;
+  }
+}
+
+@media screen and (max-width:1023px) {
+  .c4 {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    height: 80px;
+    left: 10px;
+    background: white;
+    border: 0;
+  }
+}
+
+@media screen and (min-width:768px) {
+  .c3 {
+    margin: 0 auto;
+    max-width: 300px;
+  }
+}
+
+@media screen and (min-width:768px) {
+  .c3 {
+    margin-top: 40px;
+    max-width: initial;
+  }
+}
+
+@media (min-width:768px) {
+  .c2 #cc-name-error {
+    font-size: 14px;
+  }
+}
+
+<div>
+    <div
+      class="c0"
+      style="opacity: 1; webkit-transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+    >
+      <div
+        class="c1"
+      >
+        <div
+          class="c2 sb-block"
+        >
+          <div>
+            CardElement
+          </div>
+        </div>
+        <div
+          class="c2"
+        >
+          <input
+            autocomplete="name"
+            id="cc-name-row"
+            maxlength="27"
+            minlength="2"
+            placeholder="Name on card"
+            value=""
+          />
+        </div>
+      </div>
+      <button
+        class="c3"
+        disabled=""
+      >
+        Next
+      </button>
+      <button
+        class="c4"
+      >
+        <svg
+          fill="none"
+          height="16"
+          viewBox="0 0 25 16"
+          width="25"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M8 15L1 8M1 8L8 1M1 8H23.5"
+            stroke="#242E35"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Deposit component Check translations for Failed 1`] = `
+<body>
+  .c4 {
+  font-family: VinovestMono;
+  height: 50px;
+  background: #A86D37;
+  opacity: 1;
+  color: #FFFFFF;
+  font-size: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 3.5px;
+  text-align: center;
+  -webkit-letter-spacing: 0.025em;
+  -moz-letter-spacing: 0.025em;
+  -ms-letter-spacing: 0.025em;
+  letter-spacing: 0.025em;
+  line-height: 26px;
+  font-weight: 500;
+  font-style: normal;
+  text-transform: uppercase;
+  width: 100%;
+  border: none;
+  cursor: pointer;
+  pointer-events: initial;
+  -webkit-transition: box-shadow 0.3s ease-in-out;
+  transition: box-shadow 0.3s ease-in-out;
+  margin-top: 32px;
+}
+
+.c4:hover {
+  box-shadow: 0px 4px 20px rgba(0,0,0,0.3);
+}
+
+.c4:focus {
+  outline: 0;
+}
+
+.c4:disabled {
+  background: #E5E5E5;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 500px;
+}
+
+.c1 {
+  margin-bottom: 20px;
+}
+
+.c2 {
+  text-align: center;
+  font-size: 18px;
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+
+.c3 {
+  width: 100%;
+  max-width: 400px;
+}
+
+@media screen and (min-width:768px) {
+  .c4 {
+    margin: 0 auto;
+    max-width: 300px;
+  }
+}
+
+@media screen and (min-width:768px) {
+  .c4 {
+    margin-top: 40px;
+    max-width: initial;
+  }
+}
+
+<div>
+    <div
+      class="c0"
+      style="opacity: 1; webkit-transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+    >
+      <img
+        class="c1"
+        src="SvgrURL"
+      />
+      <div
+        class="c2"
+      >
+        <p>
+          Your transfer failed to be completed. 
+        </p>
+        <p>
+          Please check your connection, payment method, and retry. 
+        </p>
+      </div>
+      <div
+        class="c3"
+      >
+        <button
+          class="c4"
+        >
+          Retry
+        </button>
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Deposit component Check translations for InternationalWireTransfer 1`] = `
+<body>
+  .c11 {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  left: 7.749vw;
+  top: 40%;
+  border: 2px solid #eeeeee;
+  box-sizing: border-box;
+  background: transparent;
+  outline: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c11:hover {
+  cursor: pointer;
+}
+
+.c1 {
+  padding: 0 20px;
+}
+
+.c10 {
+  font-family: VinovestMono;
+  height: 50px;
+  background: #A86D37;
+  opacity: 1;
+  color: #FFFFFF;
+  font-size: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 3.5px;
+  text-align: center;
+  -webkit-letter-spacing: 0.025em;
+  -moz-letter-spacing: 0.025em;
+  -ms-letter-spacing: 0.025em;
+  letter-spacing: 0.025em;
+  line-height: 26px;
+  font-weight: 500;
+  font-style: normal;
+  text-transform: uppercase;
+  width: 100%;
+  border: none;
+  cursor: pointer;
+  pointer-events: initial;
+  -webkit-transition: box-shadow 0.3s ease-in-out;
+  transition: box-shadow 0.3s ease-in-out;
+  max-width: 393px !important;
+  min-height: 70px;
+  margin: 39px auto 0;
+}
+
+.c10:hover {
+  box-shadow: 0px 4px 20px rgba(0,0,0,0.3);
+}
+
+.c10:focus {
+  outline: 0;
+}
+
+.c10:disabled {
+  background: #E5E5E5;
+}
+
+.c6 {
+  display: inline-block;
+  height: 36px;
+  margin-left: 6px;
+}
+
+.c7 {
+  position: relative;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  height: 100%;
+}
+
+.c7 .toolTipCellar {
+  position: absolute;
+  right: -95.5px;
+  top: -10px;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  -webkit-transform: translateY(-100%);
+  -ms-transform: translateY(-100%);
+  transform: translateY(-100%);
+  opacity: 0;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: -8px 8px 24px rgba(36,46,53,0.16);
+  background: #513011;
+  padding: 16px 11px 11px 21px;
+  text-align: left;
+  white-space: pre-wrap;
+  color: #e0e5cd;
+  text-transform: none;
+  font-family: VinovestMedium;
+  font-size: 11px;
+  line-height: 14px;
+}
+
+.c7 .toolTipCellar:after {
+  content: " ";
+  position: absolute;
+  display: block;
+  bottom: 0;
+  left: 50%;
+  -webkit-transform: translate(-50%,50%) rotate(45deg);
+  -ms-transform: translate(-50%,50%) rotate(45deg);
+  transform: translate(-50%,50%) rotate(45deg);
+  width: 16px;
+  height: 16px;
+  background: #513011;
+}
+
+.c7:hover .toolTipCellar {
+  opacity: 1;
+  width: 201px;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  z-index: 5;
+  overflow: visible;
+}
+
+.c3 {
+  display: grid;
+  grid-template-columns: 42fr 58fr;
+  gap: 0px 0px;
+  grid-template-areas: ". .";
+  margin: 0 auto;
+}
+
+.c4 {
+  font-family: VinovestMedium;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+  color: #5b646b;
+  border-bottom: 1px solid #caccce;
+  padding: 19px 0;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-right: 16px;
+}
+
+.c5 {
+  font-family: VinovestMedium;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+  color: #5b646b;
+  border-bottom: 1px solid #caccce;
+  padding: 19px 0;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #242e35;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.c2 {
+  font-family: VinovestMedium;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+  color: #242e35;
+  max-width: 754px;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  min-height: 98px;
+  margin-bottom: 58px;
+}
+
+.c8 {
+  font-family: VinovestMono;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+  -webkit-letter-spacing: 0.025em;
+  -moz-letter-spacing: 0.025em;
+  -ms-letter-spacing: 0.025em;
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+  color: #a86d37;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin: 44px auto 0;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c8 img {
+  margin-right: 16px;
+  display: block;
+  width: 20px;
+  height: 23px;
+}
+
+.c8:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.c9 {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 40px;
+  line-height: 2;
+}
+
+.c9 a {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #0066cc;
+}
+
+.c12 hr {
+  box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+}
+
+.c12 h1,
+.c12 h2,
+.c12 h3,
+.c12 h4,
+.c12 h5,
+.c12 h6 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.c12 p {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.c12 body {
+  font-family: "VinovestMedium";
+  font-size: 11px;
+  line-height: 16px;
+  -webkit-letter-spacing: 0.69px;
+  -moz-letter-spacing: 0.69px;
+  -ms-letter-spacing: 0.69px;
+  letter-spacing: 0.69px;
+  color: #242e35;
+  background-color: #fff;
+  font-weight: 300;
+  margin: 0;
+}
+
+.c12 h1,
+.c12 h2,
+.c12 h3,
+.c12 h4,
+.c12 h5,
+.c12 h6 {
+  font-family: "RoslindaleDisplayCondensed";
+  margin: 0;
+}
+
+.c12 h1 {
+  font-size: 30px;
+  line-height: 42px;
+}
+
+.c12 h2 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  padding-bottom: 15px;
+}
+
+.c12 *,
+.c12 *::before,
+.c12 *::after {
+  box-sizing: border-box;
+}
+
+.c12 a {
+  color: inherit;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.c12 a:hover {
+  color: inherit;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c12 .wrapper {
+  width: 100%;
+  min-width: 650px;
+  max-width: 880px;
+  margin-top: -50px;
+}
+
+.c12 .wrapper-inner {
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 100%;
+  max-width: 1130px;
+  margin: 0 auto;
+}
+
+.c12 .flex-container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c12 .justify-content-between {
+  -webkit-box-pack: justify !important;
+  -webkit-justify-content: space-between !important;
+  -ms-flex-pack: justify !important;
+  justify-content: space-between !important;
+}
+
+.c12 .justify-content-center {
+  -webkit-box-pack: center !important;
+  -webkit-justify-content: center !important;
+  -ms-flex-pack: center !important;
+  justify-content: center !important;
+}
+
+.c12 .justify-content-start {
+  -webkit-box-pack: start !important;
+  -webkit-justify-content: flex-start !important;
+  -ms-flex-pack: start !important;
+  justify-content: flex-start !important;
+}
+
+.c12 .align-items-center {
+  -webkit-align-items: center !important;
+  -webkit-box-align: center !important;
+  -ms-flex-align: center !important;
+  align-items: center !important;
+}
+
+.c12 .header-top {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 23px;
+  padding-bottom: 28px;
+}
+
+.c12 .link_black {
+  color: #242e35 !important;
+}
+
+.c12 .top-date {
+  width: 75px;
+}
+
+.c12 .head-top-nav {
+  line-height: 12px !important;
+}
+
+.c12 .head-top-nav li a {
+  line-height: 11px !important;
+}
+
+.c12 ol,
+.c12 ul {
+  list-style: none outside none;
+  padding: 0;
+  margin: 0;
+}
+
+.c12 .head-top-nav li + li::before {
+  content: "";
+  border-left: 1px solid #242e35;
+  padding-left: 7px;
+  margin-left: 7px;
+  line-height: 11px !important;
+}
+
+.c12 .head-top-nav-br {
+  border-left: 1px solid #242e35;
+  border-right: 1px solid #242e35;
+}
+
+.c12 .align-self {
+  -webkit-align-self: flex-end !important;
+  -ms-flex-item-align: end !important;
+  align-self: flex-end !important;
+}
+
+.c12 .main-header {
+  width: 100%;
+  max-width: 920px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.c12 .page-content {
+  width: 100%;
+  max-width: 920px;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+.c12 .page-content {
+  font-family: "VinovestMedium";
+  font-size: 14px;
+  line-height: 21px;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+  text-align: left;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.c12 .page-content a {
+  color: #a86d37;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c12 .page-content {
+  margin-bottom: 50px;
+}
+
+.c12 .head-nav {
+  padding-bottom: 18px;
+  border-bottom: 2px solid #242e35;
+}
+
+.c12 .break-number1 {
+  word-break: break-all !important;
+}
+
+.c12 .w-60 {
+  width: 67px;
+}
+
+.c12 .txt_mono {
+  font-family: "VinovestMedium" !important;
+  font-size: 11px !important;
+  line-height: 150% !important;
+  -webkit-letter-spacing: 0.025em;
+  -moz-letter-spacing: 0.025em;
+  -ms-letter-spacing: 0.025em;
+  letter-spacing: 0.025em;
+}
+
+.c12 .account-statement {
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c12 .left-column {
+  -webkit-print-color-adjust: exact;
+  background-color: #c5d5e4 !important;
+  width: 470px;
+  color: #3c400c;
+  padding: 36px 36px 26px;
+}
+
+.c12 .left-column-yellow {
+  -webkit-print-color-adjust: exact;
+  background-color: #e0e5cd !important;
+}
+
+.c12 .left-column h2 {
+  font-family: "RoslindaleDisplayCondensed";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 84px;
+}
+
+.c12 .left-column h4 {
+  padding-top: 25px;
+  padding-bottom: 13px;
+}
+
+.c12 .transfer-text {
+  padding-top: 5px;
+  font-family: "VinovestMedium";
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.c12 .transfer-text h3 {
+  padding-top: 65px;
+  padding-bottom: 12px;
+  font-family: "RoslindaleDisplayCondensed";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.c12 .transfer-text a {
+  color: #3c400c;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 19px;
+  padding-bottom: 5px;
+  display: block;
+}
+
+.c12 .right-column-wrapper {
+  margin-left: 40px;
+  margin-bottom: 100px;
+}
+
+.c12 .right-column {
+  width: 275px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.c12 .right-column-wrapper .large-column {
+  width: 400px;
+}
+
+.c12 .right-column h3 {
+  padding-top: 30px;
+  font-family: "RoslindaleDisplayCondensed";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 41px;
+  width: 275px;
+}
+
+.c12 .right-column h5 {
+  font-family: "VinovestMedium" !important;
+  color: #5b646b;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  -webkit-letter-spacing: 0.025em;
+  -moz-letter-spacing: 0.025em;
+  -ms-letter-spacing: 0.025em;
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+  padding-top: 30px;
+  width: 275px;
+}
+
+.c12 .input-lines {
+  padding-top: 30px;
+}
+
+.c12 .right-column .gfield_label {
+  font-family: "VinovestMedium" !important;
+  color: #242e35;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  -webkit-letter-spacing: 0.025em;
+  -moz-letter-spacing: 0.025em;
+  -ms-letter-spacing: 0.025em;
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+  display: block;
+}
+
+.c12 textarea {
+  min-height: 150px;
+}
+
+.c12:focus {
+  outline: none;
+}
+
+.c12 .gfield_label textarea:focus,
+.c12 .gfield_label textarea,
+.c12 .gfield_label input:focus,
+.c12 .gfield_label input {
+  height: 50px;
+  background: none;
+  box-shadow: none;
+  width: 100%;
+  margin-bottom: 12px;
+  box-shadow: none;
+  border: none;
+  font-size: 20px;
+  line-height: 36px;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+  color: #242e35;
+  outline: none;
+  font-weight: 400;
+}
+
+.c12 .right-column .input-lines_txt {
+  border: none;
+  font-size: 20px;
+  line-height: 36px;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+  color: #242e35;
+}
+
+.c12 .right-column span {
+  font-size: 20px;
+  line-height: 36px;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+  color: #242e35;
+  display: inline-block;
+  min-height: 25px;
+  width: 300px;
+}
+
+.c12 .right-column p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+  color: #5b646b;
+  max-width: 295px;
+}
+
+.c12 .right-column .txt-info {
+  max-width: 100%;
+  padding-top: 40px;
+}
+
+.c12 .field-bg {
+  background: #fae8d1 !important;
+  -webkit-print-color-adjust: exact;
+  padding: 0px 7px;
+  margin-top: 10px;
+}
+
+.c12 .upper-txt {
+  text-transform: uppercase !important;
+}
+
+.c12 .column-small {
+  max-width: 190px;
+  width: 100%;
+}
+
+.c12 .column-small h4 {
+  font-family: "VinovestMedium";
+  font-weight: 500;
+  padding-top: 7px;
+}
+
+.c12 .table-section sup {
+  line-height: 20px;
+  padding-bottom: 10px;
+}
+
+.c12 .stat-1 th {
+  position: relative;
+  padding-top: 15px;
+}
+
+.c12 .sup1:after {
+  content: "1";
+  font-family: "VinovestMedium";
+  font-size: 11px;
+  position: absolute;
+  right: -8px;
+  top: 0px;
+}
+
+.c12 .sup2:after {
+  content: "2";
+  font-family: "VinovestMedium";
+  font-size: 11px;
+  position: absolute;
+  right: -8px;
+  top: 0px;
+}
+
+.c12 .sup3:after {
+  content: "3";
+  font-family: "VinovestMedium";
+  font-size: 11px;
+  position: absolute;
+  right: -8px;
+  top: 0px;
+}
+
+.c12 .holdings-table {
+  padding-top: 20px;
+}
+
+.c12 .holdings-table h2 {
+  padding-bottom: 0px;
+}
+
+.c12 .table-section th {
+  font-family: "VinovestMedium";
+  font-size: 11px;
+  line-height: 150%;
+  -webkit-letter-spacing: 0.025em;
+  -moz-letter-spacing: 0.025em;
+  -ms-letter-spacing: 0.025em;
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+  text-align: right;
+  border-bottom: 1px solid #caccce;
+  padding-bottom: 12px;
+  vertical-align: bottom;
+  font-weight: normal;
+  padding-left: 5px;
+}
+
+.c12 .table-section th:first-child {
+  text-align: left;
+  width: 400px;
+  padding-left: 0px;
+}
+
+.c12 table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.c12 .table-section td {
+  font-family: "VinovestMedium";
+  font-size: 14px;
+  line-height: 150%;
+  -webkit-letter-spacing: 0.025em;
+  -moz-letter-spacing: 0.025em;
+  -ms-letter-spacing: 0.025em;
+  letter-spacing: 0.025em;
+  text-align: right;
+  border-bottom: 1px solid #caccce;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  vertical-align: middle;
+  padding-left: 5px;
+  font-weight: 500;
+  width: 185px;
+}
+
+.c12 .table-section td:first-child {
+  text-align: left;
+  width: 400px;
+  padding-left: 0px;
+}
+
+.c12 .table-section tr:last-child td {
+  border-bottom: none;
+}
+
+.c12 .txt-18 {
+  font-size: 18px !important;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+}
+
+.c12 .footer {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  font-family: "VinovestMedium";
+  font-size: 14px;
+  line-height: 150%;
+  color: #767a7f;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+  font-weight: 500;
+  padding-bottom: 35px;
+}
+
+.c12 .txt12 {
+  padding-right: 30px;
+}
+
+.c12 .statement-2 {
+  padding-bottom: 5px;
+}
+
+.c12 .transactions-table {
+  padding-top: 25px;
+  padding-bottom: 30px;
+}
+
+.c12 .transactions-table .table-section {
+  padding-bottom: 28px;
+}
+
+.c12 .transactions-table .table-section td {
+  text-align: left;
+  padding-right: 5px;
+  width: auto;
+}
+
+.c12 .transactions-table .table-section td:first-child {
+  width: auto;
+}
+
+.c12 .transactions-table .table-section th:first-child {
+  width: auto;
+}
+
+.c12 .transactions-table .table-section td:last-child {
+  text-align: right;
+  padding-right: 0px;
+}
+
+.c12 .transactions-table .table-section th {
+  text-align: left;
+  padding-right: 5px;
+}
+
+.c12 .transactions-table .table-section th:last-child {
+  text-align: right;
+  padding-right: 0px;
+}
+
+.c12 .row-section {
+  border-top: 1px solid #caccce;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.c12 .row-section ol {
+  list-style-type: decimal;
+  list-style-position: inside;
+}
+
+.c12 .statement-3 {
+  padding-bottom: 5px;
+}
+
+.c12 .txt-small-12 {
+  font-size: 12px;
+  line-height: 19px;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+}
+
+.c12 .txt-small-12 a {
+  color: inherit;
+}
+
+.c12 .trade-id h2 {
+  padding-bottom: 20px;
+}
+
+.c12 .wine-purchase {
+  padding-bottom: 5px !important;
+}
+
+.c12 .wine-purchase .table-section {
+  padding-top: 0px;
+  padding-bottom: 0;
+}
+
+.c12 .wine-purchase .transactions-table {
+  padding-bottom: 0;
+}
+
+.c12 .wine-purchase .table-section td {
+  padding-bottom: 16px;
+  padding-top: 16px;
+  padding-right: 8px;
+  vertical-align: top;
+}
+
+.c12 .wine-purchase .table-section td:first-child {
+  width: 270px;
+}
+
+.c12 .wine-purchase .trade-id {
+  padding-top: 35px;
+}
+
+.c12 .wine-purchase .table-section td {
+  max-width: 140px;
+}
+
+.c12 .row-2col-section {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c12 .left-box {
+  padding-top: 55px;
+}
+
+.c12 .right-box {
+  width: 100%;
+  max-width: 310px;
+}
+
+.c12 .txt-small-11 {
+  font-size: 11px !important;
+  line-height: 15px !important;
+}
+
+.c12 .wine-liquidation {
+  min-width: 850px;
+}
+
+.c12 .pad_l {
+  padding-left: 5px;
+}
+
+.c12 .wine-liquidation .table-section td:first-child {
+  width: 320px;
+  padding-right: 8px;
+  min-width: 280px;
+}
+
+.c12 .wine-liquidation .right-box .upper-txt {
+  width: auto !important;
+  padding-right: 8px !important;
+  min-width: 50px !important;
+}
+
+.c12 .wine-liquidation .table-section td:last-child {
+  width: 100px;
+}
+
+.c12 .wine-liquidation .table-section td:nth-last-child(2) {
+  width: 100px;
+}
+
+.c12 .bottom-align {
+  padding-top: 160px;
+}
+
+.c13 {
+  text-align: center;
+  margin-top: 40px;
+  line-height: 2;
+  font-size: 12px;
+  margin-top: auto;
+  border-bottom: 2px solid #242e35;
+  padding-bottom: 10px;
+}
+
+.c13 a {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #0066cc;
+}
+
+.c0 .show-print {
+  display: none;
+}
+
+@media screen and (max-width:1044px) {
+  .c11 {
+    left: 2.749vw;
+  }
+}
+
+@media screen and (max-width:1023px) {
+  .c11 {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    height: 80px;
+    left: 10px;
+    background: white;
+    border: 0;
+  }
+}
+
+@media (min-width:768px) {
+  .c1 {
+    padding: 0;
+  }
+}
+
+@media screen and (min-width:768px) {
+  .c10 {
+    margin: 0 auto;
+    max-width: 300px;
+  }
+}
+
+@media (min-width:768px) {
+  .c10 {
+    margin: 52px auto 0;
+  }
+}
+
+@media (min-width:768px) {
+  .c3 {
+    max-width: 666px;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width:768px) {
+  .c4 {
+    font-size: 16px;
+    line-height: 26px;
+  }
+}
+
+@media (min-width:768px) {
+  .c5 {
+    font-size: 16px;
+    line-height: 26px;
+  }
+}
+
+@media (min-width:768px) {
+  .c5 {
+    font-size: 20px;
+    line-height: 36px;
+  }
+}
+
+@media (min-width:768px) {
+  .c2 {
+    font-size: 20px;
+    line-height: 36px;
+  }
+}
+
+@media (min-width:768px) {
+  .c2 {
+    margin-bottom: 71px;
+  }
+}
+
+@media (min-width:768px) {
+  .c8 {
+    margin-top: 60px;
+  }
+}
+
+@media all {
+  .c12 .page-break {
+    display: none;
+  }
+}
+
+@media print {
+  .c12 .page-break {
+    display: block;
+    page-break-before: always;
+  }
+}
+
+@media (max-width:991px) {
+  .c12 .wine-purchase .table-section td:first-child {
+    width: auto;
+  }
+}
+
+@media screen and (max-width:767px) {
+  .c12 .table-section td {
+    font-size: 13px;
+  }
+
+  .c12 .table-section th {
+    font-size: 10px;
+  }
+
+  .c12 .txt-18 {
+    font-size: 13px !important;
+    -webkit-letter-spacing: 0.005em;
+    -moz-letter-spacing: 0.005em;
+    -ms-letter-spacing: 0.005em;
+    letter-spacing: 0.005em;
+  }
+
+  .c12 .txt12 {
+    font-size: 12px !important;
+    padding-right: 20px !important;
+  }
+
+  .c12 .right-box {
+    max-width: 280px;
+  }
+
+  .c12 .right-box td {
+    width: auto;
+  }
+}
+
+@media print {
+  .c0 .hide-print {
+    display: none !important;
+  }
+
+  .c0 .show-print {
+    display: block;
+  }
+}
+
+<div>
+    <div
+      class="c0"
+    >
+      <div
+        class="c1 hide-print"
+      >
+        <div
+          class="c2"
+        >
+          You can credit your account via bank transfer by sending funds to this account. Please quote your unique reference number shown on the wire transfer page in your account.
+        </div>
+        <div
+          class="c3"
+        >
+          <div
+            class="c4"
+          >
+            Receiving Bank/Beneficiary Bank (Pay to): 
+          </div>
+          <div
+            class="c5"
+          >
+            Silicon Valley Bank
+            <br />
+          </div>
+          <div
+            class="c4"
+          >
+            Receiving Bank/Beneficiary Bank Address
+          </div>
+          <div
+            class="c5"
+          >
+            3003 Tasman Drive, Santa Clara, CA 95054, USA
+            <br />
+          </div>
+          <div
+            class="c4"
+          >
+            Swift/BIC Code (Fedwire Number)
+          </div>
+          <div
+            class="c5"
+          >
+            SVBKUS6S
+            <br />
+          </div>
+          <div
+            class="c4"
+          >
+            Account Number
+          </div>
+          <div
+            class="c5"
+          >
+            3302798623
+            <br />
+          </div>
+          <div
+            class="c4"
+          >
+            Beneficiary/Payee Name
+          </div>
+          <div
+            class="c5"
+          >
+            Vinovest, Inc.
+            <br />
+          </div>
+          <div
+            class="c4"
+          >
+            Beneficiary/Payee Address
+          </div>
+          <div
+            class="c5"
+          >
+            9900 Culver Boulevard, Unit PHE, Culver City, CA 90232
+            <br />
+          </div>
+          <div
+            class="c4"
+          >
+            Reference Field
+             
+            <div
+              class="c6"
+            >
+              <div
+                class="c7"
+              >
+                <img
+                  alt="info"
+                  src="SvgrURL"
+                />
+                <div
+                  class="toolTipCellar"
+                >
+                  A reference number is a unique identifier assigned to any financial transaction including those made using a credit or debit card
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="c5"
+          >
+            adfjdafkjls;
+            <br />
+          </div>
+        </div>
+        <a
+          class="c8"
+          target="_blank"
+        >
+          <img
+            alt="png"
+            src="SvgrURL"
+          />
+           
+          Download and print
+        </a>
+        <p
+          class="c9"
+        >
+          Please alert your portfolio advisor or email us your receipt directly at 
+          <a
+            href="mailto: ir@vinovest.co"
+          >
+            ir@vinovest.co
+          </a>
+           if you choose to deposit using Revolut.
+        </p>
+        <button
+          class="c10"
+        >
+          Done
+        </button>
+        <button
+          class="c11"
+        >
+          <svg
+            fill="none"
+            height="16"
+            viewBox="0 0 25 16"
+            width="25"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M8 15L1 8M1 8L8 1M1 8H23.5"
+              stroke="#242E35"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+            />
+          </svg>
+        </button>
+      </div>
+      <div
+        class="c12 show-print"
+      >
+        <div
+          class="wrapper"
+        >
+          <div
+            class="wrapper-inner"
+          >
+            <header>
+              <div
+                class="main-header"
+              >
+                <div
+                  class="head-nav flex-container"
+                >
+                  <a
+                    href="/"
+                  >
+                    <img
+                      alt=""
+                      class="w-60"
+                      src="vv-logo2x.png"
+                    />
+                  </a>
+                </div>
+              </div>
+            </header>
+            <div
+              class="page-content flex-container justify-content-between"
+            >
+              <div
+                class="left-column-wrapper"
+              >
+                <div
+                  class="left-column left-column-yellow"
+                >
+                  <h2>
+                    International bank wire transfer
+                  </h2>
+                  <div
+                    class="transfer-text"
+                  >
+                    <p>
+                      You can credit your account via bank transfer by sending funds to this account. Please quote your unique reference number shown on the wire transfer page in your account.
+                    </p>
+                    <h4>
+                      Questions? Speak with a specialist.
+                    </h4>
+                    <a
+                      href="mailto:ir@vinovest.co"
+                    >
+                      ir@vinovest.co
+                    </a>
+                    <a
+                      href="tel:+12134104546"
+                    >
+                      +1 213-410-4546
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="right-column-wrapper"
+              >
+                <div
+                  class="right-column"
+                >
+                  <h3>
+                    Receiving Bank Details
+                  </h3>
+                  <h5>
+                    Receiving Bank/Beneficiary Bank (Pay to): 
+                  </h5>
+                  <span
+                    contenteditable="true"
+                    role="textbox"
+                  >
+                    Silicon Valley Bank
+                  </span>
+                  <h5>
+                    Receiving Bank/Beneficiary Bank Address
+                  </h5>
+                  <span
+                    contenteditable="true"
+                    role="textbox"
+                  >
+                    3003 Tasman Drive, Santa Clara, CA 95054, USA
+                  </span>
+                  <h5>
+                    Swift/BIC Code (Fedwire Number)
+                  </h5>
+                  <span
+                    contenteditable="true"
+                    role="textbox"
+                  >
+                    SVBKUS6S
+                  </span>
+                  <h5>
+                    Account Number
+                  </h5>
+                  <span
+                    contenteditable="true"
+                    role="textbox"
+                  >
+                    3302798623
+                  </span>
+                  <h5>
+                    Beneficiary/Payee Name
+                  </h5>
+                  <span
+                    contenteditable="true"
+                    role="textbox"
+                  >
+                    Vinovest, Inc.
+                  </span>
+                  <h5>
+                    Beneficiary/Payee Address
+                  </h5>
+                  <span
+                    contenteditable="true"
+                    role="textbox"
+                  >
+                    9900 Culver Boulevard, Unit PHE, Culver City, CA 90232
+                  </span>
+                </div>
+              </div>
+            </div>
+            <p
+              class="c13"
+            >
+              Please alert your portfolio advisor or email us your receipt directly at 
+              <a
+                href="mailto: ir@vinovest.co"
+              >
+                ir@vinovest.co
+              </a>
+               if you choose to deposit using Revolut.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Deposit component Check translations for MailACheck 1`] = `
+<body>
+  .c0 {
+  padding: 0 20px;
+}
+
+.c1 {
+  font-family: VinovestMedium;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+  color: #242e35;
+  max-width: 754px;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.c11 {
+  font-family: VinovestMono;
+  height: 50px;
+  background: #A86D37;
+  opacity: 1;
+  color: #FFFFFF;
+  font-size: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 3.5px;
+  text-align: center;
+  -webkit-letter-spacing: 0.025em;
+  -moz-letter-spacing: 0.025em;
+  -ms-letter-spacing: 0.025em;
+  letter-spacing: 0.025em;
+  line-height: 26px;
+  font-weight: 500;
+  font-style: normal;
+  text-transform: uppercase;
+  width: 100%;
+  border: none;
+  cursor: pointer;
+  pointer-events: initial;
+  -webkit-transition: box-shadow 0.3s ease-in-out;
+  transition: box-shadow 0.3s ease-in-out;
+  max-width: 393px !important;
+  min-height: 70px;
+  margin: 39px auto 0;
+}
+
+.c11:hover {
+  box-shadow: 0px 4px 20px rgba(0,0,0,0.3);
+}
+
+.c11:focus {
+  outline: 0;
+}
+
+.c11:disabled {
+  background: #E5E5E5;
+}
+
+.c8 {
+  display: inline-block;
+  height: 36px;
+  margin-left: 6px;
+}
+
+.c9 {
+  position: relative;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  height: 100%;
+}
+
+.c9 .toolTipCellar {
+  position: absolute;
+  right: -95.5px;
+  top: -10px;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  -webkit-transform: translateY(-100%);
+  -ms-transform: translateY(-100%);
+  transform: translateY(-100%);
+  opacity: 0;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: -8px 8px 24px rgba(36,46,53,0.16);
+  background: #513011;
+  padding: 16px 11px 11px 21px;
+  text-align: left;
+  white-space: pre-wrap;
+  color: #e0e5cd;
+  text-transform: none;
+  font-family: VinovestMedium;
+  font-size: 11px;
+  line-height: 14px;
+}
+
+.c9 .toolTipCellar:after {
+  content: " ";
+  position: absolute;
+  display: block;
+  bottom: 0;
+  left: 50%;
+  -webkit-transform: translate(-50%,50%) rotate(45deg);
+  -ms-transform: translate(-50%,50%) rotate(45deg);
+  transform: translate(-50%,50%) rotate(45deg);
+  width: 16px;
+  height: 16px;
+  background: #513011;
+}
+
+.c9:hover .toolTipCellar {
+  opacity: 1;
+  width: 201px;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  z-index: 5;
+  overflow: visible;
+}
+
+.c5 {
+  display: grid;
+  grid-template-columns: 42fr 58fr;
+  gap: 0px 0px;
+  grid-template-areas: ". .";
+  margin: 0 auto;
+}
+
+.c6 {
+  font-family: VinovestMedium;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+  color: #5b646b;
+  border-bottom: 1px solid #caccce;
+  padding: 19px 0;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-right: 16px;
+}
+
+.c7 {
+  font-family: VinovestMedium;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+  color: #5b646b;
+  border-bottom: 1px solid #caccce;
+  padding: 19px 0;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #242e35;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.c2 {
+  max-width: 883px;
+  margin: 58px auto 80px;
+  position: relative;
+}
+
+.c2 .mailCheckExampleImg {
+  width: 100%;
+}
+
+.c4 {
+  position: absolute;
+  right: 26%;
+  top: 42%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 2.5%;
+}
+
+.c4 img {
+  width: 100%;
+}
+
+.c4 div {
+  font-family: VinovestMedium;
+  font-style: normal;
+  font-weight: 400;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+  color: #5b646b;
+  font-size: 11px;
+  line-height: 21px;
+  white-space: nowrap;
+  position: absolute;
+  bottom: -30px;
+  left: -30px;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+
+.c4 div .recommended {
+  color: #242E35;
+}
+
+.c3 {
+  display: none;
+  position: absolute;
+  font-family: VinovestMedium;
+  font-style: normal;
+  font-weight: 400;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+  color: #5b646b;
+}
+
+.c3 .arrowTimImgHorizontal {
+  margin-right: 16px;
+}
+
+.c3 .recommended {
+  color: #242E35;
+}
+
+.c10 {
+  font-family: VinovestMedium;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  -webkit-letter-spacing: 0.005em;
+  -moz-letter-spacing: 0.005em;
+  -ms-letter-spacing: 0.005em;
+  letter-spacing: 0.005em;
+  color: #242e35;
+  font-size: 16px;
+  line-height: 26px;
+  max-width: 456px;
+  margin: 37px auto 0;
+  text-align: center;
+}
+
+.c10 a {
+  margin-top: 21px;
+  color: #a86d37;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    padding: 0;
+  }
+}
+
+@media (min-width:768px) {
+  .c1 {
+    font-size: 20px;
+    line-height: 36px;
+  }
+}
+
+@media screen and (min-width:768px) {
+  .c11 {
+    margin: 0 auto;
+    max-width: 300px;
+  }
+}
+
+@media (min-width:768px) {
+  .c11 {
+    margin: 52px auto 0;
+  }
+}
+
+@media (min-width:768px) {
+  .c5 {
+    max-width: 666px;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width:768px) {
+  .c6 {
+    font-size: 16px;
+    line-height: 26px;
+  }
+}
+
+@media (min-width:768px) {
+  .c7 {
+    font-size: 16px;
+    line-height: 26px;
+  }
+}
+
+@media (min-width:768px) {
+  .c7 {
+    font-size: 20px;
+    line-height: 36px;
+  }
+}
+
+@media (min-width:768px) {
+  .c2 {
+    max-width: 666px;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width:1140px) {
+  .c2 {
+    margin: 37px auto;
+  }
+}
+
+@media (min-width:1140px) {
+  .c4 {
+    display: none;
+  }
+}
+
+@media (min-width:1140px) {
+  .c3 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-transform: translate(100%,-50%);
+    -ms-transform: translate(100%,-50%);
+    transform: translate(100%,-50%);
+    font-size: 14px;
+    line-height: 21px;
+    top: 35.38%;
+    right: 14%;
+  }
+
+  .c3 .arrowTimImgHorizontal {
+    display: inline;
+  }
+}
+
+<div>
+    <div
+      class="c0"
+    >
+      <div
+        class="c1"
+      >
+        To fund your account via check follow the instructions below.
+      </div>
+      <div
+        class="c2"
+        style="opacity: 1; webkit-transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+      >
+        <img
+          alt="Mail a check example"
+          class="mailCheckExampleImg"
+          src="SvgrURL"
+        />
+        <div
+          class="c3"
+        >
+          <svg
+            class="arrowTimImgHorizontal"
+            fill="none"
+            height="8"
+            viewBox="0 0 117 8"
+            width="117"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M0.646446 3.64646C0.451187 3.84172 0.451187 4.1583 0.646446 4.35356L3.82843 7.53554C4.02369 7.73081 4.34027 7.73081 4.53554 7.53554C4.7308 7.34028 4.7308 7.0237 4.53554 6.82844L1.70711 4.00001L4.53554 1.17158C4.7308 0.976321 4.7308 0.659738 4.53554 0.464476C4.34027 0.269214 4.02369 0.269214 3.82843 0.464476L0.646446 3.64646ZM117 3.5L1 3.50001L1 4.50001L117 4.5L117 3.5Z"
+              fill="#5B646B"
+            />
+          </svg>
+          <div>
+            Minimum amount: $1000
+            <br />
+            <span
+              class="recommended"
+            >
+              Recommended
+            </span>
+             
+            initial
+            <br />
+            deposit amount: $5000
+          </div>
+        </div>
+        <div
+          class="c4"
+        >
+          <img
+            alt="arrow"
+            src="SvgrURL"
+          />
+          <div>
+            Minimum amount: $1000
+            <br />
+            <span
+              class="recommended"
+            >
+              Recommended
+            </span>
+             
+            initial
+             
+            deposit amount: $5000
+          </div>
+        </div>
+      </div>
+      <div
+        class="c5"
+      >
+        <div
+          class="c6"
+        >
+          Pay to the order of
+        </div>
+        <div
+          class="c7"
+        >
+          Vinovest Inc.
+          <br />
+        </div>
+        <div
+          class="c6"
+        >
+          Memo
+        </div>
+        <div
+          class="c7"
+        >
+          Please put the email address associated with your Vinovest account as the reference memo.
+          <br />
+        </div>
+        <div
+          class="c6"
+        >
+          Mail to
+        </div>
+        <div
+          class="c7"
+        >
+          Vinovest, Inc
+          <br />
+          DEPT LA 25529
+          <br />
+          PASADENA CA 91185-5529
+          <br />
+        </div>
+        <div
+          class="c6"
+        >
+          Courier
+          <br />
+          (FedEx, UPS, etc.)
+        </div>
+        <div
+          class="c7"
+        >
+          Vinovest, Inc
+          <br />
+          25529
+          <br />
+          14005 LIVE OAK AVE
+          <br />
+          IRWINDALE CA 91706-1300
+          <br />
+        </div>
+        <div
+          class="c6"
+        >
+          <div
+            class="c8"
+          >
+            Amount
+             
+            <div
+              class="c9"
+            >
+              <img
+                alt="info"
+                src="SvgrURL"
+              />
+              <div
+                class="toolTipCellar"
+              >
+                Historically portfolios above $10,000 have performed significantly better than those funded below $10,000.
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="c7"
+        >
+          Please send an amount of at least $1,000. Average first time deposits are $5,000. 
+          <br />
+        </div>
+      </div>
+      <div
+        class="c10"
+      >
+        Please allow 5 business days for processing once received. Feel free to
+         
+        <a
+          href="mailto:support@vinovest.co"
+        >
+          contact us
+        </a>
+         
+        for any questions.
+      </div>
+      <button
+        class="c11"
+      >
+        Done
+      </button>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Deposit component Check translations for ReviewTransfer 1`] = `
+<body>
+  .c7 {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  left: 7.749vw;
+  top: 40%;
+  border: 2px solid #eeeeee;
+  box-sizing: border-box;
+  background: transparent;
+  outline: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c7:hover {
+  cursor: pointer;
+}
+
+.c6 {
+  font-family: VinovestMono;
+  height: 50px;
+  background: #A86D37;
+  opacity: 1;
+  color: #FFFFFF;
+  font-size: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 3.5px;
+  text-align: center;
+  -webkit-letter-spacing: 0.025em;
+  -moz-letter-spacing: 0.025em;
+  -ms-letter-spacing: 0.025em;
+  letter-spacing: 0.025em;
+  line-height: 26px;
+  font-weight: 500;
+  font-style: normal;
+  text-transform: uppercase;
+  width: 100%;
+  border: none;
+  cursor: pointer;
+  pointer-events: initial;
+  -webkit-transition: box-shadow 0.3s ease-in-out;
+  transition: box-shadow 0.3s ease-in-out;
+  margin-top: 32px;
+}
+
+.c6:hover {
+  box-shadow: 0px 4px 20px rgba(0,0,0,0.3);
+}
+
+.c6:focus {
+  outline: 0;
+}
+
+.c6:disabled {
+  background: #E5E5E5;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 500px;
+}
+
+.c1 {
+  margin-bottom: 24px;
+  width: 100%;
+  font-size: 14px;
+}
+
+.c1 #label-icon {
+  width: 15px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.c1 .fee-tooltip {
+  box-shadow: -8px 8px 24px rgba(36,46,53,0.16) !important;
+  opacity: 1 !important;
+  max-width: 260px !important;
+  padding: 18px !important;
+  border-radius: 10px !important;
+  line-height: 18px !important;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-height: 80px;
+  padding: 25px 15px;
+  border-top: 1px solid #CACCCE;
+}
+
+.c2:last-child {
+  border-bottom: 1px solid #CACCCE;
+}
+
+.c3 {
+  font-family: VinovestMono;
+  text-transform: uppercase;
+  color: #767A7F;
+  width: 40%;
+}
+
+.c4 {
+  font-size: 15px;
+}
+
+.c5 {
+  max-width: 60%;
+}
+
+@media screen and (max-width:1044px) {
+  .c7 {
+    left: 2.749vw;
+  }
+}
+
+@media screen and (max-width:1023px) {
+  .c7 {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    height: 80px;
+    left: 10px;
+    background: white;
+    border: 0;
+  }
+}
+
+@media screen and (min-width:768px) {
+  .c6 {
+    margin: 0 auto;
+    max-width: 300px;
+  }
+}
+
+@media screen and (min-width:768px) {
+  .c6 {
+    margin-top: 40px;
+    max-width: initial;
+  }
+}
+
+@media (min-width:768px) {
+  .c1 {
+    font-size: 16px;
+  }
+}
+
+@media (min-width:768px) {
+  .c4 {
+    font-size: 18px;
+  }
+}
+
+<div>
+    <div
+      class="c0"
+      style="opacity: 1; webkit-transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+    >
+      <div
+        class="c1"
+      >
+        <div
+          class="c2"
+        >
+          <div
+            class="c3"
+          >
+            Amount
+            :
+          </div>
+          <div
+            class="c4"
+          >
+            $
+            9,000,000
+          </div>
+        </div>
+        <div
+          class="c2"
+        >
+          <div
+            class="c3"
+          >
+            Source
+            :
+          </div>
+          <div
+            class="c4"
+          />
+        </div>
+        <div
+          class="c2"
+        >
+          <div
+            class="c3"
+          >
+            Frequency
+            :
+          </div>
+          <div
+            class="c5"
+          >
+            <div
+              class="c4"
+            />
+          </div>
+        </div>
+        <div
+          class="c2"
+        >
+          <div
+            class="c3"
+          >
+            Date
+            :
+          </div>
+          <div
+            class="c4"
+          >
+            Wed Jun 06 1990
+          </div>
+        </div>
+        <div
+          class="c2"
+        >
+          <div
+            class="c3"
+          >
+            ACH Fee:
+          </div>
+          <div
+            class="c4"
+          >
+            $
+            NaN
+          </div>
+          <img
+            alt="info-bubble"
+            data-background-color="#513011"
+            data-effect="solid"
+            data-text-color="#E0E5CD"
+            data-tip="info-bubble"
+            id="label-icon"
+            src="SvgrURL"
+          />
+          <div>
+             
+          </div>
+        </div>
+      </div>
+      <button
+        class="c6"
+      >
+        Complete Transfer
+      </button>
+      <button
+        class="c7"
+      >
+        <svg
+          fill="none"
+          height="16"
+          viewBox="0 0 25 16"
+          width="25"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M8 15L1 8M1 8L8 1M1 8H23.5"
+            stroke="#242E35"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Deposit component Check translations for SelectSource 1`] = `
+<body>
+  .c5 {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  left: 7.749vw;
+  top: 40%;
+  border: 2px solid #eeeeee;
+  box-sizing: border-box;
+  background: transparent;
+  outline: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c5:hover {
+  cursor: pointer;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 500px;
+}
+
+.c1 {
+  margin-top: 48px;
+  position: relative;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: 1px solid #CACCCE;
+  text-align: center;
+  cursor: pointer;
+  -webkit-transition: border 0.1s ease-in-out;
+  transition: border 0.1s ease-in-out;
+  padding: 28px;
+  height: 100px;
+  font-size: 18px;
+  width: 100%;
+  background: none;
+}
+
+.c2:hover {
+  border: 1px solid #A86D37;
+}
+
+.c2:not([disabled]) + :not([disabled]) {
+  border-top-color: transparent;
+}
+
+.c2:not([disabled]) + :not([disabled]):hover {
+  border-top-color: #A86D37;
+}
+
+.c2 span {
+  margin-left: 24px;
+}
+
+.c2 .icon-wrapper {
+  width: 45px;
+}
+
+.c2 .payment-right-arrow-icon {
+  margin-left: auto;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: 1px solid #CACCCE;
+  text-align: center;
+  cursor: pointer;
+  -webkit-transition: border 0.1s ease-in-out;
+  transition: border 0.1s ease-in-out;
+  padding: 28px;
+  height: 100px;
+  font-size: 18px;
+  width: 100%;
+  background: none;
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+.c3:hover {
+  border: 1px solid #A86D37;
+}
+
+.c3:not([disabled]) + :not([disabled]) {
+  border-top-color: transparent;
+}
+
+.c3:not([disabled]) + :not([disabled]):hover {
+  border-top-color: #A86D37;
+}
+
+.c3:hover {
+  border: 1px solid #CACCCE;
+}
+
+.c3 span {
+  margin-left: 24px;
+}
+
+.c3 .icon-wrapper {
+  width: 45px;
+}
+
+.c3 .payment-right-arrow-icon {
+  margin-left: auto;
+}
+
+.c4 {
+  font-family: VinovestMedium;
+  font-style: normal;
+  font-weight: normal;
+  margin-top: 27px;
+  font-size: 11px;
+  line-height: 16px;
+  text-align: center;
+  -webkit-letter-spacing: 0.025em;
+  -moz-letter-spacing: 0.025em;
+  -ms-letter-spacing: 0.025em;
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+  color: #242e35;
+}
+
+.c4 a {
+  color: #a86d37;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+@media screen and (max-width:1044px) {
+  .c5 {
+    left: 2.749vw;
+  }
+}
+
+@media screen and (max-width:1023px) {
+  .c5 {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    height: 80px;
+    left: 10px;
+    background: white;
+    border: 0;
+  }
+}
+
+@media (min-width:768px) {
+  .c4 {
+    margin-top: 41px;
+    font-size: 14px;
+    line-height: 18px;
+  }
+}
+
+<div>
+    <div
+      class="c0"
+      style="opacity: 1; webkit-transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+    >
+      
+      <div
+        class="c1"
+      >
+        <button
+          class="c2"
+        >
+          <div
+            class="icon-wrapper"
+          >
+            <svg
+              fill="none"
+              height="32px"
+              viewBox="0 0 45 32"
+              width="44px"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M19.4135 2.92438L3.99998 10.8372V14.7936H34.827V10.8372L19.4135 2.92438Z"
+                fill-rule="evenodd"
+                stroke="#242424"
+              />
+              <path
+                d="M16.6104 30.6199V14.7943"
+                stroke="#242424"
+              />
+              <path
+                d="M22.2165 14.7943V30.6199"
+                stroke="#242424"
+              />
+              <path
+                d="M6.80243 30.6199V14.7943"
+                stroke="#242424"
+              />
+              <path
+                d="M12.4073 14.7943V30.6199"
+                stroke="#242424"
+              />
+              <path
+                d="M26.4196 30.6199V14.7943"
+                stroke="#242424"
+              />
+              <path
+                d="M32.0245 14.7943V30.6199"
+                stroke="#242424"
+              />
+              <path
+                d="M0 30.8573H38.857"
+                stroke="#242424"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M18.0122 9.51883C18.0122 8.79085 18.64 8.20003 19.4134 8.20003C20.1869 8.20003 20.8147 8.79085 20.8147 9.51883C20.8147 10.2468 20.1869 10.8376 19.4134 10.8376C18.64 10.8376 18.0122 10.2468 18.0122 9.51883V9.51883Z"
+                fill-rule="evenodd"
+                stroke="#242424"
+              />
+              <circle
+                cx="34.1503"
+                cy="10.1503"
+                fill="white"
+                r="9.65035"
+                stroke="#102035"
+              />
+              <path
+                d="M33.7861 7.50557L34.9268 6.36487C35.7937 5.49794 37.2538 5.49794 38.1207 6.36487C38.9877 7.2318 38.9877 8.69189 38.1207 9.55882L36.98 10.6995"
+                stroke="#A86D37"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M34.6984 12.9806L33.5577 14.1213C32.6908 14.9882 31.2307 14.9882 30.3638 14.1213C29.4968 13.2544 29.4968 11.7943 30.3638 10.9273L31.5045 9.78665"
+                stroke="#A86D37"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M32.8732 11.6119L35.6108 8.87427"
+                stroke="#A86D37"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </div>
+          <span>
+            Connect bank
+          </span>
+          <img
+            alt="right-arrow"
+            class="payment-right-arrow-icon"
+            src="SvgrURL"
+          />
+        </button>
+        <button
+          class="c2"
+        >
+          <div
+            class="icon-wrapper"
+          >
+            <svg
+              fill="none"
+              height="32px"
+              viewBox="0 0 34 28"
+              width="26px"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 6.81836H33"
+                stroke="#102035"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M1 12.6367H33"
+                stroke="#102035"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M30.0909 27.1818H3.90909C2.30182 27.1818 1 25.88 1 24.2727V3.90909C1 2.30182 2.30182 1 3.90909 1H22.8182H30.0909C31.6982 1 33 2.30182 33 3.90909V24.2727C33 25.88 31.6982 27.1818 30.0909 27.1818V27.1818Z"
+                fill-rule="evenodd"
+                stroke="#102035"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M6.81836 19.9093H14.0911"
+                stroke="#102035"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M25.7276 19.9093H27.1822"
+                stroke="#102035"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </div>
+          <span>
+            Credit card
+          </span>
+          <img
+            alt="right-arrow"
+            class="payment-right-arrow-icon"
+            src="SvgrURL"
+          />
+        </button>
+        <button
+          class="c2"
+        >
+          <div
+            class="icon-wrapper"
+          >
+            <svg
+              fill="none"
+              height="29px"
+              viewBox="0 0 34 31"
+              width="32px"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M32.9962 15.0388C32.9876 15.3739 32.9619 15.709 32.9275 16.0353C32.8846 16.3704 32.8331 16.6967 32.7731 17.0318C32.7044 17.3669 32.6272 17.6932 32.5328 18.0194C32.3268 18.7161 32.0607 19.3951 31.7346 20.0477C31.3828 20.7531 30.9708 21.4233 30.4988 22.0494C30.413 22.1552 30.3272 22.2699 30.2413 22.3757C30.0611 22.5962 29.8809 22.8166 29.6921 23.0283C29.5548 23.1782 29.4261 23.3193 29.2802 23.4604C29.0742 23.6632 28.8682 23.866 28.6537 24.06C28.5421 24.1658 28.4305 24.2628 28.319 24.3598C28.0358 24.5979 27.7526 24.8272 27.4522 25.0477C27.4093 25.0829 27.3664 25.1094 27.3235 25.1447C27.0059 25.3739 26.6798 25.5944 26.3365 25.806C26.2078 25.8854 26.0791 25.9648 25.9417 26.0441C25.7529 26.15 25.5641 26.2646 25.3753 26.3616C25.0578 26.5291 24.7317 26.6879 24.397 26.8378C24.2425 26.9083 24.088 26.9701 23.9336 27.0406C23.7619 27.1112 23.5817 27.1817 23.4015 27.2434C23.0925 27.3669 22.7664 27.4727 22.4489 27.5697C22.1142 27.6755 21.7795 27.7637 21.4362 27.8519C21.1444 27.9224 20.8526 27.9842 20.5694 28.0459C20.5522 28.0459 20.5179 28.0547 20.5007 28.0547C20.1746 28.1165 19.8485 28.1694 19.5224 28.2135C19.1963 28.2575 18.8701 28.2928 18.544 28.3193C18.2179 28.3457 17.8918 28.3634 17.5657 28.3722C17.2396 28.381 16.9134 28.381 16.5873 28.3722C16.2612 28.3634 15.9351 28.3457 15.609 28.3281C15.2829 28.3016 14.9567 28.2752 14.6306 28.2311C14.3388 28.1958 14.047 28.1429 13.7553 28.0988C13.6523 28.0812 13.5493 28.0547 13.4377 28.0459C13.1888 27.993 12.9314 27.9401 12.6825 27.8784C12.3564 27.799 12.0217 27.702 11.6956 27.6138C11.378 27.5256 11.0262 27.5521 10.7258 27.6755L10.0564 28.0547C9.94483 28.1165 9.83326 28.187 9.73028 28.2487C9.41274 28.4427 9.08662 28.6279 8.76909 28.8219C8.62319 28.9101 8.48588 28.9895 8.34857 29.0777C8.16835 29.1835 7.97954 29.2981 7.79932 29.4039C7.46462 29.5979 7.1385 29.8096 6.8038 29.9859C6.5635 30.0389 6.28888 29.9419 6.17731 29.7038C6.07433 29.5098 6.1344 29.2893 6.19448 29.0953C6.2803 28.7602 6.36612 28.4339 6.45194 28.0988C6.53776 27.7637 6.62358 27.4374 6.7094 27.1023C6.76089 26.926 6.8038 26.7408 6.84671 26.5644C6.88962 26.3969 6.94111 26.2381 6.96686 26.0618C6.99261 25.8325 6.94111 25.6032 6.83813 25.4004C6.75231 25.2593 6.64932 25.1447 6.52059 25.0477C6.28888 24.8713 6.06575 24.6949 5.84261 24.5186C5.67097 24.3775 5.50791 24.2276 5.33627 24.0776C5.1818 23.9365 5.0359 23.7955 4.88142 23.6455C4.68404 23.4515 4.49523 23.2487 4.31501 23.0459C4.16912 22.8783 4.02322 22.7196 3.88591 22.5521C3.75718 22.3933 3.62845 22.2258 3.5083 22.0671C3.31091 21.8025 3.12211 21.5203 2.9333 21.2381C2.89897 21.1852 2.86465 21.1235 2.83032 21.0618C2.63293 20.7443 2.45271 20.4092 2.28107 20.0741C2.16092 19.836 2.04935 19.5891 1.94637 19.351C1.91204 19.254 1.86913 19.1658 1.8348 19.0688C1.69749 18.7337 1.58592 18.381 1.48294 18.0371C1.38853 17.7108 1.3113 17.3933 1.24264 17.0582C1.17398 16.7231 1.12249 16.3792 1.07958 16.0441C0.959433 15.0388 0.976597 14.0247 1.12249 13.0194C1.17398 12.6931 1.22548 12.3669 1.30271 12.0494C1.37995 11.7143 1.46577 11.3792 1.57734 11.0529C1.68032 10.709 1.81764 10.3739 1.94637 10.0476L1.95495 10.0212C2.10084 9.68608 2.25532 9.3598 2.42696 9.03352C2.80457 8.32806 3.24226 7.65786 3.74001 7.03176C3.80009 6.96121 3.86016 6.89066 3.91165 6.82012C4.13479 6.55557 4.35792 6.29102 4.59822 6.0441C4.68404 5.95592 4.76986 5.86773 4.86426 5.77073C5.11314 5.52382 5.3706 5.28572 5.63664 5.05645C5.71388 4.9859 5.79112 4.92417 5.86836 4.86244C6.47768 4.3598 7.12134 3.90124 7.79932 3.4956C8.06536 3.33687 8.3314 3.18695 8.60603 3.03704C8.6661 3.00177 8.73476 2.97531 8.79483 2.94004C9.11237 2.78131 9.43849 2.62258 9.76461 2.48148C10.3997 2.20812 11.0519 1.97002 11.7127 1.7672C12.0646 1.66138 12.4165 1.56437 12.7683 1.48501C13.0601 1.41446 13.3519 1.35273 13.6523 1.29982C14.0127 1.22928 14.3732 1.18519 14.7336 1.13228C15.3258 1.06173 15.9179 1.01764 16.5101 1H17.4455C18.1407 1.01764 18.8272 1.07055 19.5224 1.16755C19.8485 1.21164 20.1746 1.26455 20.4922 1.32628C20.8183 1.38801 21.1444 1.45855 21.4619 1.53792C21.788 1.61729 22.1142 1.70547 22.4403 1.81129C23.1097 2.01411 23.7619 2.26984 24.4056 2.55203C24.7317 2.69312 25.0492 2.86067 25.3668 3.0194L25.3925 3.02822C25.71 3.20459 26.0362 3.38096 26.3451 3.57496C27.0317 3.99824 27.6839 4.47443 28.3018 5.00354C28.319 5.01235 28.3447 5.03881 28.3533 5.04763C28.6623 5.321 28.9626 5.59436 29.2544 5.89419C29.3059 5.9471 29.3488 5.99119 29.4003 6.0441C29.632 6.2822 29.8466 6.53793 30.0697 6.79366C29.941 6.84657 29.8122 6.9083 29.6921 6.97003C29.5462 7.03176 29.4003 7.1023 29.2544 7.16403C28.9369 7.30513 28.6193 7.45504 28.3018 7.60495C28.0186 7.73723 27.7354 7.86068 27.4522 7.99296C27.4093 8.0106 27.3664 8.02823 27.332 8.04587C27.0059 8.19578 26.6798 8.34569 26.3537 8.49561C25.7015 8.79543 25.0492 9.09525 24.397 9.39508C23.7533 9.68608 23.1011 9.98591 22.4574 10.2857C22.1313 10.4356 21.8052 10.5856 21.4791 10.7355C21.2731 10.8237 21.0757 10.9207 20.8698 11.0177C20.741 11.0706 20.6209 11.1323 20.4922 11.1852C20.166 11.3351 19.8313 11.485 19.5052 11.6349C19.2392 11.7584 18.9731 11.8819 18.7071 12.0053C18.6556 12.0318 18.5955 12.0582 18.544 12.0759C18.2179 12.2258 17.8918 12.3757 17.5657 12.5256C16.9134 12.8254 16.2612 13.1252 15.609 13.4251C15.1112 13.6543 14.6135 13.8836 14.1157 14.1129C13.9698 14.1834 13.8153 14.2452 13.6609 14.2804C13.3347 14.3334 13 14.2981 12.6997 14.157C12.631 14.1217 12.5538 14.0776 12.4851 14.0335C12.2362 13.8483 11.9788 13.6632 11.7299 13.478C11.5239 13.3281 11.318 13.1782 11.112 13.0282C10.9918 12.9401 10.8631 12.8519 10.743 12.7549C10.4254 12.5256 10.1079 12.2875 9.79893 12.0582C9.79035 12.0582 9.78177 12.0494 9.77319 12.0406C9.54147 11.873 9.31834 11.7055 9.08662 11.5379C9.0008 11.4762 8.89782 11.4321 8.79483 11.4057C8.45155 11.388 8.15118 11.7231 8.22842 12.0759C8.50305 12.7372 8.812 13.3898 9.09521 14.0512C9.24968 14.3951 9.39558 14.739 9.55005 15.0829C9.61013 15.2152 9.6702 15.3563 9.73028 15.4886C9.8161 15.6826 9.90192 15.8766 9.98774 16.0706C10.1336 16.3969 10.2795 16.732 10.4254 17.0582C10.5198 17.2699 10.6142 17.4815 10.7086 17.6932C10.7601 17.8166 10.8202 17.9401 10.8717 18.0635C11.0433 18.4163 11.1549 18.8043 11.3866 19.1129C11.481 19.2011 11.584 19.2805 11.6956 19.351C12.0217 19.5186 12.4165 19.4921 12.734 19.3069C12.8456 19.2364 12.9571 19.1746 13.0687 19.1041C13.2747 18.9895 13.4806 18.866 13.6866 18.7425C14.3388 18.3545 14.9911 17.9665 15.6433 17.5785C15.9265 17.411 16.2011 17.2434 16.4843 17.0759C16.5273 17.0494 16.5787 17.023 16.6217 16.9965C16.9478 16.8025 17.2739 16.6085 17.5914 16.4233C17.7716 16.3175 17.9605 16.2029 18.1407 16.097C18.2866 16.0088 18.4239 15.9295 18.5698 15.8413C18.8959 15.6473 19.2134 15.4533 19.5395 15.2681C19.6425 15.2064 19.7369 15.1535 19.8313 15.0917C20.0631 14.9595 20.2862 14.8184 20.5179 14.6861C21.1701 14.2981 21.8224 13.9189 22.4746 13.5309C22.7235 13.381 22.9724 13.2399 23.2212 13.09C23.2985 13.0459 23.3671 13.0018 23.4444 12.9577C23.7705 12.7637 24.0966 12.5785 24.4227 12.3757C24.5944 12.2787 24.766 12.1729 24.9291 12.0759C25.0835 11.9877 25.238 11.8995 25.3925 11.8025C26.0533 11.4145 26.7055 11.0177 27.3664 10.6296C27.6753 10.4445 27.9843 10.2681 28.2932 10.0829C28.319 10.0653 28.3447 10.0565 28.3705 10.0388C28.6966 9.85363 29.0141 9.65963 29.3317 9.46562C29.5634 9.33335 29.7865 9.19226 30.0182 9.05998C30.1126 9.00707 30.1984 8.95416 30.2928 8.89243C30.6018 8.71606 30.9022 8.52206 31.2197 8.36333C31.3313 8.60143 31.4772 8.81307 31.5887 9.05116C31.7604 9.38626 31.932 9.73018 32.0779 10.0741C32.1208 10.1711 32.1637 10.2769 32.1981 10.3739C32.2925 10.6032 32.3697 10.8413 32.4469 11.0794C32.5499 11.3968 32.6357 11.7231 32.713 12.0494C32.7902 12.3845 32.8503 12.7196 32.9018 13.0547C32.9447 13.3898 32.979 13.7161 32.9962 14.0512C32.9962 14.3686 33.0048 14.7037 32.9962 15.0388Z"
+                stroke="#102035"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </div>
+          <span>
+            WeChat
+          </span>
+          <img
+            alt="right-arrow"
+            class="payment-right-arrow-icon"
+            src="SvgrURL"
+          />
+        </button>
+        <button
+          class="c2"
+        >
+          <div
+            class="icon-wrapper"
+          >
+            <svg
+              fill="none"
+              height="32px"
+              viewBox="0 0 34 34"
+              width="32px"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M17 1C25.8364 1 33 8.16364 33 17C33 25.8364 25.8364 33 17 33C8.16364 33 1 25.8364 1 17C1 8.16364 8.16364 1 17 1V1Z"
+                fill-rule="evenodd"
+                stroke="#242E35"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M12.8858 10.4271H18.6986C20.5137 10.4271 21.9851 11.8985 21.9851 13.7136V13.7136C21.9851 15.5286 20.5137 17.0001 18.6986 17.0001H12.8858V10.4271Z"
+                stroke="#242E35"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M12.8858 17H18.6986C20.5137 17 21.9851 18.4714 21.9851 20.2865V20.2865C21.9851 22.1016 20.5137 23.573 18.6986 23.573H12.8858V17Z"
+                stroke="#242E35"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M15.2801 10.427V8.31427"
+                stroke="#242E35"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M15.2801 25.6859V23.5731"
+                stroke="#242E35"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18.6327 10.427V8.31427"
+                stroke="#242E35"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18.6327 25.6859V23.5731"
+                stroke="#242E35"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </div>
+          <span>
+            Crypto currency
+          </span>
+          <img
+            alt="right-arrow"
+            class="payment-right-arrow-icon"
+            src="SvgrURL"
+          />
+        </button>
+        <button
+          class="c2"
+        >
+          <div
+            class="icon-wrapper"
+          >
+            <svg
+              fill="none"
+              height="32px"
+              viewBox="0 0 45 32"
+              width="44px"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M19.4135 2.92438L3.99998 10.8372V14.7936H34.827V10.8372L19.4135 2.92438Z"
+                fill-rule="evenodd"
+                stroke="#242424"
+              />
+              <path
+                d="M16.6104 30.6199V14.7943"
+                stroke="#242424"
+              />
+              <path
+                d="M22.2165 14.7943V30.6199"
+                stroke="#242424"
+              />
+              <path
+                d="M6.80243 30.6199V14.7943"
+                stroke="#242424"
+              />
+              <path
+                d="M12.4073 14.7943V30.6199"
+                stroke="#242424"
+              />
+              <path
+                d="M26.4196 30.6199V14.7943"
+                stroke="#242424"
+              />
+              <path
+                d="M32.0245 14.7943V30.6199"
+                stroke="#242424"
+              />
+              <path
+                d="M0 30.8574H38.857"
+                stroke="#242424"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M18.0122 9.51881C18.0122 8.79084 18.64 8.20001 19.4134 8.20001C20.1869 8.20001 20.8147 8.79084 20.8147 9.51881C20.8147 10.2468 20.1869 10.8376 19.4134 10.8376C18.64 10.8376 18.0122 10.2468 18.0122 9.51881V9.51881Z"
+                fill-rule="evenodd"
+                stroke="#242424"
+              />
+              <circle
+                cx="34.1503"
+                cy="10.1503"
+                fill="white"
+                r="9.65035"
+                stroke="#102035"
+              />
+              <path
+                d="M37.7135 6.85681L31.7136 11.6568L31.9993 13.7139L33.1536 12.7368"
+                stroke="#A86D37"
+                stroke-linejoin="round"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M29.7142 10.0571L37.7142 6.85712L36.1142 14.8571L29.7142 10.0571Z"
+                fill-rule="evenodd"
+                stroke="#A86D37"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </div>
+          <span>
+            Bank wire
+          </span>
+          <img
+            alt="right-arrow"
+            class="payment-right-arrow-icon"
+            src="SvgrURL"
+          />
+        </button>
+        <button
+          class="c3"
+          disabled=""
+        >
+          <div
+            class="icon-wrapper"
+          >
+            <svg
+              fill="none"
+              height="32px"
+              viewBox="0 0 34 34"
+              width="32px"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M28.0365 1H5.96303C3.12502 1 0.799423 3.3256 0.799423 6.16361V28.1976C0.799423 31.1145 3.12502 33.4007 5.96303 33.4007H27.9971C30.9139 33.4007 33.2001 31.0751 33.2001 28.2371V27.8823C33.2001 27.8823 24.8043 24.3742 20.5473 22.3245C17.7093 25.7932 14.0829 27.9611 10.2595 27.9611C3.83452 27.9611 1.62718 22.3245 4.66228 18.6193C5.33236 17.831 6.47545 17.0032 8.20979 16.6091C10.9296 15.939 15.3443 17.0427 19.4042 18.3828C20.1137 17.0427 20.7444 15.5054 21.2174 13.9287H8.60396V12H15.1472V10.3418H7.30321V8.5H15.1866V5.80886C15.1866 5.80886 15.1866 5.25702 15.7384 5.25702H18.9312V8.5H26.7357V10.3418H18.8918V12H25.2379C24.6466 14.4833 23.74 17.4763 22.5575 19.4865C24.489 20.196 26.2233 20.8267 27.5241 21.2997C32.1753 22.8764 33.2001 22.9552 33.2001 22.9552V6.16361C33.2395 3.3256 30.9139 1 28.0365 1Z"
+                stroke="#102035"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M7.0665 19.9642C4.82373 21.7201 6.15537 25 10.711 25C13.3392 25 15.9675 23.476 18 21.0244C15.0914 19.6992 12.5683 18.8047 9.905 19.0366C9.1691 19.0697 7.80241 19.3679 7.0665 19.9642Z"
+                stroke="#102035"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </div>
+          <span>
+            Alipay
+          </span>
+          <img
+            alt="right-arrow"
+            class="payment-right-arrow-icon"
+            src="SvgrURL"
+          />
+        </button>
+      </div>
+      <div
+        class="c4"
+      >
+        mail a check for deposit 
+        <a
+          href="/deposit/mail-a-check"
+          target="_blank"
+        >
+          see instructions
+        </a>
+      </div>
+      <button
+        class="c5"
+      >
+        <svg
+          fill="none"
+          height="16"
+          viewBox="0 0 25 16"
+          width="25"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M8 15L1 8M1 8L8 1M1 8H23.5"
+            stroke="#242E35"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Deposit component Check translations for WireTransferType 1`] = `
+<body>
+  .c3 {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  left: 7.749vw;
+  top: 40%;
+  border: 2px solid #eeeeee;
+  box-sizing: border-box;
+  background: transparent;
+  outline: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c3:hover {
+  cursor: pointer;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 500px;
+}
+
+.c1 {
+  margin-top: 48px;
+  position: relative;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: 1px solid #CACCCE;
+  text-align: center;
+  cursor: pointer;
+  -webkit-transition: border 0.1s ease-in-out;
+  transition: border 0.1s ease-in-out;
+  padding: 28px;
+  height: 100px;
+  font-size: 18px;
+  width: 100%;
+  background: none;
+}
+
+.c2:hover {
+  border: 1px solid #A86D37;
+}
+
+.c2:not([disabled]) + :not([disabled]) {
+  border-top-color: transparent;
+}
+
+.c2:not([disabled]) + :not([disabled]):hover {
+  border-top-color: #A86D37;
+}
+
+.c2 span {
+  margin-left: 24px;
+}
+
+.c2 .icon-wrapper {
+  width: 45px;
+}
+
+.c2 .payment-right-arrow-icon {
+  margin-left: auto;
+}
+
+@media screen and (max-width:1044px) {
+  .c3 {
+    left: 2.749vw;
+  }
+}
+
+@media screen and (max-width:1023px) {
+  .c3 {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    height: 80px;
+    left: 10px;
+    background: white;
+    border: 0;
+  }
+}
+
+<div>
+    <div
+      class="c0"
+      style="opacity: 1; webkit-transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+    >
+      <div
+        class="c1"
+      >
+        <button
+          class="c2"
+        >
+          <div
+            class="icon-wrapper"
+          >
+            <img
+              alt="source-icon"
+              class="payment-source-icon"
+              src="SvgrURL"
+            />
+          </div>
+          <span>
+            US bank wire
+          </span>
+          <img
+            alt="right-arrow"
+            class="payment-right-arrow-icon"
+            src="SvgrURL"
+          />
+        </button>
+        <button
+          class="c2"
+        >
+          <div
+            class="icon-wrapper"
+          >
+            <img
+              alt="source-icon"
+              class="payment-source-icon"
+              src="SvgrURL"
+            />
+          </div>
+          <span>
+            International bank wire
+          </span>
+          <img
+            alt="right-arrow"
+            class="payment-right-arrow-icon"
+            src="SvgrURL"
+          />
+        </button>
+      </div>
+      <button
+        class="c3"
+      >
+        <svg
+          fill="none"
+          height="16"
+          viewBox="0 0 25 16"
+          width="25"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M8 15L1 8M1 8L8 1M1 8H23.5"
+            stroke="#242E35"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>
+</body>
+`;

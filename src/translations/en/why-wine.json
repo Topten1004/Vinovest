@@ -1,0 +1,85 @@
+{
+    "why_wine": {
+        "network": {
+            "description_1": "Gain access to a rarefied circle",
+            "description_2": "Our wine network is granted access to up and coming vineyards, private sales, and limited releases for your portfolio.",
+            "description_3": "Vinovest shares details about our wine investing so you can learn more about your portfolio and your passion. Consult wine experts with any questions you have.",
+            "description_4": "Join tastings with our Master Sommeliers who host some of the world’s greatest winemakers and vineyards.",
+            "title_1": "Vinovest is more than great returns",
+            "title_2": "Exclusive access to limited vintages",
+            "title_3": "Grow your passion",
+            "title_4": "Invitation-only events"
+        },
+        "outpreform": {
+            "aging": "Aging",
+            "aging_description": "Wine improves with time. The astringent compounds mellow while in storage, helping to bring out new flavors and textures in the wine.",
+            "brand": "Brand Equity",
+            "brand_description": "Screaming Eagle. Château Cheval Blanc. Domaine de la Romanée-Conti. These estates rank among the most prestigious names in wine and can command six figures for a single bottle.",
+            "description": "Several factors drive wine prices up over time. These factors make wine an ideal investment for good times and the not so good times.",
+            "hero_button": "Get Started",
+            "hero_description": "Learn why wine investing not only delivers delight, but also consistent returns that have outpaced the stock market.",
+            "hero_title": "Discover wine investing",
+            "scarcity": "Scarcity",
+            "scarcity_description": "Wineries often make investment-grade wines in limited quantities — a few hundred bottles or so. That number will only fall with time as people drink them.",
+            "title": "Wine Performance Explained",
+            "title_1": "Wine Outperformed the Global Equity Index by",
+            "title_2": "1.88%",
+            "title_3": "annually over the last",
+            "title_4": "15 years."
+        },
+        "benefits": {
+            "description": "Grow your passion and returns",
+            "description_1": "Inflation can make your groceries, gas, and rent more expensive. However, it has little effect on fine wine, making it the perfect antidote to rising prices.",
+            "description_2": "Time and again, fine wine weathers economic downturns. During the Covid-19 Recession, the Dow Jones and S&P 500 plummeted -22.7% and -19.6%. Fine wine? It only fell -1.4%",
+            "description_3": "Fine wine has bond-like stability. You can expect consistent performance even when the stock market takes investors for a roller coaster ride. ",
+            "description_4": "You only own stocks and bonds on paper. At Vinovest, you own every wine in your portfolio 100%. You can buy, sell, or drink at your choosing.",
+            "description_5": "Our bonded warehouses don’t charge an excise duty and a value-added tax (VAT). That way, we can pass significant tax advantages to our clients.",
+            "description_6": "Stocks, bonds, and mutual funds are vulnerable to similar factors. If the market tanks, so do these investments. Fine wine’s low correlation with traditional markets makes it the ideal portfolio diversifier.",
+            "header_1": "Inflation-Resistant",
+            "header_2": "Recession-Resistant",
+            "header_3": "Low Volatility",
+            "header_4": "Direct Ownership",
+            "header_5": "Tax Advantages",
+            "header_6": "Diversified Portfolio",
+            "title": "Benefits of Fine Wine Investing"
+        },
+        "steady_yields": {
+            "description": "Fine wine has outperformed the Global Equity Index for the past 15 years, including during downturns.",
+            "graph_text": "Wine",
+            "global_index": "Global Equity Index",
+            "gei": "gei",
+            "label_wine": "Wine",
+            "title": "Steady yields",
+            "top_description": "performance you can see ... and taste"
+        }
+    },
+    "wine_futures": {
+        "futures": {
+            "bottom_description": "En Primeur (wine futures) is buying wine that is still in the barrel. Critics and other industry insiders have given initial ratings, but these wines are still 2 to 3 years out from being released. En primeur is typically only available to industry insiders, but we at Vinovest are pleased to be able to bring you access to this opportunity.",
+            "title": "Invest in wine futures",
+            "top_description": "What is it?"
+        },
+        "header-meta": {
+            "description": "Learn why you should invest in wine futures, how you can benefit from them, and how to invest in them easily.",
+            "title": "Unprecedented Opportunity with Wine Futures"
+        },
+        "header": {
+            "button": "Book a Call",
+            "title": "Unprecedented Opportunity with Wine Futures"
+        },
+        "opportunity": {
+            "bottom_description": "We are hearing through the grapevine that this year’s en primeurs will be priced substantially lower than previous years, giving Vinovestors greater upside on future returns. This global pandemic presents a once in a decade opportunity.",
+            "title": "A once in a decade opportunity",
+            "top_description": "Why should you care?"
+        },
+        "recommended": {
+            "description": "If you want to take advantage of this incredibly rare opportunity, we highly recommend you deposit funds into your account ASAP. Our investment team will leverage your uninvested funds to purchase wine futures throughout June. The window to grab these top tier investments can be just a couple of hours, so it's important your account has cash at the ready. Once we have allocated your funds you will be notified.",
+            "title": "What do we recommend?"
+        },
+        "should_do": {
+            "bottom_description": "Availability for these wines can run out within hours, so don’t miss out.",
+            "title": "What you should do",
+            "top_description": "We strongly recommend loading up your Vinovest account now with additional cash balance so that our algorithm and investment team can help you take advantage of fast-moving en primeur opportunities over the month of June."
+        }
+    }
+}

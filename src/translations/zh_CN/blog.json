@@ -1,0 +1,34 @@
+{
+    "article": {
+        "dontForget": "欢迎分享本帖！",
+        "furtherReading": "进一步阅读",
+        "relatedArticles": "相关文章"
+    },
+    "author": {
+        "writtenBy": "作者："
+    },
+    "blog": {
+        "title": "博客"
+    },
+    "emailForm": {
+        "getStarted": "开始",
+        "successMessage": "谢谢！您的提交已收到！"
+    },
+    "mostPopular": {
+        "title": "最热门"
+    },
+    "reading-position-bar": {
+        "emailPlaceholder": "请输入您的电子邮箱",
+        "getStarted": "开始",
+        "paragraph": "葡萄酒的表现一直优于其他另类资产。Vinovest让葡萄酒投资变得易如反掌。",
+        "share": "分享",
+        "title": "简单、现代化的葡萄酒投资"
+    },
+    "utils": {
+        "by": "从",
+        "month": "月",
+        "months": "月",
+        "year": "年",
+        "years": "年"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "buttons": {
+        "fee_free": "免服务费投资，就现在！",
+        "wine_certificate": "葡萄酒证书"
+    },
+    "details": {
+        "early_withdrawal": "提前提款",
+        "failed": "失败",
+        "management": "管理"
+    },
+    "items": {
+        "adjust": "调整",
+        "buy": "购买",
+        "completed": "已完成",
+        "deposit": "存款",
+        "fee": "费用",
+        "fee-credit": "费用抵免",
+        "free": "免费",
+        "funds": "资金",
+        "in-progress": "进行中",
+        "monthly": "每月",
+        "pending": "存款",
+        "purchase": "购买",
+        "sold": "已出售",
+        "sourcing": "采购葡萄酒",
+        "wine": "葡萄酒",
+        "withdrawn": "已提取"
+    },
+    "labels": {
+        "bottles": "瓶",
+        "case_size": "1箱",
+        "date": "日期",
+        "ml": "ML",
+        "price_per_bottle": "每瓶价格",
+        "quantity": "数量",
+        "size": "尺寸",
+        "vintage": "年份"
+    },
+    "messages": {
+        "empty": "您已完成的交易将会在此显示。",
+        "empty_transaction": "暂无待处理的交易。",
+        "failed": "交易失败，请重试。",
+        "no_match": "暂无匹配，请重试。",
+        "pending": "等待中"
+    },
+    "section": {
+        "empty": "您尚未进行任何交易",
+        "fund": "为您的帐户注资"
+    },
+    "title": "所有交易",
+    "transactions-header": {
+        "all_time": "所有时间",
+        "all_transactions": "所有交易",
+        "buy": "购买",
+        "current_year": "今年",
+        "deposit": "存款",
+        "fee": "费用",
+        "last_90": "最近90天",
+        "last_month": "上个月",
+        "month": "本月",
+        "previous_year": "去年",
+        "sell": "出售",
+        "withdraw": "提取"
+    },
+    "transactions-list": {
+        "amount": "数额",
+        "date": "日期",
+        "description": "描述",
+        "failed": "失败",
+        "pending": "等待中",
+        "type": "类型"
+    },
+    "wine-details": {
+        "bottle": "瓶",
+        "more_case": "更多箱",
+        "more_cases": "更多箱",
+        "of": "的",
+        "s": "s",
+        "sourcing": "采购",
+        "sourcing_wine_statement": "我们正在为您的投资帐户采购最好的葡萄酒"
+    }
+}

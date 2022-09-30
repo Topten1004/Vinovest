@@ -1,0 +1,153 @@
+{
+    "paymentSources": [
+        {
+            "id": "ba_1IThw1E1C2KvY5kdIoKC8me0",
+            "bank": {
+                "name": "STRIPE TEST BANK",
+                "lastFour": "6789"
+            }
+        }
+    ],
+    "paymentMethods": [
+        {
+            "id": "pm_1IW2O3E1C2KvY5kdImwLzdKF",
+            "ach": null,
+            "card": {
+                "brand": "visa",
+                "expMonth": 4,
+                "expYear": 2024,
+                "lastFour": "4242"
+            }
+        },
+        {
+            "id": "pm_1IVuFuE1C2KvY5kdV4UMZF9Y",
+            "ach": null,
+            "card": {
+                "brand": "visa",
+                "expMonth": 2,
+                "expYear": 2022,
+                "lastFour": "4242"
+            }
+        },
+        {
+            "id": "pm_1Gn4XlE1C2KvY5kdM1zUVjLD",
+            "ach": null,
+            "card": {
+                "brand": "visa",
+                "expMonth": 4,
+                "expYear": 2024,
+                "lastFour": "4242"
+            }
+        },
+        {
+            "id": "pm_1GmqxjE1C2KvY5kd926FTdJ0",
+            "ach": null,
+            "card": {
+                "brand": "visa",
+                "expMonth": 4,
+                "expYear": 2024,
+                "lastFour": "4242"
+            }
+        },
+        {
+            "id": "pm_1GmqrsE1C2KvY5kd5gEFYFFl",
+            "ach": null,
+            "card": {
+                "brand": "visa",
+                "expMonth": 4,
+                "expYear": 2024,
+                "lastFour": "4242"
+            }
+        },
+        {
+            "id": "pm_1GmqLKE1C2KvY5kd426b6YAO",
+            "ach": null,
+            "card": {
+                "brand": "visa",
+                "expMonth": 4,
+                "expYear": 2024,
+                "lastFour": "4242"
+            }
+        },
+        {
+            "id": "pm_1GmqHIE1C2KvY5kdjkz9p74M",
+            "ach": null,
+            "card": {
+                "brand": "visa",
+                "expMonth": 4,
+                "expYear": 2024,
+                "lastFour": "4242"
+            }
+        },
+        {
+            "id": "pm_1GmpqvE1C2KvY5kdBvk3tS2A",
+            "ach": null,
+            "card": {
+                "brand": "visa",
+                "expMonth": 4,
+                "expYear": 2024,
+                "lastFour": "4242"
+            }
+        },
+        {
+            "id": "pm_1GmlMrE1C2KvY5kdDR4hWKAO",
+            "ach": null,
+            "card": {
+                "brand": "visa",
+                "expMonth": 4,
+                "expYear": 2024,
+                "lastFour": "4242"
+            }
+        },
+        {
+            "id": "pm_1GmQj9E1C2KvY5kdrm3Wuoa9",
+            "ach": null,
+            "card": {
+                "brand": "visa",
+                "expMonth": 4,
+                "expYear": 2024,
+                "lastFour": "4242"
+            }
+        },
+        {
+            "id": "pm_1Gm2R5E1C2KvY5kd1iHAuAvj",
+            "ach": null,
+            "card": {
+                "brand": "visa",
+                "expMonth": 4,
+                "expYear": 2024,
+                "lastFour": "4242"
+            }
+        },
+        {
+            "id": "pm_1Gm2CcE1C2KvY5kd7GstUzJe",
+            "ach": null,
+            "card": {
+                "brand": "visa",
+                "expMonth": 4,
+                "expYear": 2024,
+                "lastFour": "4242"
+            }
+        },
+        {
+            "id": "pm_1Gm2C8E1C2KvY5kd3D4eas1Q",
+            "ach": null,
+            "card": {
+                "brand": "visa",
+                "expMonth": 4,
+                "expYear": 2024,
+                "lastFour": "4242"
+            }
+        },
+        {
+            "id": "pm_1GlToaE1C2KvY5kdntuqrA3l",
+            "ach": null,
+            "card": {
+                "brand": "visa",
+                "expMonth": 4,
+                "expYear": 2024,
+                "lastFour": "4242"
+            }
+        }
+    ]
+}

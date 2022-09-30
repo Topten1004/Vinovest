@@ -1,0 +1,98 @@
+{
+    "depositCta": "Deposit to claim it now!",
+    "google-signin": {
+        "button-label": "With Google",
+        "button-label-mobile": "Google",
+        "login": "Log In",
+        "signup": "Sign Up"
+    },
+    "apple-signin": {
+        "button-label": "With Apple",
+        "button-label-mobile": "Apple",
+        "login": "Log In",
+        "signup": "Sign Up"
+    },
+    "login": "Login",
+    "okta-check": {
+        "button": "Go to home page",
+        "message": "Check your inbox for a link to reset your password. For security reasons, this link will expire in 60 minutes. Please allow a few minutes for the email to arrive.",
+        "title": "Check your inbox"
+    },
+    "okta-login": {
+        "button-create": "Create new account",
+        "button-forgot": "Forgot Password?",
+        "button-login": "Log in",
+        "empty-email": "Please enter email address",
+        "fail-login": "Please enter correct email address and password.",
+        "invalid-email": "Whoops, make sure you've entered valid email address!",
+        "invalid-password": "Please enter password.",
+        "or": "Or"
+    },
+    "okta-register": {
+        "button-account": "Have an account?",
+        "button-email": "Sign up with email",
+        "button-login": "Log in",
+        "china_agree": "I agree to Vinovest's",
+        "china_and": "and",
+        "china_privacy_policy": "privacy policy",
+        "china_terms_and_conditions": "terms and conditions",
+        "disclaimer": "Signing up for the Vinovest account means you agree to the",
+        "disclaimer-cont": "and",
+        "email": "email",
+        "empty-email": "Please enter email address",
+        "error-name": "Please enter your full name",
+        "header-email": "Enter your email",
+        "header-invest": "Start investing today!",
+        "header-name": "Enter your full name",
+        "header-password": "Create a password",
+        "international": "Available to all international clients",
+        "invalid-email": "Whoops, make sure you've entered valid email address!",
+        "newsletter": "You also agree to receive periodic newsletters from us",
+        "password": "password",
+        "password-char": "8 characters",
+        "password-cont": "and",
+        "password-min": "at least",
+        "password-num": "one number",
+        "password-special": "one special character",
+        "password-upper": "one uppercase letter",
+        "placeholder-first": "First Name",
+        "placeholder-last": "Last Name",
+        "privacy": "Privacy policy",
+        "show-password": "Show password",
+        "submit": "Continue",
+        "subscribe": "Stay up to date by subscribing to our emails.",
+        "terms": "Terms of service",
+        "agree_terms": "Must accept terms and conditions to create an account."
+    },
+    "okta-reset": {
+        "button-back": "Go back to sign in page",
+        "button-submit": "Send Instruction",
+        "email-empty": "Please enter email address.",
+        "email-invalid": "Whoops, make sure you've entered valid email address!",
+        "email-placeholder": "Email",
+        "message": "Enter your email and we'll send you instructions on how to reset your password.",
+        "title": "Reset your password"
+    },
+    "referral-confirmation": {
+        "depositCta": "Deposit to claim it now!",
+        "welcomeToVinovest": "Welcome to Vinovest. Thanks to your friend, you have been given three months of waived fees on Vinovest!",
+        "woohooTitle": "Woohoo!  You have 3 free months"
+    },
+    "uppercase": "{{ text, uppercase }}",
+    "welcomeToVinovest": "Welcome to Vinovest. Thanks to your friend, you have been given three months of waived fees on Vinovest!",
+    "woohooTitle": "Woohoo!  You have 3 free months",
+    "slider": {
+        "title": "Trusted by 130,000+ Registered Clients",
+        "recommended": "Recommended By",
+        "slide1-text": "Vinovest has been absolutely fantastic. They have essentially created a new asset class with relatively low barriers to entry. Great, great way to invest for the long term and diversify my portfolio.",
+        "slide2-text-first": "I've ",
+        "slide2-text-second": "just started",
+        "slide2-text-third": " investing with Vinovest in the past month. So far I'm very happy with the purchases that have been made for me. The staff has also been great in communicating. They just offered me a fantastic opportunitiy to invest in a case of very popular wine that I know will perform great!",
+        "slide3-text": "Fine wine has a pretty solid track record when it comes to returns and it’s attractive because it has no correlation with the stock market.",
+        "slide4-text": "Vinovest gives you a chance to protect yourself from rising inflation by investing in one of the highest appreciating assets.",
+        "slide5-text": "Probably the simplest and from what i’ve been able to find the best way to get exposure to wine investment. Really happy to have this and looking forward to their whiskey oriented one. Neat to learn from as well since i knew basically nothing around wine.",
+        "slide6-text": "I love Vinovest. Made investing in wine so easy",
+        "slide7-text": "Buying expensive wines may be one of your favorite activities, but did you know it could make you money? As a tangible asset, wine has a low correlation with global equities and has less long-term market volatility than other investments.",
+        "slide8-text": "My experience with Vinovest has been amazing. Very soon after I visited the page for the first time, I got contacted and was offered a personal Zoom meeting to explain wine investing and the Vinovest platform. The process to open an account, get it funded and start investing was very easy. Recommend."
+    }
+}

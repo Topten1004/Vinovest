@@ -1,0 +1,34 @@
+{
+    "glossary": {
+        "bordeaux": "Bordeaux",
+        "burgundy": "Burgundy",
+        "california": "California",
+        "champagne": "Champagne",
+        "italy": "Italy",
+        "restWorld": "Rest of the world",
+        "rhone": "Rhone",
+        "title": "Vinovest 100 Index Glossary"
+    },
+    "hero-meta": {
+        "description": "It's time to invest in fine wine.",
+        "title": "Vinovest 100 Index"
+    },
+    "hero": {
+        "description": "The Vinovest 100 Index is a proprietary index that tracks the fine wine market. The components include wine prices from major regions such as Bordeaux, Burgundy, Champagne, Rhone, Tuscany, Piedmont, California, Australia, Spain, Portugal, and others.",
+        "getStarted": "GET STARTED",
+        "title": "Vinovest 100 Index"
+    },
+    "reports": {
+        "DownloadQ12020Report": "Download Q1 2020 Report",
+        "DownloadQ12021Report": "Download Q1 2021 Report",
+        "DownloadQ22020Report": "Download Q2 2020 Report",
+        "DownloadQ22021Report": "Download Q2 2021 Report",
+        "DownloadQ32020Report": "Download Q3 2020 Report",
+        "DownloadQ32021Report": "Download Q3 2021 Report",
+        "DownloadQ42020Report": "Download Q4 2020 Report",
+        "DownloadQ42021Report": "Download Q4 2021 Report",
+        "DownloadQ12022Report": "Download Q1 2022 Report",
+        "DownloadQ22022Report": "Download Q2 2022 Report",
+        "title": "Quarterly reports"
+    }
+}

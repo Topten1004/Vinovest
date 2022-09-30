@@ -1,0 +1,19 @@
+{
+    "form": {
+        "email": "電子郵件",
+        "fullName": "全名",
+        "message": "信息",
+        "phoneNumber": "電話號碼",
+        "placeholderEmail": "電子郵件",
+        "placeholderMessage": "簡要描述你的問題...",
+        "placeholderName": "名稱",
+        "thankYou": "謝謝！您的提交已收到！"
+    },
+    "head-meta": {
+        "title": "聯繫我們"
+    },
+    "head": {
+        "description": "如果您是 Premium 或 Grand Cru 會員，請直接聯繫您的專屬投資組合顧問。",
+        "title": "聯繫我們"
+    }
+}

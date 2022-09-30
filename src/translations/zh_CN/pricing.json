@@ -1,0 +1,86 @@
+{
+    "features": {
+        "basic": {
+            "basic_1": "多元化的投资组合",
+            "basic_2": "正品保证",
+            "basic_3": "世界级储存",
+            "basic_4": "加入我们的碳抵消计划",
+            "basic_5": "全面投保"
+        },
+        "button_current": "当前",
+        "button_upgrade": "升级",
+        "exclusive": {
+            "exclusive_1": "专属投资组合顾问",
+            "exclusive_2": "参加Vinovest独家活动的机会",
+            "exclusive_3": "获得最稀有、最独家的葡萄酒",
+            "exclusive_4": "个性化的投资组合报告"
+        },
+        "label_basic": "基本特征",
+        "label_exclusive": "独家权益",
+        "label_product": "产品亮点",
+        "product": {
+            "product_1": "获得优质葡萄酒",
+            "product_2": "投资组合经理的半年度报告及组合建议",
+            "product_3": "投资组合定制",
+            "product_4": "投资葡萄酒期酒"
+        }
+    },
+    "getStarted": "开始",
+    "grandCru": {
+        "annual": "2.25%",
+        "balance": "帐户最低余额",
+        "benefits": [
+            "特级会员所享有的一切权益",
+            "优先获得仅在此级别才会提供的最稀有、最独家的葡萄酒的机会",
+            "个性化的投资组合洞察季度报告",
+            "Vinovest顾问的一对一服务"
+        ],
+        "title": "至尊会员"
+    },
+    "head-meta": {
+        "description": "优质葡萄酒在过去15年的年化收益率为13.6%，其表现不仅优于全球大多数的股票，而且与房地产或黄金相比，其波动性更低。",
+        "title": "Vinovest | 定价"
+    },
+    "head": {
+        "title": "Vinovest会员计划",
+        "topSmallTitle": "让您的投资因为葡萄酒而更加多元化"
+    },
+    "label_annual": "年费",
+    "label_balance": "帐户最低余额",
+    "plus": {
+        "annual": "2.70%",
+        "benefits": [
+            "标准会员所享有的一切权益",
+            "投资组合经理的半年度报告及组合建议",
+            "获得标准会员不曾获得的稀有和新发行上市的葡萄酒",
+            "（即将推出）抢先体验额外福利"
+        ],
+        "title": "高级会员"
+    },
+    "premium": {
+        "annual": "2.50%",
+        "balance": "帐户最低余额",
+        "benefits": [
+            "高级会员所享有的一切权益",
+            "投资葡萄酒期酒",
+            "既拥有我们的专有算法，也可选择定制投资组合",
+            "获得仅限拍卖的稀有葡萄酒的机会",
+            "参加Vinovest的独家品酒会与活动的机会"
+        ],
+        "title": "特级会员"
+    },
+    "standard": {
+        "annual": "2.85%",
+        "balance": "帐户最低余额",
+        "benefits": [
+            "智能算法精选的投资组合",
+            "100%正品葡萄酒及其优良品质的保证",
+            "参观世界级葡萄酒储存设施",
+            "加入我们的碳抵消计划",
+            "为您的葡萄酒进行全面投保"
+        ],
+        "title": "标准会员"
+    },
+    "swipeMobileMessage": "向右滑动可查看更多会员计划！",
+    "title_portfolio": "投资组合计划"
+}

@@ -1,0 +1,247 @@
+{
+    "UK Equitites": "英國股票",
+    "achieve_the_most": "為了從您的投資中獲得最大收益，您希望在我們的手續費窗口期滿後獲得回報。我們前 3 年的處理費涵蓋了我們採購和存儲您的投資的成本。經過三年的堅持，我們免除此處理費，因為您將獲得更大、更可預測的價格上漲帶來的回報。",
+    "acknowledge_button": "確認並繼續",
+    "acknowlege": "確認並繼續",
+    "advisor": "投資組合顧問",
+    "agreements_details": "請查看並同意以下各項。",
+    "agreements_title": "確認您的協議",
+    "algorithm": "根據您的初始投資時間範圍選擇，我們的算法和投資組合顧問構建了您的葡萄酒投資組合，以在您期望的時間範圍內達到成熟。在理想的時間窗口之前或之後賣出可能會導致未優化的回報。",
+    "back": "後退",
+    "before_you_request": {
+        "choose_the_option": {
+            "description": "我想要...",
+            "next": "選擇_葡萄酒",
+            "prev": "\/before_you_liquidate_your_portfolio",
+            "subPage": "選擇選項",
+            "title": "請選擇最能描述您的目標的選項"
+        },
+        "confirm_liquidation": {
+            "description": "出於安全原因，我們已向您關聯的電子郵件帳戶發送了一封確認電子郵件。在您單擊該電子郵件上的確認之前，您的清算過程尚未完成。如果您沒有收到電子郵件，請務必檢查您的垃圾郵件文件夾。",
+            "index": "3",
+            "next": "\/",
+            "prev": "無效的",
+            "subPage": "確認清算",
+            "title": "確認清算"
+        },
+        "confirm_your_wines": {
+            "description": "通常需要 2_4 週的時間才能在市場上銷售這些葡萄酒。",
+            "index": "2",
+            "next": "確認清算",
+            "prev": "選擇_葡萄酒",
+            "subPage": "確認您的葡萄酒",
+            "title": "確認您要出售的葡萄酒"
+        },
+        "feedback_options": {
+            "completed": {
+                "description": "我們會在交易完成時通知您",
+                "feedback": "我們非常重視投資者的反饋，如果您能告訴我們您要求贖回葡萄酒的原因，我們將不勝感激。我們永遠不會分享您的回复，它們也不會影響您的請求。",
+                "leave_feedback_placeholder": "給我們任何反饋（可選）",
+                "title": "您的葡萄酒預定出售"
+            },
+            "option1": "由於市場情況，我要求出售",
+            "option2": "我因個人情況要求出售",
+            "option3": "我對 Vinovest 的體驗不滿意",
+            "option4": "我的費用\/賬戶費用太高",
+            "option5": "我選擇不回應",
+            "support": {
+                "email": "參觀",
+                "email_rest": "任何問題的頁面",
+                "mobile_email": "電子郵件",
+                "mobile_questions": "問題",
+                "support": "支持"
+            }
+        },
+        "select_wines": {
+            "bottle": "瓶子",
+            "case": "案件",
+            "cases": "案例",
+            "description": "通常需要 2_4 週才能在市場上銷售葡萄酒。",
+            "holdings": {
+                "quantity": "數量",
+                "sell": "賣",
+                "title": "您的持股"
+            },
+            "index": "1",
+            "next": "確認您的葡萄酒",
+            "note": "注意：請求完全清算會自動取消任何掛單。您可以從以下位置查看您的訂單歷史記錄",
+            "prev": "選擇選項",
+            "sell_wine": "賣我的酒",
+            "sell_wine_button": "賣我的酒",
+            "subPage": "選擇_葡萄酒",
+            "title": "選擇出售的葡萄酒",
+            "transaction_tab": "交易標籤"
+        },
+        "sell_options": {
+            "all": "賣掉我所有的葡萄酒收藏",
+            "note": "注意：請求完全清算會自動取消任何掛單。您可以從以下位置查看您的訂單歷史記錄",
+            "some": "出售我收藏的部分葡萄酒",
+            "transaction": "交易標籤"
+        }
+    },
+    "book_call": "立即撥打電話",
+    "chart_description": "2014 Chateau Lafite Rothschild Premier Cru Classe Chart 顯示交易量隨著時間的推移而增加。資料來源：Liv Ex",
+    "choose-the-option": {
+        "description": "我想要...",
+        "index": "0",
+        "next": "精選葡萄酒",
+        "prev": "\/before-you-liquidate-your-portfolio",
+        "subPage": "選擇選項",
+        "title": "請選擇最能描述您的目標的選項"
+    },
+    "choose_details": "我想要...",
+    "choose_title": "請選擇最能描述您的目標的選項",
+    "confirm-liquidation": {
+        "description": "出於安全原因，我們已向您關聯的電子郵件帳戶發送了一封確認電子郵件。在您單擊該電子郵件上的確認之前，您的清算過程尚未完成。如果您沒有收到電子郵件，請務必檢查您的垃圾郵件文件夾。",
+        "index": "3",
+        "next": "\/",
+        "prev": "無效的",
+        "subPage": "確認清算",
+        "title": "確認清算"
+    },
+    "confirm-your-wines": {
+        "description": "通常需要 2-4 週的時間才能在市場上銷售這些葡萄酒。",
+        "index": "2",
+        "next": "確認清算",
+        "prev": "精選葡萄酒",
+        "subPage": "確認您的葡萄酒",
+        "title": "確認您要出售的葡萄酒"
+    },
+    "confirm_agreements": {
+        "best_price": "我了解我同意 Vinovest 以最優惠的價格出售我的葡萄酒。",
+        "fees": "我了解將收取任何處理費用。",
+        "owner": "我是這個賬戶的所有者。",
+        "price_estimates": "我了解我在我的帳戶和確認屏幕上看到的定價只是估計值。",
+        "tax_advice": "我了解 Vinovest 未向我提供任何稅務建議。",
+        "taxes": "我了解我將自行申報\/提交稅款。"
+    },
+    "confirm_details": "通常需要 2-4 週的時間才能在市場上銷售這些葡萄酒。",
+    "confirm_title": "確認您要出售的葡萄酒",
+    "contact_support": "聯繫我們的支持團隊",
+    "corp_bonds": "公司債券",
+    "did_not_get_email": "如果您沒有收到電子郵件",
+    "early_penalty": "提前清算罰款",
+    "elaine_lau": "劉依蓮",
+    "fee_description": "享受 3 個月的免費投資。我們很高興看到您進行長期投資。",
+    "fee_next_button": "轉到概覽",
+    "fee_title": "恭喜",
+    "feedback-options": {
+        "before-you-request": {
+            "acknowlege": "確認並繼續",
+            "back": "後退",
+            "sharpe-ratio-description": "夏普比率是衡量風險調整回報的指標。考慮到資產的風險，更高的比率表明更高的回報。",
+            "sharpe-ratio": {
+                "year": "夏普比率 ({{ 0 }} - {{ 0 }})"
+            },
+            "sticky-box": {
+                "advisor": "投資組合顧問",
+                "book-call": "立即撥打電話",
+                "liz": "麗茲·道蒂·米切爾",
+                "subtitle": "預訂電話以利用即將推出的限量葡萄酒和期貨。",
+                "title": "獲取本月利潤豐厚的精品葡萄酒！"
+            },
+            "title": "在您要求清算您的投資組合之前需要了解什麼"
+        },
+        "completed": {
+            "description": "我們會在交易完成時通知您",
+            "feedback": "我們非常重視投資者的反饋，如果您能告訴我們您要求贖回葡萄酒的原因，我們將不勝感激。我們永遠不會分享您的回复，它們也不會影響您的請求。",
+            "leave-feedback-placeholder": "給我們任何反饋（可選）",
+            "title": "您的葡萄酒預定出售"
+        },
+        "confirm-liquidation": {
+            "contact-support": "聯繫我們的支持團隊",
+            "did-not-receive": "如果您沒有收到電子郵件",
+            "please": "請",
+            "resend-email": "重發電子郵件"
+        },
+        "fee-congrats": {
+            "description": "享受 3 個月的免費投資。我們很高興看到您進行長期投資。",
+            "next-button": "轉到概覽",
+            "title": "恭喜"
+        },
+        "option1": "由於市場情況，我要求出售",
+        "option2": "我因個人情況要求出售",
+        "option3": "我對 Vinovest 的體驗不滿意",
+        "option4": "我的費用\/賬戶費用太高",
+        "option5": "我選擇不回應",
+        "subscribe": {
+            "label": "訂閱 Vinovest 時事通訊以了解最新信息"
+        },
+        "support": {
+            "email": "參觀",
+            "email-rest": "任何問題的頁面",
+            "mobile-email": "電子郵件",
+            "mobile-questions": "問題",
+            "support": "支持"
+        }
+    },
+    "fine_wine": "美酒",
+    "general_note": "注意：我們對自購買之日起 3 年內售出的每款葡萄酒徵收 3% 的加工費。",
+    "gold": "金子",
+    "gov_bonds": "政府債券",
+    "hk_equities": "港股",
+    "hk_equitities": "港股",
+    "ideal_selling": "理想的銷售時間表",
+    "irs": "您所做的任何贖回都將報告給內部收入服務，並且您的回報可能需要納稅。 Vinovest 不提供稅務建議，因此如果您對由此產生的潛在稅務後果有疑問，請在繼續之前諮詢您的財務顧問或稅務專業人士。",
+    "keep_portfolio": "",
+    "larger_gains": "正如您在 2014 年的拉菲酒莊羅斯柴爾德一級酒莊中所看到的那樣，早期以較小的收益出售並不意味著尋找買家的市場非常大。它還限制了您以後實現更大的收益。",
+    "liquid_details": "出於安全原因，我們已向您關聯的電子郵件帳戶發送了一封確認電子郵件。在您單擊該電子郵件上的確認之前，您的清算過程尚未完成。如果您沒有收到電子郵件，請務必檢查您的垃圾郵件文件夾。",
+    "liquid_title": "確認清算",
+    "liquidate_info": "在您要求清算您的投資組合之前需要了解什麼",
+    "liz": "麗茲·道蒂·米切爾",
+    "manager": "投資組合經理",
+    "nature_asset": "由於這種資產類別的性質，一旦您開始銷售您的葡萄酒，我們就會尋找買家購買它們。如果您在我們的 AI 算法認為您的葡萄酒可以出售之前選擇出售，則它們很可能尚未達到其飲酒高峰期。我們無法保證與您的投資組合中當前估值相同的銷售價格。最終售價通常介於我們的要價和買方的要約價之間。",
+    "next": "下一個",
+    "not_advice": "同時，我們將疏忽不告知您銷售的稅收影響。根據您的收入水平和位置，您可能面臨稅務後果。請諮詢您的財務顧問或稅務專業人士以獲取更多信息。",
+    "oil": "油",
+    "optional_feedback": "給我們任何反饋（可選）",
+    "penalty": "如果您選擇在購買第一款葡萄酒後 60 天內退出，我們將收取 3% 的提前清算費。 60 天后，活躍賬戶持有人無需支付額外的銷售費用。",
+    "please": "請",
+    "processing_fee": "加工費",
+    "processing_fee_info": "如果您選擇出售持有時間少於三年的葡萄酒，我們將收取 3% 的加工費。提前清算會導致 Vinovest 產生與採購和存儲相關的成本，如果出現提前銷售訂單，我們必須承擔這些成本。我們收取 3% 的費用來支付在我們推薦的銷售窗口之外進行銷售的費用。",
+    "resend_email": "重發電子郵件",
+    "select-wines": {
+        "description": "通常需要 2-4 週的時間才能在市場上銷售葡萄酒。",
+        "holdings": {
+            "quantity": "數量",
+            "sell": "賣",
+            "title": "您的持股"
+        },
+        "index": "1",
+        "next": "確認您的葡萄酒",
+        "note": "注意：請求完全清算會自動取消任何掛單。您可以從以下位置查看您的訂單歷史記錄",
+        "prev": "選擇選項",
+        "sell-wine-button": "賣我的酒",
+        "subPage": "精選葡萄酒",
+        "title": "選擇出售的葡萄酒",
+        "transaction-tab": "交易標籤"
+    },
+    "select_details": "通常需要 2-4 週的時間才能在市場上銷售葡萄酒。",
+    "select_title": "選擇出售的葡萄酒",
+    "sell-options": {
+        "all": "賣掉我所有的葡萄酒收藏",
+        "note": "注意：請求完全清算會自動取消任何掛單。您可以從以下位置查看您的訂單歷史記錄",
+        "some": "出售我收藏的部分葡萄酒",
+        "transactionTab": "交易標籤"
+    },
+    "sharpe_ratio_description": "夏普比率是衡量風險調整回報的指標。考慮到資產的風險，更高的比率表明更高的回報。",
+    "sharpe_ratio_year": "夏普比率 ( {{ startYear }}-{{ endYear }} )",
+    "should_sell": "你應該現在還是以後賣酒？",
+    "sticky_box_subtitle": "預訂電話以利用即將推出的限量葡萄酒和期貨。",
+    "sticky_box_title": "獲取本月利潤豐厚的精品葡萄酒！",
+    "subscribe": "訂閱 Vinovest 時事通訊以了解最新信息",
+    "tax_implications": "稅收影響和管理費的低效使用",
+    "taxable": "贖回可能需要納稅",
+    "uk_equities": "英國股票",
+    "us_equities": "美國股票",
+    "vinovest_algo": "Vinovest 算法和流動性",
+    "wine_longterm": "葡萄酒是一項長期投資",
+    "wine_longterm_explain": "投資級精品葡萄酒是一種長期資產類別，依靠供應減少和產品質量提高來推動定價。提前出售自己的葡萄酒投資會限制潛在回報，並可能使投資者面臨額外的罰款和稅收。就像偉大的葡萄酒一樣，您的投資需要時間來發展，耐心會帶來最好的回報！",
+    "wine_market_returns": "優質葡萄酒不僅提供高於市場的回報，而且這種資產類別還提供強勁的風險調整回報。這在投資另類資產時尤為重要，因為它們通常被視為對抗投資組合中其他資產波動的一種方式。",
+    "wines_scheduled": "您的葡萄酒預定出售",
+    "withdraw": {
+        "reinvest": "將資金再投資於新頭寸",
+        "withdraw": "提取資金"
+    },
+    "withdraw_title": "提取或再投資您的現金"
+}

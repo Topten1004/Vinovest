@@ -1,0 +1,114 @@
+{
+    "hero-meta": {
+        "description": "With 13.6% annualized returns over the past 15 years, fine wine has outperformed most global equities and is less volatile than real estate or gold.",
+        "title": "Vinovest | Discover Fine Wine Investing Today"
+    },
+    "hero": {
+        "description": "Fine wine is the best-kept secret in investing. Vinovest is changing that.",
+        "getStarted": "GET STARTED",
+        "getStartedHome": "GET STARTED",
+        "takingNotice": "Recommended By",
+        "title": "Fine Wine Investing for Everyone",
+        "toolRelease": "RELEASE -",
+        "listItem1": "Attractive historical returns",
+        "listItem2": "Direct ownership of world-class wines",
+        "listItem3": "Portfolio diversity",
+        "listItem4": "Robust recession-resistance"
+    },
+    "income-slider": {
+        "california": "California",
+        "kentucky": "Kentucky",
+        "messageGeneric": "A client from {{ country }} just deposited {{ amount }}.",
+        "newJersey": "New Jersey",
+        "ohio": "Ohio",
+        "southCarolina": "South Carolina",
+        "texas": "Texas",
+        "unitedKingdom": "United Kingdom",
+        "wyoming": "Wyoming"
+    },
+    "latest-from-blog": {
+        "description": "Understand the latest on wine investing, industry trends and wines to watch on our blog.",
+        "investingInWine": {
+            "description": "Understand the latest on wine investing, industry trends, and wines to watch on our blog.",
+            "title": "Investing In Wine: Everything You Need To Know"
+        },
+        "investingInStocks": {
+            "description": "Understand the latest on wine investing, industry trends, and wines to watch on our blog.",
+            "title": "Investing In Stocks Vs. Investing In Wine"
+        },
+        "readMore": "READ MORE",
+        "portfolioIncomplete": {
+            "description": "Understand the latest on wine investing, industry trends, and wines to watch on our blog.",
+            "title": "Why Your Investment Portfolio Is Incomplete Without Fine Wine"
+        },
+        "title": "Latest from the blog"
+    },
+    "partners-are-saying": {
+        "DustinWilson": {
+            "bottomText": "MASTER SOMMELIER",
+            "description": "“Investing in wine has long been something limited to those with access to the right wines. What I love about Vinovest is that they're opening this opportunity up to a larger market and breaking down the barriers for those who aren't necessarily wine experts. ”",
+            "title": "VINOVEST COUNCIL"
+        },
+        "JaneLopes": {
+            "bottomText": "MASTER SOMMELIER",
+            "description": "“Vinovest is combining wine knowledge and technology in an incredibly effective way to invest in the superstar bottles of tomorrow.”",
+            "title": "VINOVEST COUNCIL"
+        },
+        "McKennaWeinstein": {
+            "description": "“Thanks to Vinovest I can now invest in something I am passionate about!”",
+            "title": "CUSTOMER"
+        },
+        "title": "What our customers and partners are saying ",
+        "topSmallTitle": "INVESTED AND IN THE KNOW"
+    },
+    "quality": {
+        "curated": {
+            "description": "Say goodbye to rigorous research. Say hello to your personal portfolio advisor. At Vinovest, we do the hard work for you, creating globally diversified wine portfolios based on your investing preferences.",
+            "header": "Curated Portfolio"
+        },
+        "diversity": {
+            "description": "Traditional portfolios are a mess. Stocks, bonds, and mutual funds are all vulnerable to similar risks. Not fine wine, though. Its low correlation with traditional markets makes it recession-resistant.",
+            "header": "Portfolio Diversity"
+        },
+        "returns": {
+            "description": "Fine wine has returned 10.6% per year over the last 30 years, outperforming the global equities market during that same span.",
+            "header": "Excellent Returns"
+        },
+        "insider": {
+            "description": "Stop overpaying. Vinovest purchases proven vintages and emerging contenders below retail price, maximizing your potential returns on investment.",
+            "header": "Insider pricing"
+        },
+        "insights": {
+            "description": "Harness the power of big data with our proprietary financial models. They analyze millions of historical data points to ensure a balanced portfolio of stable, high-performing wines.",
+            "header": "Advanced Insights"
+        },
+        "hassle-free": {
+            "description": "Hit pause on building that wine cellar. Vinovest takes care of authenticating, storing, and securing your wine. If you want to enjoy your wine, we’ll even ship it to your doorstep.",
+            "header": "Hassle-free"
+
+        },
+        "learnMore": "LEARN MORE",
+        "title": "Your investment sommelier",
+        "topSmallTitle": "GROW YOUR PASSION AND RETURNS"
+    },
+    "scrollOptions": {
+        "weBuildPortfolio": {
+            "description": "After you fund your account, we utilize master sommeliers and AI-driven algorithms to select proven, high-appreciating wines for your portfolio.",
+            "title": "We build your portfolio"
+        },
+        "shareGoals": {
+            "description": "Stable returns or more aggressive? Our 1-minute assessment shapes your wine portfolio based on your investing preferences.",
+            "title": "Tell us your goals"
+        },
+        "title": "Invest in minutes",
+        "topSmallTitle": "HOW IT WORKS",
+        "watchItGrow": {
+            "description": "You own your wines 100%. We’ll take care of your bottles in the meantime. Buy more, sell, or enjoy them as you wish.",
+            "title": "Watch your portfolio grow"
+        },
+        "bonusStep": {
+            "description": "Have questions? Book a 1:1 video chat with a Vinovest advisor to learn more about different wines, brands, and investing strategies.",
+            "title": "Bonus Step - Talk with an advisor"
+        }
+    }
+}

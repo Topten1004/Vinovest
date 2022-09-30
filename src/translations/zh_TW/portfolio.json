@@ -1,0 +1,100 @@
+{
+    "add-funds": "增加資金",
+    "buttons": {
+        "arrow-first": "加載",
+        "arrow-second": "更多的"
+    },
+    "cellar-list": {
+        "add-funds": "增加資金",
+        "bottle": "每瓶",
+        "case": "每箱",
+        "disclaimer": "您將不會被收取投資組合中剩餘現金的費用",
+        "futures": "(葡萄酒期貨)",
+        "power": "購買力"
+    },
+    "condition": {
+        "authentic": "真正的",
+        "coverage": "完全覆蓋",
+        "excellent": "優秀",
+        "insurance": "保險",
+        "title": "狀況",
+        "verfication": "確認"
+    },
+    "description": {
+        "read": "閱讀更多"
+    },
+    "graphical-price-history": {
+        "title": "美東時間。每箱價格",
+        "tooltip": "估計價格是該酒最近在市場上購買的平均最佳價格。"
+    },
+    "hero": {
+        "futures": "(葡萄酒期貨)",
+        "learn": "了解更多",
+        "pending-learn": "了解更多",
+        "title": "特色：來自你的酒窖"
+    },
+    "wine-bottles-totals": {
+        "bottle": "瓶子",
+        "bottles": "瓶子",
+        "case": "案件",
+        "of": "的"
+    },
+    "wine-cellar-model": {
+        "average-hold": "平均保持時間",
+        "bottle": "每瓶",
+        "case": "每箱",
+        "contact": "想參觀您的葡萄酒嗎？我們很樂意安排參觀我們的存儲設施之一。請",
+        "contact-contd": "更多細節。",
+        "contact-link": "聯繫我們",
+        "cost": "平均成本基礎",
+        "percentage-portfolio": "投資組合的百分比",
+        "position": "你的職位",
+        "position-total": "美東時間。位置總數",
+        "quantity": "數量",
+        "storage": "存儲位置"
+    },
+    "wine-cellar": {
+        "buttons": {
+            "load": "裝載更多"
+        },
+        "cellar-view-toggle": {
+            "List": "列表",
+            "grid": "網格",
+            "list": "列表"
+        },
+        "empty-cellar": {
+            "add-funds": "增加資金",
+            "empty": "開始建造您的酒窖！",
+            "funded": "當我們尋找超值優惠時，請耐心等待"
+        },
+        "export": "出口",
+        "list-view-titles": {
+            "avg-cost": "平均成本",
+            "basis": "基礎",
+            "position": "估計位置",
+            "quantity": "數量",
+            "tooltip-cost-basis": "這是每瓶的平均購買價格。",
+            "tooltip-position": "美東時間。 Position Total 是擁有的瓶子的估計價值，扣除費用，加上掛單",
+            "tooltip-quantity": "數量是您擁有的單個瓶子或箱子的數量。箱子尺寸可以有 3、6 或 12 瓶，價格因葡萄酒而異，具體取決於箱子尺寸。",
+            "total": "全部的",
+            "wine": "葡萄酒"
+        },
+        "title": "你的酒窖",
+        "totals": {
+            "basis": "基礎",
+            "bottles": "瓶子",
+            "cell_total": "總計",
+            "cost": "成本",
+            "position": "美東時間。位置",
+            "quantity_title": "數量",
+            "tooltip-position": "美東時間。 Position Total 是擁有的瓶子的估計價值，扣除費用，加上掛單",
+            "tooltip-quantity": "數量是您擁有的單個瓶子或箱子的數量。箱子尺寸可以有 3、6 或 12 瓶，價格因葡萄酒而異，具體取決於箱子尺寸。",
+            "tooltip-total-cost": "這是您購買的所有葡萄酒的總成本。",
+            "total": "全部的",
+            "total_title": "全部的"
+        }
+    },
+    "wine-maker-notes": {
+        "title": "評論家的分數"
+    }
+}

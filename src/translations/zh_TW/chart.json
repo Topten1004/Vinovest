@@ -1,0 +1,18 @@
+{
+    "price_history": {
+        "average_price": "平均價格",
+        "benchmark": "基準",
+        "benchmark_wine_name": "波爾多混合紅，納帕谷",
+        "current_wine": "現酒",
+        "current_wine_name": "作品一號，納帕谷，美國",
+        "hide_benchmark": "隱藏基準",
+        "price_history": "價格歷史"
+    },
+    "pricehistory": {
+        "averageprice": "平均價格",
+        "benchmark": "基準",
+        "currentwine": "現酒",
+        "hidebenchmark": "隱藏基準",
+        "pricehistory": "價格歷史"
+    }
+}

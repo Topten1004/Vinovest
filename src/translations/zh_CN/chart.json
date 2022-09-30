@@ -1,0 +1,18 @@
+{
+    "price_history": {
+        "average_price": "平均价格",
+        "benchmark": "基准点",
+        "benchmark_wine_name": "纳帕谷波尔多红葡萄混酿",
+        "current_wine": "当前的葡萄酒",
+        "current_wine_name": "美国纳帕谷作品一号",
+        "hide_benchmark": "隐藏基准点",
+        "price_history": "价格历史"
+    },
+    "pricehistory": {
+        "averageprice": "平均价格",
+        "benchmark": "基准点",
+        "currentwine": "当前的葡萄酒",
+        "hidebenchmark": "隐藏基准点",
+        "pricehistory": "价格历史"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "access-investment-platform": {
+        "enjoyReturns": {
+            "data": [
+                {
+                    "title": "Watch your portfolio grow",
+                    "value": "It’s time to kick back and relax. See for yourself why fine wine has achieved 10.6% annualized returns over the past 30 years."
+                },
+                {
+                    "title": null,
+                    "value": "You can request wines from your portfolio at any time. We’ll ship the bottles to your doorstep so that you can have your profits and drink them, too."
+                }
+            ],
+            "title": "Enjoy returns or your wine"
+        },
+        "createAccount": {
+            "data": [
+                {
+                    "title": "Tell us your goals",
+                    "value": "Complete our 1-minute questionnaire, fully encrypted and secure. Your answers will help us build a personalized portfolio that matches your investing goals."
+                },
+                {
+                    "title": null,
+                    "value": "Don’t forget to fund your account. Vinovest has four investment tiers, starting as low as $1,000"
+                }
+            ],
+            "title": "Create Your Account"
+        },
+        "maximizedReturns": {
+            "data": [
+                {
+                    "title": "We build your portfolio",
+                    "value": "At Vinovest, our master sommeliers join forces with our quantitative investment models that analyze thousands of decisive data points. We leverage our global network of connections to purchase wine on your behalf at the most competitive price."
+                },
+                {
+                    "title": null,
+                    "value": "We usually complete your portfolio within 2 to 3 weeks. You own all the wines in your portfolio, 100%. You can buy or sell bottles whenever you like. Meanwhile, we’ll take care of the insurance and storage."
+                }
+            ],
+            "title": "Invest in wines picked for maximized returns"
+        },
+        "questions": {
+            "data": [
+                {
+                    "title": "Talk with an advisor",
+                    "value": "Your wine portfolio should be as unique as you are. A 1:1 meeting with a Vinovest portfolio advisor will ensure you get the perfect wines based on your investing preferences. It’s also the perfect time to ask any burning questions you have about wine investing."
+                }
+            ],
+            "title": "Additional Questions?",
+            "titleMobile": "Bonus Step"
+
+            
+        },
+        "title": "Access the world’s leading wine investment platform",
+        "topSmallTitle": "HERE'S HOW IT WORKS",
+        "topSmallTitleMobile": "HOW IT WORKS"
+    },
+    "head-meta": {
+        "description": "Find out to start investing in fine wines through Vinovest - from acquiring authentic bottles and securely storing them to watching your portfolio grow.",
+        "title": "How Vinovest Works | Vinovest | Wine Investment"
+    },
+    "head": {
+        "description": "Vinovest selects, acquires, and securely stores your wine. Access your wine online or in real life anytime, hassle-free.",
+        "getStarted": "GET STARTED",
+        "title": "Meet your investment sommelier"
+    },
+    "quality": {
+        "authenticityDescription": "Our wine experts ensure the authenticity of every single bottle we purchase.",
+        "authenticityHeader": "Authenticity guaranteed",
+        "description": "Invest with confidence",
+        "insuranceDescription": "Vinovest is insured with an FDIC equivalent for wine, protecting each bottle against breakage and loss.",
+        "insuranceHeader": "Full insurance",
+        "storedDescription": "Our worldwide network of state-of-the-art storage facilities keep your wines in perfect condition.",
+        "storedHeader": "Securely stored",
+        "title": "Unparalleled security"
+    },
+    "trulyLiquidAssets": {
+        "description": "You own the wines in your portfolio outright. You can buy, sell, and even drink them whenever you want. Many of our investors leave their wines in storage, allowing them to reach their peak value. When you’re ready to sell, our worldwide team will assist you in getting the maximum return on your investment.",
+        "title": "Truly liquid assets"
+    },
+    "investmentWorthy": {
+        "title": "What makes a wine investment worthy",
+        "paragraph1": "Only 1% of the wine at the grocery store is investment-grade. That’s because most wines don’t have a built-to-age structure.",
+        "paragraph2": "So, how does Vinovest know which wines are investment worthy? We have a team of world-class sommeliers who evaluate wine and determine which ones will gain value over time.",
+        "paragraph3": "We also harness the power of big data. Our proprietary algorithm analyzes millions of historical data points to determine a wine's investment worthiness. Some of the factors it considers include:",
+         "list": {
+             "item1": "Critic scores",
+             "item2": "Current age",
+             "item3": "Liquidity",
+             "item4": "Producer’s brand equity",
+             "item5": "Risk-to-return ratio",
+             "item6": "Secondary market pricing"
+         }         
+    },
+    "more-information": "For more information about how to make wine your next great investment,",
+    "visit": "visit our FAQ section"
+}

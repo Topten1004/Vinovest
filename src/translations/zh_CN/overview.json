@@ -1,0 +1,196 @@
+{
+    "account-value": {
+        "title": "预估帐户总值",
+        "today": "今天，",
+        "tooltip": "此图表显示的是您的预估帐户总值。所有的存款和葡萄酒的预估价值都会在此显示。"
+    },
+    "all": "全部",
+    "american": "美国",
+    "auto-invest": {
+        "description": "Auto Invest （自动投资）可以让您按购入证券的美元价格平均计算法轻松地进行葡萄酒长期投资。您只需选择投资金额和想要的投资周期（每周、每月等）即可开始。",
+        "description_uppercase": "$t(auto-invest.description, uppercase)",
+        "enroll-button": "立即节省{{ amount }}％",
+        "title": "设置自动投资可以帮您节省{{ amount }}%的费用"
+    },
+    "book-call": {
+        "book-button": "欢迎来电咨询",
+        "subtitle": "了解与创建葡萄酒投资组合以抵御不确定的市场环境相关的信息与资讯",
+        "title": "欢迎来电与我们的葡萄酒专家进行一对一专项沟通"
+    },
+    "bordeaux": "波尔多",
+    "burgundy": "勃艮第",
+    "california": "加利福尼亚",
+    "champagne": "香槟",
+    "deposit-banner-list": {
+        "pending-message": "您有一笔存款正在处理中。您的银行通常会在2-4个工作日内确认您的资金，并将其转入您的Vinovest帐户。请访问",
+        "pending-message-cont": "点击可查看更多详细信息",
+        "pending-message-mobile": "您有一笔存款正在处理中。请访问",
+        "pending-message-mobile-cont": "点击可查看更多详细信息",
+        "sourced-wine-message": "资金已到账！我们的AI算法正在从5000个不同的供应商中帮您搜寻拥有最优价格的葡萄酒。鉴于此类资产的自身属性，该过程最多可能需要3周的时间。请访问",
+        "sourced-wine-message-cont": "点击可查看更多详细信息",
+        "sourced-wine-message-mobile": "资金已到账！请访问",
+        "transaction-link": "所有交易"
+    },
+    "diversification": {
+        "add-funds-2": "到您的帐户",
+        "add-funds-link": "增加投资金额",
+        "addFunds": "若希望能随着时间的推移而不断丰富您的葡萄酒组合产区分布，则您需要",
+        "description-bar": "为您买进葡萄酒之后，您会看到按地区划分的葡萄酒详细信息",
+        "title": "组合产区分布"
+    },
+    "fag-overview-options": {
+        "0": {
+            "alt": "酒瓶图像",
+            "paragraph": [
+                "对于我们提供的所有服务（包含葡萄酒的购买、出售、储存和投保），我们会收取2.85%的年费，但对于特级会员（投资余额超过5万美元）而言，该费用会降至2.5%，而对于至尊会员（投资余额超过25万美元），该费用则会进一步降至2.25%。",
+                "Vinovest的服务费用是根据您帐户中的平均余额按比例分摊到整个年度进行计算的，而其中的一部分是按月收取的。"
+            ],
+            "title": "服务费用包括那些？"
+        },
+        "1": {
+            "alt": "酒标图像",
+            "paragraph": [
+                "是的！如果您的一位朋友通过您转推的链接（您可在投资组合的“邀请”选项中找到）为其在Vinovest的投资账户注资，那么您二人都可以获得3个月的免服务费平台帐户使用期。",
+                "您只要按月激活Auto Invest（自动投资）便可获得整体管理费用的5%的折扣。对于投资组合顾问是否可以提供免费服务以及提供多少个月的免费服务，这都由投资组合顾问自行决定。"
+            ],
+            "title": "我的帐户的平台服务费用可以打折吗？"
+        },
+        "2": {
+            "alt": "瓶标图片",
+            "paragraph": [
+                "Vinovest还拥有全面的第三方保险政策",
+                "在发生自然灾害或是员工造成葡萄酒损坏等不太可能发生的不利意外之时，这将以当前的全部市场价值保护您的葡萄酒。"
+            ],
+            "title": "我的葡萄酒拥有什么保险？"
+        },
+        "3": {
+            "alt": "老建筑图片",
+            "paragraph": [
+                "因为这些基础资产（葡萄酒）属于您所有，所以即使Vinovest宣布倒闭，您也仍然可以收回它们。",
+                "即使发生最坏的情况而且Vinovest也宣布倒闭，您的投资也仍然安全，因为储存您葡萄酒的场所会被通知与葡萄酒的直接所有者（您）联系，而您则可以选择将您的葡萄酒继续储存在那里，或要求将您的葡萄酒运送至您的指定地点，亦或通过拍卖清算掉您的葡萄酒。"
+            ],
+            "title": "如果Vinovest宣布倒闭，我的葡萄酒会如何？"
+        },
+        "4": {
+            "alt": "葡萄酒和投标图片",
+            "paragraph": [
+                "是的，您可以随时选择出售您的部分或全部的投资组合。",
+                "然后，我们将帮助您与我们网络中出价最高的买家相匹配，并帮助您将葡萄酒运送至买家的指定地点。",
+                "本过程通常需要不到4周的时间。如果您选择在激活账户后60天内出售您的投资组合，我们将评估3%的提前清算罚款。过去60天的活跃帐户持有人无需额外支付销售费用。"
+            ],
+            "title": "我可以随时出售我的葡萄酒吗\/我的投资组合的流动性如何？"
+        },
+        "checkFAQ": "请查看常见问题解答页面",
+        "findAnswer": "若此处无法为您提供解答，请在我们的常见问题解答页面中查看更多的问题解答。",
+        "redirectText": "邀请朋友",
+        "weBet": "如有其他问题"
+    },
+    "historical-returns": {
+        "returns": "历史收益"
+    },
+    "how-process-works": {
+        "addFunds": "增加投资金额",
+        "description": "如下的时间线显示了您在Vinovest从首次注资到清算完成的整个活动过程，以帮您能够更加清晰地规划后续预期。",
+        "fixedListA": [
+            "我们负责它的储存",
+            "它100%为您所有",
+            "有保险才安全"
+        ],
+        "fixedListB": [
+            "出售",
+            "自行享用",
+            "继续投资"
+        ],
+        "fixedTextA": "我们为您购买葡萄酒",
+        "fixedTextB": "当您的葡萄酒的价值达到最高点时，Vinovest会发出提醒。您可以：",
+        "tipATitle": "为您寻找最优价格需要2-3周的时间",
+        "tipBList": [
+            "设置定期付款",
+            "为您的葡萄酒支付储存和保险费用",
+            "欢迎关注特别优惠"
+        ],
+        "tipBTitle": "最好是10-15年",
+        "title": "那么，这个过程是如何进行的呢？"
+    },
+    "italian": "意大利",
+    "personal-snapshot": {
+        "account-level": "帐户级别",
+        "friend": "朋友",
+        "investing": "投资",
+        "investment-plan": "投资计划",
+        "net-returns": "迄今为止的净收益",
+        "not-investing": "尚未设定",
+        "snapshot-header": "帐户概览",
+        "welcome": "欢迎",
+        "wine_collection": "您的葡萄酒收藏"
+    },
+    "piedmont": "皮埃蒙特",
+    "premium": {
+        "advisor": "投资组合顾问",
+        "book": "预约电话",
+        "dontHaveToInvest": "在预约电话之前，您无需进行任何投入，我们亦盛情期待您的来电。",
+        "letUsHelp": "我们十分乐意为您效劳"
+    },
+    "quality-value": {
+        "authenticity-header": "正品保证",
+        "description": "我们与酿酒厂以及值得信赖的行业合作伙伴直接合作，以此确保我们购买的每一瓶葡萄酒都货真价实且有产地可循。",
+        "insurance-description": "Vinovest拥有全面的保险，因此，即使您的葡萄酒发生破损或被盗等意外，Vinovest也能确保以全额市场价值进行替换。",
+        "insurance-header": "全额保险",
+        "stored-description": "我们最先进的储存设施可确保您的葡萄酒时刻处于完美的陈年环境。",
+        "stored-header": "完美储存"
+    },
+    "recommended-banner": {
+        "fund": "为您的帐户注资",
+        "investing": "投资",
+        "investment": "投资",
+        "plan": "计划是",
+        "recommend": "向您推荐的"
+    },
+    "referal": {
+        "message": "当您与朋友分享您的专属链接时，您和您的朋友都可以参加抽奖活动，而且您有机会为您的葡萄酒投资赢得价值1000美元的Vinovest信用额度。您分享成功的次数越多，获胜的概率也就越大。分享成功指的是您的朋友点击您分享的链接并为他们自己的Vinovest帐户注资。我们会随机抽取优胜者并于2020年11月20日公布获奖人员名单。",
+        "sharelink": "获取分享链接",
+        "win": "赢取{{ currencySymbol }}{{ value }}"
+    },
+    "referral-module": {
+        "earn": "赢取奖励。",
+        "earn-description": "您每成功邀请1位朋友加入Vinovest，您和您朋友就都会获得90天免咨询费的Vinovest葡萄酒交易平台帐户使用期。",
+        "invite": "邀请朋友。",
+        "learn": "了解更多"
+    },
+    "rest": "其他国家\/地区",
+    "rest_of_world": "全球其他地区",
+    "returns-box": {
+        "all": "所有时间",
+        "appreciation": "预估升值",
+        "fees": "费用",
+        "title": "预估收益",
+        "total": "预估总计",
+        "ytd": "年至今",
+        "ytd_upper": "$t(returns-box.ytd, uppercase)"
+    },
+    "rewards-box": {
+        "cycles": "免服务费的付款周期",
+        "cycles-message": "您上个月的奖励是",
+        "cycles-period": "月份",
+        "fees-description": "邀请已被接受",
+        "fees-title": "节省的管理费",
+        "link": "复制链接",
+        "link-mobile": "复制",
+        "snapshot-description": "当您的一位朋友通过您的邀请链接为其Vinovest帐户注资时，您和您的朋友都会即刻获得3个月免费的葡萄酒储存和管理服务。",
+        "title": "奖励"
+    },
+    "rhone": "罗讷河",
+    "south_australia": "南澳大利亚",
+    "standard": {
+        "contact": "联系客户支持团队",
+        "title1": "欢迎来电与我们的葡萄酒专家进行一对一专项沟通",
+        "title2": "有其他问题？",
+        "wouldLoveToHear": "欢迎与我们联系！如有任何问题或建议，请联系客户支持团队"
+    },
+    "whiskey-banner": {
+        "early-access": "抢先体验！",
+        "learn-more": "了解更多",
+        "whiskey-investing": "威士忌投資"
+    },
+    "wine-expert": "葡萄酒专家"
+}

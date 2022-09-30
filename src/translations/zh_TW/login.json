@@ -1,0 +1,76 @@
+{
+    "depositCta": "存款立即領取！",
+    "google-signin": {
+        "button-label": "與穀歌",
+        "login": "登錄",
+        "signup": "報名"
+    },
+    "login": "登錄",
+    "okta-check": {
+        "button": "去首頁",
+        "message": "檢查您的收件箱以獲取重置密碼的鏈接。出於安全原因，此鏈接將在 60 分鐘後過期。請等待幾分鐘，讓電子郵件到達。",
+        "title": "檢查你的收件箱"
+    },
+    "okta-login": {
+        "button-create": "建立新帳戶",
+        "button-forgot": "忘記密碼？",
+        "button-login": "登錄",
+        "empty-email": "請輸入電子郵件地址",
+        "fail-login": "請輸入正確的電子郵件地址和密碼。",
+        "invalid-email": "糟糕，請確保您輸入了有效的電子郵件地址！",
+        "invalid-password": "請輸入密碼。",
+        "or": "要么"
+    },
+    "okta-register": {
+        "button-account": "有一個賬戶？",
+        "button-email": "用電子郵件註冊",
+        "button-login": "登錄",
+        "china_agree": "我同意 Vinovest 的",
+        "china_and": "和",
+        "china_privacy_policy": "隱私政策",
+        "china_terms_and_conditions": "條款和條件",
+        "disclaimer": "註冊 Vinovest 帳戶即表示您同意",
+        "disclaimer-cont": "和",
+        "email": "電子郵件",
+        "empty-email": "請輸入電子郵件地址",
+        "error-name": "請輸入您的全名",
+        "header-email": "輸入你的電子郵箱",
+        "header-invest": "從今天開始投資！",
+        "header-name": "輸入您的全名",
+        "header-password": "創建一個密碼",
+        "international": "適用於所有國際客戶",
+        "invalid-email": "糟糕，請確保您輸入了有效的電子郵件地址！",
+        "newsletter": "您還同意接收我們的定期通訊",
+        "password": "密碼",
+        "password-char": "8 個字符",
+        "password-cont": "和",
+        "password-min": "至少",
+        "password-num": "一號",
+        "password-special": "一個特殊字符",
+        "password-upper": "一個大寫字母",
+        "placeholder-first": "名",
+        "placeholder-last": "姓",
+        "privacy": "隱私政策",
+        "show-password": "顯示密碼",
+        "submit": "繼續",
+        "subscribe": "訂閱我們的電子郵件，了解最新信息。",
+        "terms": "服務條款"
+    },
+    "okta-reset": {
+        "button-back": "返回登錄頁面",
+        "button-submit": "發送指令",
+        "email-empty": "請輸入電子郵件地址。",
+        "email-invalid": "糟糕，請確保您輸入了有效的電子郵件地址！",
+        "email-placeholder": "電子郵件",
+        "message": "輸入您的電子郵件，我們將向您發送有關如何重置密碼的說明。",
+        "title": "重置您的密碼"
+    },
+    "referral-confirmation": {
+        "depositCta": "存款立即領取！",
+        "welcomeToVinovest": "歡迎來到 Vinovest。感謝您的朋友，您獲得了三個月的 Vinovest 費用減免！",
+        "woohooTitle": "嗚呼！您有 3 個月的免費時間"
+    },
+    "uppercase": "{{ 文字，大寫 }}",
+    "welcomeToVinovest": "歡迎來到 Vinovest。感謝您的朋友，您獲得了三個月的 Vinovest 費用減免！",
+    "woohooTitle": "嗚呼！您有 3 個月的免費時間"
+}

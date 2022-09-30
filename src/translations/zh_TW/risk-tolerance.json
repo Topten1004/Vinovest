@@ -1,0 +1,106 @@
+{
+    "button_cancel": "取消",
+    "button_save": "節省",
+    "buttons": {
+        "continue": "繼續",
+        "next": "下一個"
+    },
+    "error_post": "目前無法更新您的信息。",
+    "form": {
+        "notice": "注意：您的投資計劃決定了您的資金分配到的投資組合。它只會影響未來的投資，不會重新平衡您當前的頭寸。"
+    },
+    "minimum_capital": {
+        "currency": "{{ currencySymbol }}{{ amount }}",
+        "grandcru": "（特級園計劃）",
+        "minimum": "（帳戶最低）",
+        "premium": "(高級計劃)",
+        "title": "你打算投資多少？"
+    },
+    "phoneQuiz": {
+        "continue": "繼續",
+        "errorFromResponse": "目前無法接受您的電話號碼。",
+        "invalidPhone": "無效的電話號碼",
+        "placeholder": "輸入電話號碼",
+        "title": "輸入你的電話號碼"
+    },
+    "plans": {
+        "aggressive": [
+            "正在尋找以高增長葡萄酒產區為目標的優質葡萄酒組合",
+            "有一個中長期時間表",
+            "有投資另一種另類資產類別的經驗"
+        ],
+        "aggressive_investing": "積極投資",
+        "balanced": [
+            "正在尋找最大程度多樣化的優質葡萄酒組合",
+            "有一個中長期時間表",
+            "可能是股票市場以外投資的新人"
+        ],
+        "balanced_investing": "平衡投資",
+        "conservative": [
+            "正在尋找優化下行保護的優質葡萄酒組合",
+            "有一個長期的時間表",
+            "想要擁有可靠歷史記錄的全球多元化葡萄酒組合"
+        ],
+        "conservative_investing": "保守投資",
+        "your-portfolio": {
+            "great": "太好了，如果你...",
+            "label": "這是您的定制計劃",
+            "next-button": "下一個"
+        }
+    },
+    "quiz": {
+        "of": "的",
+        "options": {
+            "question-options": [
+                {
+                    "name": "投資風格",
+                    "options": [
+                        "保守的",
+                        "緩和",
+                        "挑釁的"
+                    ],
+                    "text": "您如何描述您的投資風格？"
+                },
+                {
+                    "multiple": "1",
+                    "name": "目標與Vinovest",
+                    "options": [
+                        "獲得比我的其他投資更高的風險調整回報",
+                        "多元化進入另類資產類別",
+                        "投資於我熱愛的事物"
+                    ],
+                    "text": "您加入 Vinovest 的主要動機是什麼？"
+                },
+                {
+                    "name": "預期現金存取",
+                    "options": [
+                        "不到3年",
+                        "3至7歲",
+                        "超過 7 年"
+                    ],
+                    "text": "您預計何時需要從購買的葡萄酒中獲得現金？"
+                }
+            ],
+            "question1": [
+                "保守的",
+                "中等",
+                "挑釁的"
+            ],
+            "question2": [
+                "獲得比我的其他投資更高的風險調整回報",
+                "多元化進入另類資產類別",
+                "投資於我熱愛的事物"
+            ],
+            "question3": [
+                "不到3年",
+                "3至7歲",
+                "超過 7 年"
+            ]
+        },
+        "question": "問題"
+    },
+    "your_portfolio": {
+        "plan_subtitle": "太好了，如果你...",
+        "plan_title": "這是您的定制計劃"
+    }
+}

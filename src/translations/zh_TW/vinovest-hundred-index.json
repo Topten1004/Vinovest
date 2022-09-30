@@ -1,0 +1,31 @@
+{
+    "glossary": {
+        "bordeaux": "波爾多",
+        "burgundy": "勃艮第",
+        "california": "加利福尼亞州",
+        "champagne": "香檳酒",
+        "italy": "意大利",
+        "restWorld": "世界其他地區",
+        "rhone": "羅納",
+        "title": "Vinovest 100 指數詞彙表"
+    },
+    "hero-meta": {
+        "description": "是時候投資優質葡萄酒了。",
+        "title": "Vinovest 100 指數"
+    },
+    "hero": {
+        "description": "Vinovest 100 指數是跟踪優質葡萄酒市場的專有指數。這些組成部分包括波爾多、勃艮第、香檳、羅納、托斯卡納、皮埃蒙特、加利福尼亞、澳大利亞、西班牙、葡萄牙等主要地區的葡萄酒價格。",
+        "getStarted": "開始",
+        "title": "Vinovest 100 指數"
+    },
+    "reports": {
+        "DownloadQ12020Report": "下載 2020 年第一季度報告",
+        "DownloadQ12021Report": "下載 2021 年第一季度報告",
+        "DownloadQ22020Report": "下載 2020 年第二季度報告",
+        "DownloadQ22021Report": "下載 2021 年第二季度報告",
+        "DownloadQ32020Report": "下載 2020 年第三季度報告",
+        "DownloadQ32021Report": "下載 2021 年第三季度報告",
+        "DownloadQ42020Report": "下載 2020 年第四季度報告",
+        "title": "季報"
+    }
+}

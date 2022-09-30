@@ -1,0 +1,111 @@
+version: 2.1
+
+defaults: &defaults
+  working_directory: ~/website
+
+executors:
+  node_12:
+    <<: *defaults
+    docker:
+      - image: node:14.18.1-alpine
+
+aliases:
+  - &master_filter
+    branches:
+      only: "master"
+  - &develop_filter
+    branches:
+      only: "develop"
+  - &prod_filter
+    tags:
+      only: /^v[0-9]+(\.[0-9]+){2}$/
+    branches:
+      ignore: /.*/
+  - &ignore_master_filter
+    branches:
+      ignore: "master"
+  - &ignore_develop_filter
+    branches:
+      ignore: "develop"
+  - &catchall_filter
+    tags:
+      only: /^v[0-9]+(\.[0-9]+){2}$/
+
+jobs:
+  test:
+    executor: node_12
+    steps:
+      - checkout # special step to check out source code to working directory
+      - run:
+          name: Install dependencies
+          command: |
+            yarn --frozen-lockfile
+      - run:
+          name: Run tests
+          command: yarn test:ci
+  deploy-staging:
+    executor: node_12
+    steps:
+      - checkout # special step to check out source code to working directory
+      - run:
+          name: Add AWS CLI
+          command: |
+            apk add --no-cache py-pip
+            pip install awscli
+      - run:
+          name: Install Dependencies > Build
+          command: |
+            yarn --frozen-lockfile
+            APP_ENV=staging APP_BASE_URL=https://staging.vinovest.co yarn run build
+      - run:
+          name: Deploy to S3
+          command: |
+            aws s3 sync build/ s3://origin.staging.vinovest.co --acl public-read --metadata '{"cache-control":"no-cache,no-store,must-revalidate"}'
+
+  deploy-prod:
+    executor: node_12
+    steps:
+      - checkout
+      - run:
+          name: Add AWS CLI
+          command: |
+            apk add --no-cache py-pip
+            pip install awscli
+      - run:
+          name: Install Dependencies > Build
+          command: |
+            yarn --frozen-lockfile
+            APP_ENV=production SENTRY_TAG=${CIRCLE_TAG} yarn run build
+      - run:
+          name: Deploy to S3
+          command: |
+            aws s3 sync build/ s3://origin.prod.vinovest.co --acl public-read --metadata '{"cache-control":"no-cache,no-store,must-revalidate"}'
+workflows:
+  version: 2
+  feature-deploy:
+    jobs:
+      - test:
+          filters: *ignore_develop_filter
+      - approve-feat-deploy:
+          requires:
+            - test
+          type: approval
+          filters: *ignore_develop_filter
+      - deploy-staging:
+          requires:
+            - approve-feat-deploy
+          filters: *ignore_develop_filter
+  staging-merge:
+    jobs:
+      - test:
+          filters: *develop_filter
+      - deploy-staging:
+          requires:
+            - test
+          filters: *develop_filter
+  prod-release:
+    jobs:
+      - test:
+          filters: *prod_filter
+      - deploy-prod:
+          filters: *prod_filter

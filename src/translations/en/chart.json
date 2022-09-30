@@ -1,0 +1,18 @@
+{
+    "price_history": {
+        "average_price": "Average price",
+        "benchmark": "Benchmark",
+        "benchmark_wine_name": "Bordeaux Blend Red, Napa Valle",
+        "current_wine": "Current wine",
+        "current_wine_name": "Opus One, Napa Valley, USA",
+        "hide_benchmark": "Hide bench mark",
+        "price_history": "Price History"
+    },
+    "pricehistory": {
+        "averageprice": "Average price",
+        "benchmark": "Benchmark",
+        "currentwine": "Current wine",
+        "hidebenchmark": "Hide bench mark",
+        "pricehistory": "Price History"
+    }
+}

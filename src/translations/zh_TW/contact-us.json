@@ -1,0 +1,18 @@
+{
+    "allSupportTopics": {
+        "description": "大多數問題的答案都可以在我們的幫助頁面上找到",
+        "linkText": "查看幫助頁面",
+        "title": "所有支持主題"
+    },
+    "forCurrentInvestors": {
+        "description": "如果您有任何與帳戶或支持相關的問題",
+        "linkText": "聯繫客戶支持團隊",
+        "title": "對於現有投資者"
+    },
+    "forNewInvestors": {
+        "description": "如果您有興趣擴大您的葡萄酒組合",
+        "linkText": "聯繫投資組合顧問",
+        "title": "對於新投資者"
+    },
+    "title": "聯繫我們"
+}

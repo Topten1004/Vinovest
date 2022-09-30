@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Full Component Should Translate correctly 1`] = `
+<body>
+  <div>
+    &lt;div id="root"/&gt;
+  </div>
+</body>
+`;

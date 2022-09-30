@@ -1,0 +1,34 @@
+{
+    "contact-us": {
+        "cant-find": "Can’t find what you’re looking for?",
+        "contact": "Contact Vinovest Support"
+    },
+    "help-center-slug": "FAQ",
+    "note": {
+        "text1": "Laws and regulations administered by",
+        "text2": "OFAC",
+        "text3": "impose restrictions on the provision of services to persons, including U.S. citizens and permanent residents, that are located in specified sanctioned jurisdictions, including Cuba, Iran, North Korea, Syria, and the Crimea region of Ukraine. If you travel to these locations, you won’t be able to access your account, and attempted log-ins may lead to account restrictions.",
+        "title": "NOTE"
+    },
+    "question": {
+        "thank": "Thank you!",
+        "wasHelpful": "WAS THIS INFORMATION HELPFUL?"
+    },
+    "search": {
+        "message": "WE DIDN`T FIND ANY RESULTS FOR THE SEARCH",
+        "placeholder": "SEARCH..."
+    },
+    "support-category": {
+        "meta": {
+            "description": "Vinovest Help Center"
+        }
+    },
+    "support-main": {
+        "meta": {
+            "description": "Got questions on wine investment through Vinovest? Get answers to all your queries on how Vinovest works, returns, ownership, fees, shipping, storage, and more.",
+            "title": "Help Center"
+        },
+        "title": "How can we help you?",
+        "view-all": "VIEW ALL"
+    }
+}

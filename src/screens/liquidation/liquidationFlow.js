@@ -1,0 +1,60 @@
+const flow = (t) => ({
+    "choose-the-option": {
+        subPage: "choose-the-option",
+        index: 0,
+        title: t("choose_title"),
+        description: t("choose_details"),
+        next: "select-wines",
+        prev: "/before-you-liquidate-your-portfolio",
+    },
+    "select-wines": {
+        subPage: "select-wines",
+        index: 1,
+        title: t("select_title"),
+        description: t("select_details"),
+        next: "confirm-your-wines",
+        prev: "choose-the-option",
+    },
+    "confirm-your-wines": {
+        subPage: "confirm-your-wines",
+        index: 2,
+        title: t("confirm_title"),
+        description: t("confirm_details"),
+        next: "confirm-your-agreements",
+        prev: "select-wines",
+    },
+    "confirm-your-agreements": {
+        subPage: "confirm-your-agreements",
+        index: 3,
+        title: t("agreements_title"),
+        description: t("agreements_details"),
+        next: "withdraw-options",
+        prev: "confirm-your-wines",
+    },
+    "withdraw-options": {
+        subPage: "withdraw-options",
+        index: 4,
+        title: t("withdraw_title"),
+        description: t("choose_details"),
+        next: "confirm-liquidation",
+        prev: "confirm-your-agreements",
+    },
+    "rebalance-portfolio": {
+        subPage: "rebalance-portfolio",
+        index: 5,
+        title: t("rebalance_portfolio"),
+        description: t("rebalance_details"),
+        next: "/",
+        prev: "withdraw-options",
+    },
+    "confirm-liquidation": {
+        subPage: "confirm-liquidation",
+        index: 6,
+        title: t("liquid_title"),
+        description: t("liquid_details"),
+        next: "/",
+        prev: "null",
+    },
+});
+
+export default flow;

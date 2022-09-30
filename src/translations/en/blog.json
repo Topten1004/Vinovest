@@ -1,0 +1,34 @@
+{
+    "article": {
+        "dontForget": "Don't forget to share this post!",
+        "furtherReading": "Further reading",
+        "relatedArticles": "Related articles"
+    },
+    "author": {
+        "writtenBy": "Written by"
+    },
+    "blog": {
+        "title": "Blog"
+    },
+    "emailForm": {
+        "getStarted": "Get started",
+        "successMessage": "Thank you! Your submission has been received!"
+    },
+    "mostPopular": {
+        "title": "MOST POPULAR"
+    },
+    "reading-position-bar": {
+        "emailPlaceholder": "Enter your email",
+        "getStarted": "Get Started",
+        "paragraph": "Wine consistently outperforms other alternative assets. Vinovest makes wine investment easy.",
+        "share": "share",
+        "title": "Simple modern wine investing"
+    },
+    "utils": {
+        "by": "BY",
+        "month": "month",
+        "months": "months",
+        "year": "year",
+        "years": "years"
+    }
+}

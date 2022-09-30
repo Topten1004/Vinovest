@@ -1,0 +1,106 @@
+{
+    "button_cancel": "取消",
+    "button_save": "保存",
+    "buttons": {
+        "continue": "继续",
+        "next": "下一项"
+    },
+    "error_post": "暂时无法更新您的信息。",
+    "form": {
+        "notice": "请知悉：您的投资计划决定了您的投资资金被分配的比例，但这只会对您未来的投资产生影响，而不会对您当前的组合价值进行重新平衡。"
+    },
+    "minimum_capital": {
+        "currency": "{{ currencySymbol }}{{ amount }}",
+        "grandcru": "（至尊会员）",
+        "minimum": "（帐户最低余额）",
+        "premium": "（特级会员）",
+        "title": "您预计的投资金额是？"
+    },
+    "phoneQuiz": {
+        "continue": "继续",
+        "errorFromResponse": "您的电话号码目前无法注册。",
+        "invalidPhone": "电话号码无效",
+        "placeholder": "请输入电话号码",
+        "title": "请输入您的电话号码"
+    },
+    "plans": {
+        "aggressive": [
+            "正在寻找优质的葡萄酒投资组合，并将目标朝高增长葡萄酒类倾斜",
+            "有一个中长期的时间表",
+            "已有投资其他可替代性资产类别的经验"
+        ],
+        "aggressive_investing": "进取型投资",
+        "balanced": [
+            "正在寻找产区分布最多样化的优质葡萄酒投资组合",
+            "有一个中长期的时间表",
+            "可能对在股市以外的地方投资更陌生"
+        ],
+        "balanced_investing": "平衡型投资",
+        "conservative": [
+            "正在寻找以实现下行保护为优化导向的优质葡萄酒投资组合",
+            "有一个长期的时间表",
+            "想要拥有产区分布全球并经过历史验证的葡萄酒投资组合"
+        ],
+        "conservative_investing": "保守型投资",
+        "your-portfolio": {
+            "great": "真是太好了，若您...",
+            "label": "这是您的自定义计划",
+            "next-button": "下一项"
+        }
+    },
+    "quiz": {
+        "of": "的",
+        "options": {
+            "question-options": [
+                {
+                    "name": "投资风格",
+                    "options": [
+                        "保守型",
+                        "稳健型",
+                        "进取型"
+                    ],
+                    "text": "您如何形容自己的投资风格？"
+                },
+                {
+                    "multiple": "1",
+                    "name": "希望通过Vinovest达成的目标",
+                    "options": [
+                        "获得比我其他的投资更高的风险调整后收益",
+                        "通过另类资产实现多元化投资",
+                        "投资我所热爱的事物"
+                    ],
+                    "text": "您加入Vinovest的主要动力是什么？"
+                },
+                {
+                    "name": "预计资金提取",
+                    "options": [
+                        "3年以下",
+                        "3至7年",
+                        "7年以上"
+                    ],
+                    "text": "您预计什么时候会需要兑现您买进的葡萄酒？"
+                }
+            ],
+            "question1": [
+                "保守型",
+                "稳健型",
+                "进取型"
+            ],
+            "question2": [
+                "获得比我其他的投资更高的风险调整后收益",
+                "通过另类资产实现多元化投资",
+                "投资我所热爱的事物"
+            ],
+            "question3": [
+                "3年以下",
+                "3至7年",
+                "7年以上"
+            ]
+        },
+        "question": "问题"
+    },
+    "your_portfolio": {
+        "plan_subtitle": "真是太好了，若您...",
+        "plan_title": "这是您的自定义计划"
+    }
+}

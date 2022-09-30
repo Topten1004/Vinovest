@@ -1,0 +1,23 @@
+{
+    "documents": "文档",
+    "empty": {
+        "button": "为您的帐户注资",
+        "title": "您尚未有任何文档。"
+    },
+    "empty_button": "为您的帐户注资",
+    "empty_title": "您尚未有任何文档。",
+    "error": "获取您的{{document}}时出现问题。请重试或在线与我们联系👉",
+    "error_options": {
+        "account_statement": "帐户对账单",
+        "account_statements": "帐户对账单",
+        "available_month": "适用月份"
+    },
+    "issued": "发行日期",
+    "listTitle": "标题",
+    "list_title": "标题",
+    "loadmore": "加载更多",
+    "mobileStatements": "对账单",
+    "mobile_statements": "对账单",
+    "statement": "帐户对账单",
+    "statements": "帐户对账单"
+}

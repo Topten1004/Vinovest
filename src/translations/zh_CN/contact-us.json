@@ -1,0 +1,18 @@
+{
+    "allSupportTopics": {
+        "description": "在我们的客户支持页面上，您可以自助获得大部分问题的答案",
+        "linkText": "查看客户支持页面",
+        "title": "所有客户支持相关问题"
+    },
+    "forCurrentInvestors": {
+        "description": "如有任何与帐户或客户支持相关的问题",
+        "linkText": "联系客户支持团队",
+        "title": "对于现有投资人士"
+    },
+    "forNewInvestors": {
+        "description": "如果您有兴趣发展您的葡萄酒投资组合",
+        "linkText": "联系投资组合顾问",
+        "title": "对于新的投资人士"
+    },
+    "title": "联系我们"
+}

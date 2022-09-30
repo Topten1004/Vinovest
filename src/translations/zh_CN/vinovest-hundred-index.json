@@ -1,0 +1,31 @@
+{
+    "glossary": {
+        "bordeaux": "波尔多",
+        "burgundy": "勃艮第",
+        "california": "加利福尼亚",
+        "champagne": "香槟",
+        "italy": "意大利",
+        "restWorld": "其他国家\/地区",
+        "rhone": "罗讷河",
+        "title": "Vinovest100指数术语表"
+    },
+    "hero-meta": {
+        "description": "现在是投资优质葡萄酒的最佳时机。",
+        "title": "Vinovest100指数"
+    },
+    "hero": {
+        "description": "Vinovest100指数是一个专门跟踪优质葡萄酒市场的指数。其组成要素包括波尔多、勃艮第、香槟、罗讷河谷、托斯卡纳、皮埃蒙特、加利福尼亚、澳大利亚、西班牙、葡萄牙等主要地区的葡萄酒价格。",
+        "getStarted": "开始",
+        "title": "Vinovest100指数"
+    },
+    "reports": {
+        "DownloadQ12020Report": "2020年第1季度报告",
+        "DownloadQ12021Report": "2021年第1季度报告",
+        "DownloadQ22020Report": "2020年第2季度报告",
+        "DownloadQ22021Report": "2021年第2季度报告",
+        "DownloadQ32020Report": "2020年第3季度报告",
+        "DownloadQ32021Report": "2021年第3季度报告",
+        "DownloadQ42020Report": "2020年第4季度报告",
+        "title": "季度报告"
+    }
+}

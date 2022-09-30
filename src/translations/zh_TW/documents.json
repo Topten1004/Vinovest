@@ -1,0 +1,23 @@
+{
+    "documents": "文件",
+    "empty": {
+        "button": "為您的帳戶注資",
+        "title": "您還沒有任何文件。"
+    },
+    "empty_button": "為您的帳戶注資",
+    "empty_title": "您還沒有任何文件。",
+    "error": "獲取您的 {{ 文檔 }} 時出現問題。請再試一次或在這裡與我們聊天👉",
+    "error_options": {
+        "account_statement": "對帳單",
+        "account_statements": "賬戶報表",
+        "available_month": "可用月份選項"
+    },
+    "issued": "發行日期",
+    "listTitle": "標題",
+    "list_title": "標題",
+    "loadmore": "裝載更多",
+    "mobileStatements": "聲明",
+    "mobile_statements": "聲明",
+    "statement": "賬戶報表",
+    "statements": "賬戶報表"
+}

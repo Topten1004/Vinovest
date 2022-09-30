@@ -1,0 +1,68 @@
+{
+    "access-investment-platform": {
+        "enjoyReturns": {
+            "data": [
+                {
+                    "title": "看到您的投資組合增長",
+                    "value": "Vinovest 讓您的投資組合觸手可及。管理您的投資，隨時買入或賣出。"
+                },
+                {
+                    "title": "按需提供您的葡萄酒",
+                    "value": "隨時隨地從您的投資組合中索取葡萄酒，無論出於任何場合或原因。我們會處理保險，讓您盡情享受您的葡萄酒。"
+                }
+            ],
+            "title": "享受回報或您的葡萄酒"
+        },
+        "investmentStyle": {
+            "data": [
+                {
+                    "title": "在幾分鐘內在線註冊",
+                    "value": "分享您的風險偏好和投資偏好，完全加密且安全。"
+                },
+                {
+                    "title": "為您的帳戶注資",
+                    "value": "Vinovest 的標準套餐最低為 1,000 美元，或者為我們的定制套餐提供盡可能多的資金。"
+                }
+            ],
+            "title": "選擇您的投資風格"
+        },
+        "maximumAppreciation": {
+            "data": [
+                {
+                    "title": "你擁有你的葡萄酒",
+                    "value": "酒真的是你的。我們努力驗證、保險、接收和儲存您的葡萄酒。"
+                },
+                {
+                    "title": "侍酒師和人工智能驅動技術相遇的地方",
+                    "value": "Vinovest 的侍酒大師將他們的專業知識與量化投資模型相結合，以管理您的葡萄酒組合。"
+                }
+            ],
+            "title": "精選自家葡萄酒，以最大限度地欣賞"
+        },
+        "title": "接入全球領先的葡萄酒投資平台",
+        "topSmallTitle": "這是它的工作原理"
+    },
+    "head-meta": {
+        "description": "了解如何通過 Vinovest 開始投資優質葡萄酒——從購買正宗的瓶子並安全地儲存它們到觀察您的投資組合的增長。",
+        "title": "Vinovest 如何運作 |葡萄酒 |葡萄酒投資"
+    },
+    "head": {
+        "description": "Vinovest 選擇、獲取和安全儲存您的葡萄酒。隨時隨地在線或在現實生活中輕鬆訪問您的葡萄酒。",
+        "getStarted": "開始",
+        "title": "認識您的投資侍酒師"
+    },
+    "quality": {
+        "authenticityDescription": "我們的葡萄酒專家確保我們購買的每一瓶酒都是正品。",
+        "authenticityHeader": "正品保證",
+        "description": "放心投資",
+        "insuranceDescription": "Vinovest 為葡萄酒投保了相當於 FDIC 的保險，保護每一瓶酒免受破損和丟失。",
+        "insuranceHeader": "全額保險",
+        "storedDescription": "我們擁有最先進儲存設施的全球網絡可讓您的葡萄酒保持完美狀態。",
+        "storedHeader": "安全存儲",
+        "title": "無與倫比的安全性"
+    },
+    "trulyLiquidAssets": {
+        "description": "您的葡萄酒組合只是您的，可以觀看成熟、出售或享用。我們的全球市場准入確保您在投資組合中看到的價格與您賣出時收到的價格相似。由於我們實時提取數據，因此我們通常能夠保證您的銷售價格將在您帳戶中看到的價值的幾個百分點之內。",
+        "title": "真正的流動資產"
+    }
+}

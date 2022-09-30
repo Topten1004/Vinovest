@@ -1,0 +1,53 @@
+{
+    "header-meta": {
+        "description": "Vinovest is proud to be supported by some of the most brilliant professionals from both the wine industry and the alternative asset management world.",
+        "title": "Vinovest for Advisors | Investing in Wine as an Alternative Asset"
+    },
+    "header": {
+        "btn": "CONNECT WITH US",
+        "description": "Fine wine appreciation delivered simply.",
+        "title": "A new alternative investment for your clients",
+        "topSmallTitle": "for investment advisors"
+    },
+    "howWeHelp": {
+        "bottle": {
+            "desc": "Through our industry relationships, we offer entry to investment grade wines at prices without middleman and retailer markups.",
+            "title": "Industry Pricing"
+        },
+        "moneyPipe": {
+            "desc": "We implement institutional quality multi-factor optimization to create portfolios that dynamically rebalance to satisfy the financial exposures your clients require.",
+            "title": "Returns-driven optimization"
+        },
+        "safe": {
+            "desc": "Vinovest global storage providers are trusted with storing over $20 billion of wine (including the British royal family). Our 100% market value insurance policy brings rare protection in the realm of alternative assets so that you can lead with confidence.",
+            "title": "World class custody"
+        },
+        "taxFree": {
+            "desc": "We only trade from tax deferred wines to improve performance of portfolios for your clients. Our carbon offsetting program ensures that their investment will have a neutral carbon footprint.",
+            "title": "Efficiency & Sustainability"
+        },
+        "title": "How we help"
+    },
+    "vino-offers": {
+        "face": "Diversification",
+        "moneyBag": "Meaningful yield",
+        "title": "Differentiate your firm's alternative asset strategy by investing in wine",
+        "umbrella": "Capital protection"
+    },
+    "wineMarket": {
+        "description": "We are a technology empowered platform creating the most trusted way to source, manage, and grow a portfolio of investment grade wines. Fine wine is traditionally hard to source and store but has positive long term appreciation that is less-correlated with the securities markets.",
+        "title": "We unlock access to the fine wine market"
+    },
+    "yourSolution": {
+        "descriptionAutopilot": "Get started with Vinovest proprietary portfolio construction models that offer automatic rebalancing according to market movements. Portfolios matched to their diversification goals. Help your clients invest in wine alongside their core securities positions.",
+        "descriptionCustom": "Create a personalized fund with hands-on guidance from our seasoned team.  Engage with your clients on constructing a lasting fund that combines their passion with profits.",
+        "learnMore": "LEARN MORE",
+        "title": "Our Funds",
+        "titleAutopilot": "Flagship",
+        "titleCustom": "Bespoke"
+    },
+    "banner": {
+        "title": "Help your clients diversify into investment grade wine with Vinovest today",
+        "subtitle": "Intelligently add wine to a diversified portfolio you can savor."
+    }
+}

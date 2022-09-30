@@ -1,0 +1,100 @@
+{
+    "add-funds": "增加投资金额",
+    "buttons": {
+        "arrow-first": "加载",
+        "arrow-second": "更多"
+    },
+    "cellar-list": {
+        "add-funds": "增加投资金额",
+        "bottle": "每瓶",
+        "case": "每箱",
+        "disclaimer": "对于您投资组合中剩余的现金，我们将不会收取任何费用",
+        "futures": "（葡萄酒期货）",
+        "power": "购买力"
+    },
+    "condition": {
+        "authentic": "正宗的",
+        "coverage": "全额保险",
+        "excellent": "出色的",
+        "insurance": "保险",
+        "title": "条件",
+        "verfication": "验证"
+    },
+    "description": {
+        "read": "继续阅读"
+    },
+    "graphical-price-history": {
+        "title": "每箱估价",
+        "tooltip": "预估价格是近期在市场上购买该葡萄酒的平均最优价格。"
+    },
+    "hero": {
+        "futures": "（葡萄酒期货）",
+        "learn": "了解更多",
+        "pending-learn": "了解更多",
+        "title": "专题：来自您的酒窖"
+    },
+    "wine-bottles-totals": {
+        "bottle": "瓶",
+        "bottles": "瓶",
+        "case": "箱",
+        "of": "的"
+    },
+    "wine-cellar-model": {
+        "average-hold": "平均持有时间",
+        "bottle": "每瓶",
+        "case": "每箱",
+        "contact": "希望一睹您的葡萄酒真容？我们非常欢迎您能亲赴并参观我们的储存场地，而且乐意为您做好相应的行程安排。请",
+        "contact-contd": "以了解更多细节。",
+        "contact-link": "联系我们",
+        "cost": "平均买入价格基准点",
+        "percentage-portfolio": "%的投资组合",
+        "position": "您的组合价值",
+        "position-total": "预估组合总价值",
+        "quantity": "数量",
+        "storage": "储存地点"
+    },
+    "wine-cellar": {
+        "buttons": {
+            "load": "加载更多"
+        },
+        "cellar-view-toggle": {
+            "List": "列表",
+            "grid": "网格",
+            "list": "列表"
+        },
+        "empty-cellar": {
+            "add-funds": "增加投资金额",
+            "empty": "开始筑造专属您自己的酒窖！",
+            "funded": "当我们在帮您寻找收益良好的交易时，请耐心等待"
+        },
+        "export": "导出",
+        "list-view-titles": {
+            "avg-cost": "平均买入价格",
+            "basis": "基准点",
+            "position": "预估组合价值",
+            "quantity": "数量",
+            "tooltip-cost-basis": "这是每一瓶的平均购买价格。",
+            "tooltip-position": "预估组合总价值是，您所拥有的葡萄酒预估价值减去服务费之后再加上等待中的订单金额",
+            "tooltip-quantity": "数量指的是您所拥有的葡萄酒瓶或葡萄酒箱的数量。葡萄酒箱的规格有3瓶、6瓶、12瓶，而葡萄酒的价格则根据葡萄酒箱的规格不同而发生变化。",
+            "total": "总计",
+            "wine": "葡萄酒"
+        },
+        "title": "您的葡萄酒酒窖",
+        "totals": {
+            "basis": "基准点",
+            "bottles": "瓶",
+            "cell_total": "总计",
+            "cost": "买入价格",
+            "position": "预估组合价值",
+            "quantity_title": "数量",
+            "tooltip-position": "预估组合总价值是，您所拥有的葡萄酒预估价值减去服务费之后再加上等待中的订单金额",
+            "tooltip-quantity": "数量指的是您所拥有的葡萄酒瓶或葡萄酒箱的数量。葡萄酒箱的规格有3瓶、6瓶、12瓶，而葡萄酒的价格则根据葡萄酒箱的规格不同而发生变化。",
+            "tooltip-total-cost": "这是您已够买的所有葡萄酒的总成本。",
+            "total": "总计",
+            "total_title": "总计"
+        }
+    },
+    "wine-maker-notes": {
+        "title": "评论家的评分"
+    }
+}

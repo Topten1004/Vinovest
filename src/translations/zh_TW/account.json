@@ -1,0 +1,212 @@
+{
+    "account_auto_invest": {
+        "subtitle": "查看您的賬單歷史記錄並管理自動投資",
+        "title": "管理自動投資"
+    },
+    "account_email": {
+        "email": "電子郵件地址",
+        "error_invalid_email": "無效的郵件地址",
+        "label_email": "電子郵件地址",
+        "notice": "Vinovest 使用此電子郵件地址與您聯繫，提供有關您帳戶狀態的重要信息。請保持最新狀態。",
+        "placeholder_email": "例如：example@email.com",
+        "required": "電子郵件是必需的",
+        "updated": "您的電子郵件已更新"
+    },
+    "account_investment_plan": {
+        "notice": "注意：您的投資計劃決定了您的資金分配到的投資組合。它只會影響未來的投資，不會重新平衡您當前的頭寸。",
+        "title": "投資計劃",
+        "updated": "您的投資計劃已更新"
+    },
+    "account_mobile": {
+        "error_invalid": "無效的電話號碼",
+        "label": "電話號碼",
+        "placeholder": "輸入電話號碼",
+        "required": "電話號碼為必填項",
+        "success_updated": "您的電話號碼已更新",
+        "title": "手機號碼"
+    },
+    "account_personal_information": {
+        "description_address": "這應該是用於稅務目的的地址。",
+        "label_address": "地址",
+        "label_city": "城市",
+        "label_country": "國家",
+        "label_first": "名",
+        "label_fullname": "全名",
+        "label_last": "姓",
+        "label_state": "狀態",
+        "label_zip": "壓縮",
+        "placeholder_address": "例如：123 Main St.",
+        "placeholder_city": "例如：舊金山",
+        "placeholder_first": "例如：約翰",
+        "placeholder_last": "例如：史密斯",
+        "placeholder_zip": "例如：90103",
+        "success": "您的個人信息已更新",
+        "title": "個人信息"
+    },
+    "account_settings": {
+        "auto_invest": "自動投資",
+        "sell_wine": "賣你的酒"
+    },
+    "accountsettings": {
+        "sell": "賣你的酒"
+    },
+    "button_cancel": "取消",
+    "button_save": "節省",
+    "disclaimer": "您的所有信息都是安全的。我們絕不會將您的數據發送給營銷人員或向您發送垃圾郵件",
+    "error_generic": "出問題了",
+    "error_post": "目前無法更新您的信息。",
+    "estimator": {
+        "description": "如果您在 10 年前進行投資，那麼今天您的投資組合將價值：",
+        "description_point_1": "低風險偏好",
+        "description_point_2": "中等風險偏好",
+        "description_point_3": "高風險偏好",
+        "discliamer": "歷史業績數據基於公開和私人可用的銷售數據",
+        "label_point_1": "保守的",
+        "label_point_2": "緩和",
+        "label_point_3": "挑釁的"
+    },
+    "grand_cru": "特級園",
+    "main": {
+        "account": "帳戶",
+        "logout": "登出",
+        "user_settings": "用戶設置"
+    },
+    "myaccount": {
+        "edit": "編輯",
+        "editbutton": "編輯"
+    },
+    "nav": {
+        "step_one": "帳戶創建",
+        "step_three": "基金賬戶",
+        "step_two": "投資者簡介"
+    },
+    "not_provided": "不提供",
+    "onboard": {
+        "button_create": "創建賬戶",
+        "create_account_title": "創建一個帳戶",
+        "error_create_account": "目前無法創建帳戶。請聯繫客戶支持尋求幫助。",
+        "error_email": "電子郵件地址為必填項",
+        "error_email_invalid": "不合規電郵",
+        "error_firstName": "名字為必填項",
+        "error_lastName": "姓氏為必填項",
+        "error_password": "密碼是必需的",
+        "error_password_email_new_user": "由於電子郵件或密碼無效，無法註冊新用戶。請使用尚未在 Vinovest 註冊的電子郵件，並設置符合條件的密碼。",
+        "error_primaryPhone": "電話號碼為必填項",
+        "error_starting_investment": "請輸入投資金額",
+        "error_timeframe": "請輸入投資期限",
+        "label_referal": "您是怎麼知道我們的？ （可選的）",
+        "placeholder_referal": "選擇一個",
+        "referal_option_1": "收音機（AM、FM、XM 等）",
+        "referal_option_10": "其他",
+        "referal_option_2": "電視",
+        "referal_option_3": "搜索引擎",
+        "referal_option_4": "朋友\/推薦人",
+        "referal_option_5": "社交媒體",
+        "referal_option_6": "播客",
+        "referal_option_7": "廣告牌",
+        "referal_option_8": "電子郵件",
+        "referal_option_9": "附屬公司"
+    },
+    "password": {
+        "button_cancel": "取消",
+        "button_change": "改變",
+        "current_password": "當前密碼不正確。這是更新密碼所必需的。",
+        "error_and": "和",
+        "error_at_least": "至少",
+        "error_characters": "密碼應至少包含 8 個字符",
+        "error_confirm_password": "確認密碼字段為必填項",
+        "error_new_required": "新密碼字段為必填項",
+        "error_number": "密碼應至少包含一個數字",
+        "error_old_password": "需要您的舊密碼",
+        "error_special": "密碼應至少包含一個特殊字符",
+        "error_upper": "密碼應至少包含一個大寫字符",
+        "label_confirm_password": "確認新密碼",
+        "label_current_password": "當前密碼",
+        "label_new_password": "新密碼",
+        "match": "密碼不匹配。",
+        "notice": "要更改您的密碼，請輸入您當前的密碼，然後使用以下表格創建一個新密碼。",
+        "password_requirements": "至少 8 個字符 一個數字一個大寫字母和一個特殊字符",
+        "required_criteria": "密碼不符合要求的標準。",
+        "retype_password": "再次輸入您的新密碼。",
+        "success_update": "您的密碼已更新。",
+        "title": "密碼"
+    },
+    "premium": "優質的",
+    "profile": {
+        "button_complete": "結束",
+        "investor_title": "投資者簡介",
+        "label_cash_access": "你打算什麼時候投資？",
+        "label_starting_investment": "您計劃在第一年投資多少？",
+        "option_1": "立即地",
+        "option_2": "一個月內",
+        "option_3": "還不確定"
+    },
+    "sell_your_wine": {
+        "description": {
+            "description": "請留出 2-4 週的時間來完成該過程。",
+            "paragraph1": "如果您選擇在建議的銷售時間窗口之前提前出售，請注意您可能不會做出最具戰略性的投資決定。在投資的前三年內進行銷售在兩個關鍵方面是有害的：",
+            "paragraph2": "1. 您仍處於被收取加工費的窗口期。",
+            "paragraph3": "2. 您在您的投資組合中的葡萄酒的理想銷售窗口之外進行銷售。",
+            "paragraph4": "歷史數據顯示，最強勁的回報是在 5 到 20 年的時間範圍內實現的。",
+            "portfolio_sold": "我們已收到您出售整個葡萄酒組合的請求。",
+            "sell_portfolio": "如果您想清算或提取資金，請單擊下面的按鈕。"
+        },
+        "liquidation": {
+            "full": "我們已收到您出售整個葡萄酒組合的請求。",
+            "neither": "如果您想清算或提取資金，請單擊下面的按鈕。",
+            "partial": "我們已收到貴方出售部分葡萄酒的請求。"
+        },
+        "sell_button": {
+            "disabled": "賣你的酒",
+            "enabled": "進行中"
+        },
+        "support": {
+            "notsold": "如果您有任何問題，請查看我們的",
+            "notsold_email_message": "支持頁面",
+            "sold": "如果您有任何問題，請",
+            "sold_email_message": "聯繫我們的支持團隊"
+        }
+    },
+    "sellyourwine": {
+        "description": {
+            "description": "請留出 2-4 週的時間來完成該過程。",
+            "portfolio-sold": "我們已收到您出售整個葡萄酒組合的請求。",
+            "sell-portfolio": "如果您想清算或提取資金，請單擊下面的按鈕。"
+        },
+        "sellbutton": {
+            "disabled": "賣你的酒",
+            "enabled": "進行中"
+        },
+        "support": {
+            "notsold": "如果您有任何問題，請查看我們的",
+            "notsold-email-message": "支持頁面",
+            "sold": "如果您有任何問題，請",
+            "sold-email-message": "聯繫我們的支持團隊"
+        }
+    },
+    "standard": "標準",
+    "support": {
+        "help_support": "幫助支持",
+        "privacy_policy": "隱私政策",
+        "terms_condition": "條款和條件",
+        "title": "支持"
+    },
+    "title": "用戶設置",
+    "update_info": {
+        "complete_message": "您的號碼已更新！"
+    },
+    "updateinfo": {
+        "complete-message": "您的號碼已更新！"
+    },
+    "user_settings": {
+        "account": "個人信息",
+        "investment_plan": "投資計劃",
+        "logout": "登出",
+        "password": "密碼",
+        "phone": "手機號碼"
+    },
+    "usersettings": {
+        "account": "個人信息",
+        "phone": "手機號碼"
+    }
+}

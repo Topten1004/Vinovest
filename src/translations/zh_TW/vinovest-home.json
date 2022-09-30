@@ -1,0 +1,96 @@
+{
+    "hero-meta": {
+        "description": "過去 15 年，精品葡萄酒的年化回報率為 13.6%，其表現優於大多數全球股票，並且波動性低於房地產或黃金。",
+        "title": "葡萄酒 |立即探索優質葡萄酒投資"
+    },
+    "hero": {
+        "description": "Wine 始終優於其他替代資產。 Vinovest 使葡萄酒投資變得容易。",
+        "getStarted": "開始",
+        "takingNotice": "人們正在註意",
+        "title": "簡單、現代的葡萄酒投資",
+        "toolRelease": "發布 -"
+    },
+    "income-slider": {
+        "california": "加利福尼亞州",
+        "kentucky": "肯塔基州",
+        "messageGeneric": "來自{{ country }}剛剛存入了{{ amount }} 。",
+        "newJersey": "新澤西州",
+        "ohio": "俄亥俄州",
+        "southCarolina": "南卡羅來納",
+        "texas": "德克薩斯州",
+        "unitedKingdom": "英國",
+        "wyoming": "懷俄明州"
+    },
+    "latest-from-blog": {
+        "description": "在我們的博客上了解有關葡萄酒投資、行業趨勢和葡萄酒的最新信息。",
+        "fiveTypesOfWine": {
+            "description": "探索 5 種不同類型的葡萄酒 - 它們的口味、特點、陳釀時間以及 2021 年最值得購買的葡萄酒。此外，找出購買它們的最簡單方法。",
+            "title": "您必須知道的 5 種葡萄酒（完整指南）"
+        },
+        "opusOne": {
+            "description": "探索 Opus One 的釀酒工藝、葡萄酒風格以及 2021 年值得購買的最佳葡萄酒。同時探索投資這些優質葡萄酒的最明智方式。",
+            "title": "作品一號（釀酒，最佳葡萄酒，2021 年價格）"
+        },
+        "readMore": "閱讀更多",
+        "schraderWine": {
+            "description": "探索著名的 Schrader Cellars 的釀酒工藝、葡萄酒風格和最好的葡萄酒。還可以探索投資這種優質葡萄酒的簡單方法。",
+            "title": "Schrader Wine（釀酒，最佳葡萄酒，2021 年價格）"
+        },
+        "title": "來自博客的最新消息"
+    },
+    "partners-are-saying": {
+        "DustinWilson": {
+            "bottomText": "侍酒大師",
+            "description": "“長期以來，投資葡萄酒一直僅限於那些能夠獲得合適葡萄酒的人。我喜歡 Vinovest 的地方在於，他們為更大的市場打開了這個機會，並為那些不一定是葡萄酒專家的人打破了障礙。 ”",
+            "title": "VINOVEST 理事會"
+        },
+        "JaneLopes": {
+            "bottomText": "侍酒大師",
+            "description": "“Vinovest 正在以一種非常有效的方式將葡萄酒知識和技術結合起來，投資於未來的超級明星酒瓶。”",
+            "title": "VINOVEST 理事會"
+        },
+        "McKennaWeinstein": {
+            "description": "“多虧了 Vinovest，我現在可以投資我熱愛的東西！”",
+            "title": "顧客"
+        },
+        "title": "我們的客戶和合作夥伴在說什麼",
+        "topSmallTitle": "投資和了解"
+    },
+    "quality": {
+        "curated": {
+            "description": "我們選擇投資級、全球多元化的葡萄酒，其表現比黃金或加密貨幣更穩定可靠。",
+            "header": "精選作品集"
+        },
+        "hassle-free": {
+            "description": "我們對您的葡萄酒進行鑑定、儲存和保護。葡萄酒是您的，您可以隨時享用。我們甚至會把它寄給你。",
+            "header": "無憂無慮"
+        },
+        "insider": {
+            "description": "Vinovest 以低於零售價的方式購買經過驗證的年份和新興競爭者，從而增加回報並最大化您的投資。",
+            "header": "內幕定價"
+        },
+        "intelligent": {
+            "description": "專有的財務模型和歷史數據確保了穩定、高性能葡萄酒的平衡投資組合。",
+            "header": "聰明的"
+        },
+        "learnMore": "了解更多",
+        "title": "您的投資侍酒師",
+        "topSmallTitle": "培養您的熱情和回報"
+    },
+    "scrollOptions": {
+        "ownYourWine": {
+            "description": "融合了 AI 驅動算法的侍酒大師選擇經過驗證的、欣賞的葡萄酒進行投資。",
+            "title": "擁有你的酒"
+        },
+        "shareGoals": {
+            "description": "穩定的回報或更激進，您的目標塑造了精選的葡萄酒組合。",
+            "title": "分享你的目標"
+        },
+        "title": "分分鐘投資",
+        "topSmallTitle": "這個怎麼運作",
+        "watchItGrow": {
+            "description": "您現在擁有自己的葡萄酒，但我們會照顧它們。隨心所欲地購買、出售或享用它們。",
+            "title": "看著它成長和成熟"
+        }
+    }
+}

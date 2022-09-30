@@ -1,0 +1,68 @@
+{
+    "future-for-fine-wine": {
+        "conclusions": "Changing the world isn’t easy, but we believe it’s the right goal. It will require unprecedented collaboration and commitment across the globe.",
+        "description1": "Sustainable isn’t just good for the environment. It’s also good for business.",
+        "description2": "There is research",
+        "description3": "demonstrating that a systematic approach to sustainability can transform the planet and companies’ bottom lines. It’s why we are encouraging other organizations to join us in a push for a carbon-free future.",
+        "title": "A sustainable future for fine wine"
+    },
+    "head-meta": {
+        "description": "Vinovest is leading the way toward a more sustainable future. We are taking responsibility to improve our business practices and protect the environment. These changes are more important than ever as the wine industry continues to grow. Even small steps, such as shorter shipping routes, can make a significant impact.",
+        "title": "Sustainability at Vinovest"
+    },
+    "head": {
+        "description": "Making fine wine more sustainable",
+        "title": "Vinovest Sustainability Platform"
+    },
+    "more-sustainable-future": {
+        "description": "Improve our business practices and protect the environment. These changes are more important than ever as the wine industry continues to grow. Even small steps, such as shorter shipping routes, can make a significant impact.",
+        "pathwayOption1": "Vinovest’s supply chain carbon emissions",
+        "pathwayOption2": "Carbon removal through One Tree Planted",
+        "pathwayOption3": "Together we reduce our carbon footprint",
+        "pathwayTitle": "Vinovest’s Pathway Toward Sustainability",
+        "title": "To a more sustainable future",
+        "topSmallTitle": "VINOVEST IS LEADING THE WAY"
+    },
+    "our-step-toward": {
+        "description": "While the world needs to reach net zero, companies that can move faster towards that goal should. That is why Vinovest is taking a proactive approach to minimize carbon emissions. We have built the company on sustainable business practices for effective carbon reduction.",
+        "steps": {
+            "carbonOffsetting": {
+                "description1": "We partner with",
+                "description2": "One Tree Planted",
+                "description3": "to offset carbon emissions. For every 10 cases of wine you purchase, we will plant one tree. It’s our way of making your reds and whites a little greener.",
+                "title": "Carbon Offsetting"
+            },
+            "digitalOwnership": {
+                "description": "Our partner facilities help eliminate the need for travel. Instead of shipping a newly purchased bottle, we leave the bottle in place and simple change the digital ownership.",
+                "title": "Digital Ownership"
+            },
+            "effectiveTransparency": {
+                "description": "Vinovest will publish an annual environmental sustainability report, so clients can see the reduction in our carbon footprint.",
+                "title": "Effective Transparency"
+            },
+            "globalFacilities": {
+                "description": "Vinovest has storage facilities near the world’s finest wine regions. This reduces the travel necessary to store wine.",
+                "title": "Global Facilities"
+            },
+            "groundedInScience": {
+                "description": "When scientists speak, we listen. We use the best available science to inform and improve our decision-making process.",
+                "title": "Grounded in Science"
+            },
+            "minimizeShipping": {
+                "description": "Buy local. Ship local. It is our way of defaulting to the most sustainable shipping options.",
+                "title": "Minimize Shipping"
+            }
+        },
+        "title": "Sustainability",
+        "topSmallTitle": "OUR STEP TOWARDS"
+    },
+    "science-is-clear": {
+        "approach1": "As we approach a point-of-no-return, the European Parliament predicts shipping emissions could grow by",
+        "approach2": "50 to 250 percent by 2050. ",
+        "approach3": "Without significant changes, billions of people will be more vulnerable to unprecedented heat, flooding, and environmental degradation. Simply put: we must act now.",
+        "centigrade": "centigrade",
+        "description": "The science is clear. The world has a carbon problem. There is a growing layer of greenhouse gases in our atmosphere that traps heat and changes the earth’s climate. As a result, humans have already warmed the planet by",
+        "title": "🌎 Making Fine Wine More Sustainable",
+        "topSmallTitle": "THE SCIENCE IS CLEAR"
+    }
+}

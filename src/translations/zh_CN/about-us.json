@@ -1,0 +1,190 @@
+{
+    "bannerTitle": "Vinovest顾问",
+    "barriers": {
+        "high-costs": "成本高",
+        "low-liquidity": "流动性低",
+        "low-volume": "数量少"
+    },
+    "book-button": {
+        "not-sure": "不确定哪种会员计划最适合您？",
+        "talk-to-expert": "向葡萄酒投资者专家咨询！",
+        "undecided": "有些犹豫？"
+    },
+    "entry-barrier": {
+        "barriers-high": "准入门槛高",
+        "gatekeepers": "如今，即使是那些拥有访问权限的人也会面临来自服务提供方的透明度缺乏、运营开销大、费用高昂等相关问题，而这就意味着成本高、交易量低以及流动性选择少",
+        "quality-access": "优质服务仅限于超级富人。"
+    },
+    "header": {
+        "description": "长期以来，像优质葡萄酒这样的另类资产一直是创造并保存财富的基石。",
+        "get-started": "开始",
+        "header": "揭开另类投资的神秘面纱，就从优质葡萄酒开始",
+        "meta-description": "在Vinovest，我们从优质葡萄酒开始揭开另类投资的神秘面纱。我们的技术平台让人们以更加睿智的方式获得这些机会，使得大家能够更多地参与并创造财富。",
+        "meta-title": "关于我们 | Vinovest葡萄酒投资平台"
+    },
+    "people": {
+        "adam": {
+            "description": "拥有德克萨斯大学（坐落于奥斯汀）计算机科学学士学位的亚当（Adam）是一位经验丰富的工程师，他曾在Rev.com带领负责搭建该公司所有移动应用程序的全栈工程师团队，并积累了扎实的工程和管理两方面的资历。",
+            "name": "亚当·胡德（Adam Hood）",
+            "position": "软件工程"
+        },
+        "anthony": {
+            "description": "安东尼（Anthony）是RateMyInvestor的董事会成员，也曾在Blockfolio担任过领导职务，同时还是一位重复创业者——他以前创办并出售过2家公司：EnvoyNow和KnowYourVC。",
+            "name": "安东尼·张（Anthony Zhang）",
+            "position": "联合创始人、首席执行官"
+        },
+        "anuj": {
+            "description": "阿努吉（Anuj）的职业生涯从软件工程开始，但在获得了乔治敦大学的MBA学位之后转入了与产品管理相关的工作领域。在加入Vinovest之前，他曾在美国的一家酒店集团——万豪国际工作，并且是该酒店集团旗舰移动应用程序Bonvoy的电子商务经理。另外，阿努吉还是与应用程序相关的商业书籍——《10亿美元的应用》一书的作者。",
+            "name": "阿努吉·马哈詹（Anuj Mahajan）",
+            "position": "产品经理"
+        },
+        "austin": {
+            "description": "奥斯丁（Austin）的职业生涯是从作为一名航空航天工程师为波音和NASA设计航天器开始的，而且从那时起，他就一头扎进了无比热衷的科技界并在社交网络、健身和房地产等行业内的各种初创公司里担任过职务。此外，奥斯丁对优质葡萄酒还颇有研究，并于最近在纳帕谷举办的盲品比赛中荣获第2名。",
+            "name": "奥斯汀·伯吉斯（Austin Burgess）",
+            "position": "产品经理"
+        },
+        "brent": {
+            "description": "布伦特（Brent）是一位拥有近20年经验的连续创业家，他曾在Blockfolio担任过设计总监，也曾在TrueCar、字节跳动等公司担任过高级职务，而且，TikTok在美国的重新推出\/重新设计正是由他主导的。",
+            "name": "布伦特·阿卡敏（Brent Akamine）",
+            "position": "联合创始人"
+        },
+        "conrad": {
+            "description": "拥有南加州大学计算机科学学士学位的康拉德（Conrad）不仅曾在Grab Games、Headspace担任过工程之职，还曾在Wiblits担任过首席技术官。",
+            "name": "康拉德·库斯（Conrad Kurth）",
+            "position": "软件工程"
+        },
+        "david": {
+            "description": "大卫（David）主修经济学，他不仅在金融与投资服务方面有着多样化的背景，还曾为The Motley Fool、TheStreet.com和SeekingAlpha等出版物撰写文章。在寻找可以对冲股票市场估值上升的另类资产期间，他对葡萄酒投资产生了浓厚的兴趣。",
+            "name": "大卫·巴特勒（David Butler）",
+            "position": "社区经理"
+        },
+        "dlynn": {
+            "description": "在职业生涯的前10年，德林（DLynn）为其所任职的餐厅的创建、培训项目、餐厅\/零售葡萄酒款以及新场地扩大运营方面发挥了重要的作用，同时，他还作为出色的侍酒师获得了不少赞誉。在过去10年，德林是奔富酒庄和凡特思卡酒庄的高管并担任全球领导力之职，且主要负责进出口、销售、市场、战略和消费者关系。",
+            "name": "德林·普罗克特（DLynn Proctor）",
+            "position": "顾问",
+            "positionInAdvisor": "凡特思卡酒庄总监"
+        },
+        "dustin": {
+            "description": "达斯汀·威尔逊 (Dustin Wilson) 是一名侍酒大师，他不仅曾在米其林三星餐厅Eleven Madison Park担任过葡萄酒总监之职，他的专业还使得他曾在广受好评的葡萄酒纪录片《SOMM》中担任主角。",
+            "name": "达斯汀·威尔逊（Dustin Wilson）",
+            "position": "顾问",
+            "positionInAdvisor": "侍酒大师"
+        },
+        "edward": {
+            "description": "爱德华（Edward）在美国费城的郊区出生并长大，但在大学毕业之后就搬到了纽约。他的大部分职业生涯都是与分析密集型数据相关的工作，不过也曾在餐厅短暂并饶有趣味地当过流水线厨师。",
+            "name": "爱德华·郑（Edward Zheng）",
+            "position": "数据科学"
+        },
+        "elaine": {
+            "description": "在香港长大并会说粤语的依莲（Elaine）是我们常驻伦敦的投资组合顾问，她不仅拥有投资背景，并曾在英国的一家国际银行工作过5年。依莲热衷于倡导ESG标准，而且她早已获得葡萄酒及烈酒教育基金会的第二级葡萄酒认证，目前正在完成更高难度的第三级葡萄酒认证。",
+            "name": "依莲·刘（Elaine Lau）",
+            "position": "投资组合经理"
+        },
+        "ethan": {
+            "description": "伊森（Ethan）的职业生涯从作为Inspire Energy早期的成员之一开始，并负责带领该公司的营销和分析团队。此后，他还曾在Headspace和AppFolio担任过高级软件工程师一职。",
+            "name": "伊森·鲁比奥（Ethan Rubio）",
+            "position": "软件工程"
+        },
+        "hogan": {
+            "description": "霍根（Hogan）是全球运营和技术领域的佼佼者，并在全球最知名的一些平台积累过相关经验。曾经，他在正确的时间为Flipagram（抖音\/字节跳动现已将其收购）、MTV\/Nickelodeon、eHarmony以及Edmunds等公司促成了正确的战略变革，而且这些战略举措不仅帮助上述公司推动了发展的进步、促进了商业的增长，还使得它们在未来获得持续成功成为可能。",
+            "name": "霍根·李（Hogan Lee）",
+            "position": "运营"
+        },
+        "hunter": {
+            "description": "亨特（Hunter）在优质葡萄酒和高端烈酒行业都资历颇深，并曾帮助过全球各地的酿酒厂、蒸馏厂以及啤酒厂满足他们对生产设备的各种独特要求。",
+            "name": "亨特·罗比拉德（Hunter Robillard）",
+            "position": "销售总监"
+        },
+        "jane": {
+            "description": "简（Jane）是不到30位获得侍酒大师认证证书的女性侍酒师之一，并通过纽约的Eleven Madison Park、纳什维尔的The Catbird Seat、芝加哥的The Violet Hour和墨尔本的Attica积累了相当深厚的专业经验。同时，她也是一位出版作家，而且目前还在发展她自己的进口公司（从美国进口澳大利亚的葡萄酒）。",
+            "name": "简·洛佩斯（Jane Lopes）",
+            "position": "顾问",
+            "positionInAdvisor": "阿提卡的葡萄酒总监"
+        },
+        "jennifer": {
+            "description": "詹妮弗（Jennifer）不仅以优异的成绩获得斯坦福大学的学士学位，也以优异的成绩获得哥伦比亚大学商学院的MBA学位。更让人印象深刻的是，她曾是BlackRock iShares的创始团队成员之一，并负责该企业的损益、伙伴关系以及营销相关工作。",
+            "name": "詹妮弗·格兰西奥（Jennifer Grancio）",
+            "position": "顾问",
+            "positionInAdvisor": "顾问"
+        },
+        "john": {
+            "description": "约翰（John）曾在Visa担任高级软件工程师，并是用户界面（UI）平台团队的一员。他在前端、后端、构建系统和开发人员工具方面都经验颇丰。",
+            "name": "约翰·沃伦（John Warren）",
+            "position": "软件工程"
+        },
+        "jonathan": {
+            "description": "在美国新泽西州出生并长大的乔纳森（Jonathan）是2015年侍酒师协会最佳侍酒师比赛的冠军，并于2017年9月成功获得侍酒大师认证证书。乔纳森曾在纽约一些知名的餐厅工作过，包括在Eleven Madison Park担任首席侍酒师。他也曾在澳大利亚墨尔本的Rockpool Dining Group担任过餐饮总监之职，并且，在澳大利亚期间，他不仅还为澳洲航空公司策划过葡萄酒，亦推出了自己的葡萄酒品牌——Micro Wines。",
+            "name": "乔纳森·罗斯（Jonathan Ross）",
+            "position": "顾问",
+            "positionInAdvisor": "侍酒大师"
+        },
+        "laura": {
+            "description": "劳拉（Laura）对优质葡萄酒有着敏锐的眼光，并热衷于与各类葡萄酒爱好者进行相关专业知识的交流。作为一名经侍酒大师协会认证且已获WSET三级证书的侍酒师，她曾在豪华度假村担任过侍酒师。",
+            "name": "劳拉·奥泰（Laura Otey）",
+            "position": "投资组合顾问"
+        },
+        "lauren": {
+            "description": "劳伦（Lauren）之前在豪华旅游业积累经验，目前已成功通过侍酒大师协会和葡萄酒及烈酒教育基金会的部分考试认证来追求并实现她对葡萄酒的理想与梦想。为了顺应自己内心的真正渴求，她来到了美国俄勒冈州的威拉米特山谷，并成为赫赫有名的杜鲁安家族2020年采收季的助理酿酒师。",
+            "name": "劳伦·布莱彻（Lauren Bletcher）",
+            "position": "投资组合顾问"
+        },
+        "lilian": {
+            "description": "10多年前，莉莲（Lilian）决定从事与人力资源管理相关的工作，并希望能促进公司及其员工之间更好的沟通与理解。她相信，如此之后，公司及其员工可以更有效地进行团队合作并共同创造出伟大的成就。对于各行业经营跨国业务的中小型企业来说，资历深厚的莉莲既是人力资源业务合作伙伴，也是这一方面的顶级专业顾问。",
+            "name": "莉莲·冯（Lilian Phung）",
+            "position": "人力资源经理"
+        },
+        "liz": {
+            "description": "丽兹（Liz）的职业生涯从美国新奥尔良餐饮业的管理工作开始，但因受到卡特里娜飓风的影响，她搬到了加州的阿纳海姆，并由此对葡萄酒从喜爱演变为挚爱。丽兹曾在葡萄酒行业的各个领域里工作过，包括零售、分销、进口\/供应商（欧洲酒庄）以及最近的威尔逊丹尼尔斯（美国进口公司）。她早已成功获得侍酒大师文凭，而且可以说，丽兹一生都在致力于关于葡萄酒的研究。",
+            "name": "丽兹·道蒂·米切尔（Liz Dowty Mitchell）",
+            "position": "葡萄酒贸易商"
+        },
+        "micah": {
+            "description": "弥迦（Micah）的职业生涯从摩根大通银行的收款专家开始，且于18岁那年成为最年轻的顶级收款员。她还曾管理多个账户，并圆满完成了作为一家声誉良好的网络公司（主要业务为协助初创网站提升以引流）的代理首席执行官的任务。",
+            "name": "弥迦·奎安宝（Micah Quiambao）",
+            "position": "运营"
+        },
+        "michaelZarka": {
+            "description": "迈克尔（Michael）拥有波特兰大学金融学士学位，热衷于通过最大化资产的效率及增长潜力来帮助个人实现目标的他曾成功为牛市与熊市的客户提供过建议，而且还曾担任过美国和英国高净值人士的注册投资顾问。",
+            "name": "迈克尔·扎卡（Michael Zarka）",
+            "position": "投资组合顾问"
+        },
+        "robyn": {
+            "description": "来自密尔沃基并拥有两个马凯特大学医学学位的罗宾（Robyn）崇尚自由，同时，她或许也是您所见过的人里面最有条理、最以数据为导向的那一位。在全球疫情爆发以前，作为企业家的罗宾曾帮助过16个娱乐和酒店业的品牌进行开发、推出以及落实。然后，她来到了Bright Cellars并将自己对葡萄酒的热爱与统计和客服技能相结合，最终成为了他们礼宾团队中所获评价最高的专家。现在，罗宾以数字游民的身份一边周游着世界，一边享受着葡萄美酒、威士忌以及各种冒险。",
+            "name": "罗宾·埃里克森（Robyn Ellicson）",
+            "position": "客户成功专家"
+        },
+        "ruth": {
+            "description": "露丝（Ruth）的职业生涯从自由摄影开始，并在这一领域积累了10年的工作经验之后开始转行向中国和韩国的学生教授英语。目前，露丝不仅擅长提供技术服务，还喜欢与客户互动以带给客户满意的客户体验。",
+            "name": "露丝·潘吉里南（Ruth Pangilinan）",
+            "position": "运营"
+        },
+        "ruvan": {
+            "description": "鲁万（Ruvan）是一名后端软件工程师，他拥有加州州立大学长滩分校的计算机科学学士学位，并曾在SpaceX和Headspace担任软件工程之职。",
+            "name": "鲁万·贾亚辛哈（Ruvan Jayasinghe）",
+            "position": "高级软件工程师"
+        },
+        "yuan": {
+            "description": "自2014年起，原晶（Yuan Jing）女士就一直担任安盛集团的亚洲销售总监，并同时负责8个营销大区的管理和运营。 原女士从事葡萄酒行业已逾13年，并且曾在波尔多著名的葡萄酒庄之一担任过6年的亚洲销售经理，也曾在CIVB（波尔多葡萄酒行业协会）担任过1年的亚洲企业代表经理。原晶女士出生在位于亚洲的中国，但在位于欧洲的法国生活了长达17年的时间，而且在她回国后虽常驻北京，但每两个月就会去波尔多出差一次。因此，原晶女士不仅懂得如何欣赏葡萄酒文化，对葡萄酒本身亦抱有相当大的激情。",
+            "name": "原晶（Yuan Jing）",
+            "position": "男爵古堡亚洲销售总监"
+        }
+    },
+    "technology-platform": {
+        "alt-user-portfolio": "用户投资组合示例",
+        "our-technology": "我们的技术平台提供",
+        "smarter-way": "让人们以更睿智的方式获得这些机会，使大家能够更多地参与并创造财富"
+    },
+    "who-are-we": {
+        "alt-arrow": "箭头",
+        "alt-member": "Vinovest会员",
+        "answer-description": "我们由经验丰富的运营人员、软件工程师、设计师和数据科学家组成的优秀团队此前已成功创办、扩大并出售过数家风险投资公司。",
+        "answer-title": "Vinovest是一个由世界级葡萄酒专家和最优秀的技术人才组成的团队。",
+        "open-positions": "查看开放的职位!",
+        "title-question": "Vinovest团队简介"
+    },
+    "yuan": {
+        "description": "自2014年起，原晶（Yuan Jing）女士就一直担任安盛集团的亚洲销售总监，并同时负责8个营销大区的管理和运营。 原女士从事葡萄酒行业已逾13年，并且曾在波尔多著名的葡萄酒庄之一担任过6年的亚洲销售经理，也曾在CIVB（波尔多葡萄酒行业协会）担任过1年的亚洲企业代表经理。原晶女士出生在位于亚洲的中国，但在位于欧洲的法国生活了长达17年的时间，而且在她回国后虽常驻北京，但每两个月就会去波尔多出差一次。因此，原晶女士不仅懂得如何欣赏葡萄酒文化，对葡萄酒本身亦抱有相当大的激情。",
+        "name": "原晶（Yuan Jing）",
+        "position": "男爵古堡亚洲销售总监"
+    }
+}

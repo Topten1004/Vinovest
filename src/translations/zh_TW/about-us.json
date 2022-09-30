@@ -1,0 +1,200 @@
+{
+    "bannerTitle": "VINOVEST 理事會",
+    "barriers": {
+        "high-costs": "成本高",
+        "low-liquidity": "流動性低",
+        "low-volume": "小聲"
+    },
+    "book-button": {
+        "not-sure": "不確定哪種計劃最適合您？",
+        "talk-to-expert": "與葡萄酒投資者專家交談！",
+        "undecided": "未定？"
+    },
+    "entry-barrier": {
+        "barriers-high": "進入門檻高",
+        "gatekeepers": "今天，即使是那些擁有訪問權限的人也面臨著缺乏透明度、運營開銷和已建立的看門人的高額費用。這意味著成本高，交易量低，流動性選擇很少",
+        "quality-access": "優質訪問僅限於超級富豪"
+    },
+    "header": {
+        "description": "優質葡萄酒等替代資產長期以來一直是財富創造和保存的基石。",
+        "get-started": "開始",
+        "header": "揭開另類資產世界的神秘面紗，從美酒開始",
+        "meta-description": "在 Vinovest，我們正在揭開另類資產世界的神秘面紗，從優質葡萄酒開始。我們的技術平台為人們提供了一種更智能的方式來獲得這些機會，從而實現更多的參與和財富創造。",
+        "meta-title": "關於我們 | Vinovest葡萄酒投資平台"
+    },
+    "people": {
+        "adam": {
+            "description": "Adam 是一位經驗豐富的工程師，在 Rev.com 擁有工程和管理背景，在那裡他領導了一個全棧工程師團隊，負責構建公司的所有移動應用程序。他在德克薩斯大學奧斯汀分校獲得了計算機科學學士學位。",
+            "name": "亞當胡德",
+            "position": "軟件工程"
+        },
+        "anthony": {
+            "description": "Anthony 是一位重複創業者，他之前創立並出售了兩家公司 EnvoyNow 和 KnowYourVC。他還在 Blockfolio 擔任過領導職務，並且是 RateMyInvestor 的董事會成員。",
+            "name": "安東尼張",
+            "position": "聯合創始人、首席執行官"
+        },
+        "anuj": {
+            "description": "Anuj 的職業生涯始於軟件工程，但通過喬治城大學的 MBA 進入產品管理領域。在加入 Vinovest 之前，他曾在萬豪國際公司工作，擔任旗艦 Bonvoy 移動應用程序的電子商務產品經理。他還是 The Billion Dollar App 的作者，這是一本關於應用程序業務的書。",
+            "name": "阿努吉·馬哈詹",
+            "position": "產品經理"
+        },
+        "brent": {
+            "description": "Brent 是一位連續創業者，擁有近 20 年的 TrueCar、字節跳動等高級職位經驗。他領導了美國重新啟動\/重新設計 TikTok 應用程序，並且還是 Blockfolio 的設計總監。",
+            "name": "布倫特·阿卡敏",
+            "position": "聯合創始人"
+        },
+        "carissa": {
+            "description": "Carissa 於 2008 年在一家上市的日本葡萄酒公司開始她的職業生涯。她領導的團隊開發了進入中國的葡萄酒分銷渠道，並監督了香港和中國的幾家零售店。最近，她在一家英國葡萄酒投資公司工作了 4 年，為亞太地區的高淨值客戶管理價值超過 1000 萬美元的投資組合。她熱衷於美食和美酒搭配，並將自己的一生奉獻給葡萄酒行業。",
+            "name": "葉佳麗",
+            "position": "亞洲區總經理"
+        },
+        "conrad": {
+            "description": "Conrad 曾在 Grab Games、Headspace 擔任工程職務，並擔任 Wiblits 的首席技術官。他在南加州大學獲得了計算機科學學士學位。",
+            "name": "康拉德·庫斯",
+            "position": "軟件工程"
+        },
+        "david": {
+            "description": "David 學習經濟學，在投資和金融內容服務方面擁有多元化背景，曾為 The Motley Fool、TheStreet.com 和 SeekingAlpha 等出版物撰稿。在尋找替代資產作為對沖股票市場估值上漲的對沖之後，他對葡萄酒投資產生了興趣。",
+            "name": "大衛巴特勒",
+            "position": "社區管理員"
+        },
+        "dlynn": {
+            "description": "作為一名酒廠高管，DLynn 在過去十年中一直在 Penfolds Winery 和 Fantesca Estate & Winery 擔任全球領導職務，專注於進出口、銷售、營銷、戰略和消費者關係。在他職業生涯的前十年，DLynn 在建立餐廳和培訓計劃、餐廳和零售酒單以及擴大新場地運營方面發揮了重要作用，同時作為一名出色的侍酒師獲得了讚譽。",
+            "name": "DLynn 普羅克特",
+            "position": "顧問",
+            "positionInAdvisor": "FANTESCA 莊園和酒廠總監"
+        },
+        "dustin": {
+            "description": "達斯汀·威爾遜 (Dustin Wilson) 是侍酒大師，曾任米其林 3 星級餐廳 Eleven Madison Park 的葡萄酒總監。這種專業知識使他在廣受好評的葡萄酒紀錄片 SOMM 中擔任主角。",
+            "name": "達斯汀·威爾遜",
+            "position": "顧問",
+            "positionInAdvisor": "侍酒大師"
+        },
+        "edward": {
+            "description": "愛德華在費城郊區出生和長大，大學畢業後搬到紐約。他職業生涯的大部分時間都在從事數據密集型分析工作，但也曾作為一名一線廚師短暫（且有趣）地進入餐廳世界。",
+            "name": "鄭德華",
+            "position": "數據科學"
+        },
+        "elaine": {
+            "description": "Elaine 是我們在倫敦的投資組合顧問。她有投資背景，之前曾在英國的一家國際銀行工作過 5 年。她獲得了 WSET 2 級資格，目前正在完成她的 WSET 3 級並熱情地擁護 ESG 標準。她在香港長大，會說粵語。",
+            "name": "劉依蓮",
+            "position": "投資組合經理"
+        },
+        "ethan": {
+            "description": "Ethan 的職業生涯始於 Inspire Energy 的早期員工，在那裡他領導營銷和分析團隊。此後，他一直在 Headspace 和 AppFolio 擔任高級軟件工程職位。",
+            "name": "伊桑盧比奧",
+            "position": "軟件工程"
+        },
+        "hayk": {
+            "description": "海克在亞美尼亞山區出生和長大。他很早就開始處理模型，並在芝加哥的一家對沖基金擔任風險經理。他非常熱衷於分享他對金融市場的看法以及情緒如何從根本上推動它們。 Hayk 在亞美尼亞美國大學獲得了 MBA 學位，並且是特許金融分析師 ®。",
+            "name": "海克·格里戈里安",
+            "position": "數據科學"
+        },
+        "hogan": {
+            "description": "Hogan 是全球運營和技術領導者，曾為一些世界上最知名的平台提供服務。他在正確的時間為 Flipagram（通過收購現在的 TikTok\/字節跳動）、MTV\/Nickelodeon、eHarmony 和 Edmunds 等公司促成了正確的戰略變革。這些戰略舉措促成了先進的發展、運營增長和未來的持續成功。",
+            "name": "霍根李",
+            "position": "操作"
+        },
+        "hunter": {
+            "description": "Hunter 在精品葡萄酒和高端烈酒行業擁有豐富的經驗。他之前曾幫助世界各地的釀酒廠、釀酒廠和啤酒廠滿足生產設備的需求。",
+            "name": "亨特·羅比拉德",
+            "position": "銷售總監"
+        },
+        "ivan": {
+            "description": "Ivan 曾在投資銀行、共同基金公司和美國最大的葡萄酒和烈酒零售商之一擔任過職務，將他全面的經驗帶到了 Vinovest 的投資組合顧問團隊。他是另類資產的倡導者，很高興能夠追求他對葡萄酒和烈酒行業的熱情。 Ivan 擁有佛羅里達州立大學的金融學士學位。",
+            "name": "伊万·卡蘇托",
+            "position": "投資組合顧問"
+        },
+        "jane": {
+            "description": "Jane 是一名侍酒師，在紐約的 11 麥迪遜公園、納什維爾的 The Catbird Seat、芝加哥的 The Violet Hour 和墨爾本的 Attica 擁有豐富的經驗。她是通過侍酒師大師考試的不到 30 名女性之一，是一位出版作家，目前正在開發自己的進口公司，將澳大利亞葡萄酒帶到美國。",
+            "name": "簡·洛佩斯",
+            "position": "顧問",
+            "positionInAdvisor": "Attica 的葡萄酒總監"
+        },
+        "jenna": {
+            "description": "Jenna 是一名前端工程師，擁有為金融機構、電子商務、協會和高等教育等各個行業的客戶構建企業網站的背景。她擁有史蒂文森大學的商業信息系統學士學位。",
+            "name": "珍娜申克",
+            "position": "軟件工程"
+        },
+        "jennifer": {
+            "description": "Jennifer 是 BlackRock iShares 的創始團隊成員，負責領導損益、合作夥伴關係和營銷。她以優異的成績獲得了哥倫比亞商學院的 MBA 學位和斯坦福大學的榮譽學士學位。",
+            "name": "詹妮弗·格蘭西奧",
+            "position": "顧問",
+            "positionInAdvisor": "顧問"
+        },
+        "john": {
+            "description": "John 之前是 Visa 的用戶界面 (UI) 平台團隊的一名高級軟件工程師。他在前端、後端、構建系統和開發人員工具方面擁有豐富的經驗。",
+            "name": "約翰·沃倫",
+            "position": "軟件工程"
+        },
+        "jonathan": {
+            "description": "Jonathan 在新澤西出生和長大，曾在紐約多家知名餐廳工作，包括 Eleven Madison Park 擔任首席侍酒師，以及澳大利亞墨爾本 Rockpool Dining Group 的飲料總監。在任職期間，他為澳洲航空策劃了葡萄酒，並推出了自己的葡萄酒品牌 Micro Wines。喬納森是 2015 年侍酒師協會 TopSomm 冠軍，2017 年 9 月通過了侍酒師大師考試。",
+            "name": "喬納森·羅斯",
+            "position": "顧問",
+            "positionInAdvisor": "侍酒大師"
+        },
+        "lauren": {
+            "description": "自從離開奢華旅行的職業生涯後，Lauren 能夠通過完成侍酒大師法庭和 WSET 考試的部分來追求她對葡萄酒的真正熱情。去年秋天，她帶著這份熱情來到了俄勒岡州的威拉米特山谷，以便在著名的 Drouhin 家族的 2020 年收穫期間擔任助理釀酒師。",
+            "name": "勞倫·布萊徹",
+            "position": "投資組合顧問"
+        },
+        "lilian": {
+            "description": "十多年前，Lilian 決定在人力資源管理領域從事職業，希望促進公司與其員工之間更好的溝通和理解。她相信，當這種情況發生時，公司及其員工可以更有效地協作和共同創造，共同創造出偉大的作品。她作為人力資源業務合作夥伴和顧問為各個行業的中小型企業帶來了一系列經驗，這些企業在多州開展業務。",
+            "name": "馮莉蓮",
+            "position": "人力資源經理"
+        },
+        "liz": {
+            "description": "Liz 的職業生涯始於新奧爾良餐飲業的管理。在從卡特里娜颶風中流離失所後，她搬到了加利福尼亞州的阿納海姆，在那裡她對葡萄酒的熱愛得到了鞏固。她曾在歐洲酒窖和最近的威爾遜丹尼爾斯的葡萄酒業務、零售、分銷、進口\/供應商的各個方面工作。她畢生致力於研究葡萄酒，並通過了侍酒師大師文憑的所有部分。",
+            "name": "麗茲·道蒂·米切爾",
+            "position": "酒商"
+        },
+        "lorenzo": {
+            "description": "Lorenzo 之前曾在 MP Boston 從事房地產開發工作，並在銷售、運營和客戶成功方面擁有豐富的經驗。 Lorenzo 畢業於聖路易斯華盛頓大學並加入團隊擔任客戶關係經理，幫助管理我們數千名標準計劃客戶。他能說流利的法語和西班牙語，並且是所有食物和飲料的愛好者。",
+            "name": "洛倫佐·蘭皮蒂",
+            "position": "客戶關係經理"
+        },
+        "micah": {
+            "description": "Micah 的職業生涯始於摩根大通銀行的收藏家專家，她在 18 歲時成為最年輕的頂級收藏家。她曾管理過多個帳戶，並在一家幫助修改初創網站以吸引流量並享有良好聲譽的在線公司擔任代理首席執行官的職位。",
+            "name": "彌迦·奎安寶",
+            "position": "操作"
+        },
+        "robyn": {
+            "description": "Robyn 最初來自密爾沃基，是您所見過的最有組織、最受數據驅動的自由精神。在全球大流行之前，作為一名企業家，她幫助開發、推出和實施了娛樂和酒店行業的 16 個品牌。然後她來到 Bright Cellars，這讓她將自己對葡萄酒的熱愛與她的統計和客戶服務技能相結合，成為他們禮賓團隊中評價最高的專家。現在，她以數字游牧者的身份周遊世界，享受美酒、威士忌和冒險。 Robyn 擁有馬凱特大學的兩個醫學學位。",
+            "name": "羅賓·埃里克森",
+            "position": "客戶成功專家"
+        },
+        "ruth": {
+            "description": "露絲作為一名自由攝影師開始了她的職業生涯，工作了 10 年。然後，她開始向韓國和中國學生教授英語。目前，她喜歡提供技術服務和與客戶互動，以提供出色的客戶體驗。",
+            "name": "露絲·潘吉里南",
+            "position": "操作"
+        },
+        "ruvan": {
+            "description": "Ruvan 是一名後端軟件工程師，擁有加州州立大學長灘分校的計算機科學學士學位。他曾在 SpaceX 和 Headspace 擔任軟件工程職位。",
+            "name": "魯萬·賈亞辛哈",
+            "position": "高級軟件工程師"
+        },
+        "yuan": {
+            "description": "2014 年，Jing Yuan 被任命為 AXA Millésimes 的亞洲銷售總監，同時管理著 8 家酒店。她來自北京，在她 13 年的葡萄酒職業生涯中，每兩個月就會去一次波爾多。職業生涯亮點包括在重要的波爾多葡萄酒商擔任 6 年亞洲銷售經理，以及在 CIVB (Conseil Interprofessionel du Vin de Bordeaux) 擔任 1 年亞洲業務經理。出生在中國，在歐洲生活了 17 年，塑造了景對文化的欣賞和對葡萄酒的熱情。",
+            "name": "袁靜",
+            "position": "Chateau Pichon Baron 亞洲銷售總監"
+        }
+    },
+    "technology-platform": {
+        "alt-user-portfolio": "用戶組合示例",
+        "our-technology": "我們的技術平台提供",
+        "smarter-way": "一種讓人們獲得這些機會的更明智的方式，從而促進更多的參與和財富的創造"
+    },
+    "who-are-we": {
+        "alt-arrow": "箭",
+        "alt-member": "Vinovest 會員",
+        "answer-description": "我們由經驗豐富的操作員、軟件工程師、設計師和數據科學家組成的才華橫溢的團隊此前已經創辦、擴大和出售了多家風險投資公司。",
+        "answer-title": "Vinovest是一支由世界一流的葡萄酒專家和最優秀的技術人才組成的團隊。",
+        "open-positions": "查看空缺職位！",
+        "title-question": "我們是誰？"
+    },
+    "yuan": {
+        "description": "2014 年，Jing Yuan 被任命為 AXA Millésimes 的亞洲銷售總監，同時管理著 8 家酒店。她來自北京，在她 13 年的葡萄酒職業生涯中，每兩個月就會去一次波爾多。職業生涯亮點包括在重要的波爾多葡萄酒商擔任 6 年亞洲銷售經理，以及在 CIVB (Conseil Interprofessionel du Vin de Bordeaux) 擔任 1 年亞洲業務經理。出生在中國，在歐洲生活了 17 年，塑造了景對文化的欣賞和對葡萄酒的熱情。",
+        "name": "袁靜",
+        "position": "Chateau Pichon Baron 亞洲銷售總監"
+    }
+}
