@@ -34,7 +34,7 @@
         "@vx/scale": "0.0.192",
         "@vx/shape": "0.0.192",
         "@vx/tooltip": "0.0.192",
-        "algoliasearch": "^4.9.1",
+        "algoliasearch": "^4.14.2",
         "camelcase": "^5.3.1",
         "case-sensitive-paths-webpack-plugin": "2.3.0",
         "contentful": "^8.1.7",
